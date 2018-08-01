@@ -1,0 +1,13 @@
+'''
+Date: 2018.07.30
+Author: Cathy Zhang
+
+Dataset: 20newsgroup with heading footing and quotes
+Property: Fully supervised (should look into the 50% semi-supervised later on)
+Network Structure: [m, 20] + linear + relu + linear
+'''
+# define global variables
+save_PATH = 'saved_data/'
+save_filename = 'one_layer_supervised_relu'
+print(save_PATH)
+print(save_filename)
