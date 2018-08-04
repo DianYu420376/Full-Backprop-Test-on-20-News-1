@@ -8,11 +8,7 @@
 from sklearn.datasets import fetch_20newsgroups_vectorized
 from sklearn.feature_extraction.text import TfidfVectorizer
 import numpy as np
-from sklearn.naive_bayes import MultinomialNB
-from sklearn import metrics
 from matplotlib import pyplot as plt
-import Ipynb_importer
-from scipy.sparse import save_npz
 
 data = fetch_20newsgroups_vectorized(subset = 'all')
 
@@ -21,16 +17,17 @@ target = data.target
 target_names = data.target_names
 data = data.data
 
-save_npz('20news', data)
 
 
 # In[164]:
 
 
 # import package
+import sys
+package_dir = '../full_backprop_package'
+sys.path.append(package_dir)
 import torch
 from torch.autograd import Variable
-import Ipynb_importer
 from deep_nmf import Deep_NMF, Energy_Loss_Func
 from writer import Writer
 
@@ -162,68 +159,5 @@ Y = Y.get('Y').T
 # In[170]:
 
 
-# Defining the network structure
-m = data.shape[1]
-k1 = 200
-k2 = 20
-net = Deep_NMF([m,k2],20)
-loss_func = Energy_Loss_Func(lambd = 1, classification_type = 'L2')
 
-
-# In[159]:
-
-
-# # Training process!
-
-# # setting training parameters
-# epoch = 5
-# lr = 10
-# loss_lst = []
-# # train!
-# for epo in range(epoch):
-#     dataloader = torch.utils.data.DataLoader(dataset, batch_size = 5, shuffle = True)
-#     total_loss = 0
-#     for (i, (inputs, label,l_batch)) in enumerate(dataloader):
-#         t1 = time.time()
-#         inputs = inputs.view([inputs.shape[0], inputs.shape[2]])
-#         inputs, label = Variable(inputs), Variable(label)
-#         S_lst,pred = net(inputs)
-#         loss = loss_func(net, inputs, S_lst,pred,label.view([label.shape[0], -1]),l_batch.view([l_batch.shape[0], -1]))
-#         loss.backward()
-#         loss_lst.append(loss.data)
-#         t2 = time.time()
-#         total_loss += loss.data
-#         print(loss.data)
-#         for A in net.parameters():
-#             A.data = A.data.sub_(lr*A.grad.data)
-#             A.data = A.data.clamp(min = 0)
-#     print('epoch = ', epo, '\n', total_loss)
-
-
-# In[162]:
-
-
-def get_whole_output(net, dataset, param_lst = None):
-    history = Writer()
-    # initialize the network with certain initial value
-    if param_lst is not None:
-        for (i,param) in enumerate(net.parameters()):
-            param.data = param_lst[i]
-    # start to forward propagate, 100 at a time
-    n = len(dataset)
-    if n%100 == 0:
-        batch_num = n/100
-    else:
-        batch_num = n//100 + 1
-    print('batch_num = ', batch_num, '\n')
-    for i in range(batch_num):
-        print('current at batch:', i)
-        try:
-            (inputs, label) = dataset[i*100:(i+1)*100]
-        except:
-            (inputs, label) = dataset[i*100:]
-        history.add_tensor('label', label)
-        output = net(inputs)
-        history.add_tensor('output', output)
-    return history
 

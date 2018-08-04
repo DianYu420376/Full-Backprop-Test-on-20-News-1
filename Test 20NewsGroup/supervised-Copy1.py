@@ -17,6 +17,8 @@ save_filename = 'supervised_one_layer_pinv_run2'
 
 # import package
 import sys
+package_dir = '../full_backprop_package'
+sys.path.append(package_dir)
 import torch
 from torch.autograd import Variable
 import Ipynb_importer
