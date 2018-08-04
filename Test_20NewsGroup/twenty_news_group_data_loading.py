@@ -23,14 +23,8 @@ data = data.data
 
 
 # import package
-import sys
-package_dir = '../full_backprop_package'
-sys.path.append(package_dir)
 import torch
 from torch.autograd import Variable
-from deep_nmf import Deep_NMF, Energy_Loss_Func
-from writer import Writer
-
 
 # In[165]:
 

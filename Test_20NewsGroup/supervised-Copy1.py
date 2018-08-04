@@ -21,7 +21,6 @@ package_dir = '../full_backprop_package'
 sys.path.append(package_dir)
 import torch
 from torch.autograd import Variable
-import Ipynb_importer
 from deep_nmf import Deep_NMF, Energy_Loss_Func, Fro_Norm
 from writer import Writer
 from matplotlib import pyplot as plt

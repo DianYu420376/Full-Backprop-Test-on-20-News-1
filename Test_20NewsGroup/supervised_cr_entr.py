@@ -15,7 +15,8 @@ save_filename = 'one_layer_supervised_cr_entr'
 
 
 import sys
-# sys.path.append('/home/dianyu/Lyme Disease/Full Backprop Package')
+package_dir = '../full_backprop_package/'
+sys.path.append(package_dir)
 
 
 # In[135]:
