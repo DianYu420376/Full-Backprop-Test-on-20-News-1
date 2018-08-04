@@ -1,0 +1,129 @@
+current at batch: 1 tensor(11.3854, dtype=torch.float64)
+20.995444297790527
+current at batch: 2 tensor(11.4377, dtype=torch.float64)
+9.072037935256958
+current at batch: 3 tensor(11.4429, dtype=torch.float64)
+8.802900075912476
+current at batch: 4 tensor(11.4831, dtype=torch.float64)
+8.92549204826355
+current at batch: 5 tensor(11.3685, dtype=torch.float64)
+8.824237823486328
+current at batch: 6 tensor(11.3412, dtype=torch.float64)
+8.611809253692627
+current at batch: 7 tensor(11.1812, dtype=torch.float64)
+8.682482481002808
+current at batch: 8 tensor(11.1767, dtype=torch.float64)
+8.615453004837036
+current at batch: 9 tensor(11.0900, dtype=torch.float64)
+8.472869873046875
+current at batch: 10 tensor(11.0098, dtype=torch.float64)
+7.8541419506073
+current at batch: 11 tensor(10.8493, dtype=torch.float64)
+8.030763864517212
+current at batch: 12 tensor(10.8269, dtype=torch.float64)
+8.036006689071655
+current at batch: 13 tensor(10.7016, dtype=torch.float64)
+7.483799695968628
+current at batch: 14 tensor(10.3571, dtype=torch.float64)
+7.245542526245117
+current at batch: 15 tensor(10.4878, dtype=torch.float64)
+7.207729339599609
+current at batch: 16 tensor(10.1944, dtype=torch.float64)
+6.951247453689575
+current at batch: 17 tensor(10.3064, dtype=torch.float64)
+6.950260162353516
+current at batch: 18 tensor(10.0319, dtype=torch.float64)
+6.906937837600708
+current at batch: 19 tensor(9.9243, dtype=torch.float64)
+6.311191082000732
+current at batch: 20 tensor(9.9601, dtype=torch.float64)
+6.356736421585083
+current at batch: 21 tensor(9.6516, dtype=torch.float64)
+6.512212753295898
+current at batch: 22 tensor(9.7091, dtype=torch.float64)
+6.273610591888428
+current at batch: 23 tensor(9.3392, dtype=torch.float64)
+6.236310005187988
+current at batch: 24 tensor(9.5058, dtype=torch.float64)
+6.140225648880005
+current at batch: 25 tensor(9.3877, dtype=torch.float64)
+6.059034109115601
+current at batch: 26 tensor(9.2647, dtype=torch.float64)
+6.815040349960327
+current at batch: 27 tensor(9.5356, dtype=torch.float64)
+7.05539345741272
+current at batch: 28 tensor(8.8488, dtype=torch.float64)
+7.012027740478516
+current at batch: 29 tensor(9.3984, dtype=torch.float64)
+6.9934797286987305
+current at batch: 30 tensor(9.1427, dtype=torch.float64)
+6.726195335388184
+current at batch: 31 tensor(9.1173, dtype=torch.float64)
+6.952682971954346
+current at batch: 32 tensor(9.0595, dtype=torch.float64)
+7.291152238845825
+current at batch: 33 tensor(9.0517, dtype=torch.float64)
+7.436954021453857
+current at batch: 34 tensor(8.7852, dtype=torch.float64)
+7.0692033767700195
+current at batch: 35 tensor(8.9341, dtype=torch.float64)
+7.1890130043029785
+current at batch: 36 tensor(8.9171, dtype=torch.float64)
+7.188166856765747
+current at batch: 37 tensor(8.8357, dtype=torch.float64)
+7.241660118103027
+current at batch: 38 tensor(9.3812, dtype=torch.float64)
+7.377012014389038
+current at batch: 39 tensor(9.1831, dtype=torch.float64)
+6.837005853652954
+current at batch: 40 tensor(9.1451, dtype=torch.float64)
+7.459460735321045
+current at batch: 41 tensor(8.9177, dtype=torch.float64)
+7.361874103546143
+current at batch: 42 tensor(8.8313, dtype=torch.float64)
+7.912532091140747
+current at batch: 43 tensor(8.4990, dtype=torch.float64)
+7.631500959396362
+current at batch: 44 tensor(8.6873, dtype=torch.float64)
+7.469572067260742
+current at batch: 45 tensor(8.7117, dtype=torch.float64)
+8.274047613143921
+current at batch: 46 tensor(8.5827, dtype=torch.float64)
+8.036539077758789
+current at batch: 47 tensor(8.7326, dtype=torch.float64)
+8.343936443328857
+current at batch: 48 tensor(8.5552, dtype=torch.float64)
+8.835561275482178
+current at batch: 49 tensor(8.8970, dtype=torch.float64)
+7.371802568435669
+current at batch: 50 tensor(8.4737, dtype=torch.float64)
+8.143646955490112
+current at batch: 51 tensor(8.5549, dtype=torch.float64)
+7.975963354110718
+current at batch: 52 tensor(9.0040, dtype=torch.float64)
+8.315239429473877
+current at batch: 53 tensor(9.0835, dtype=torch.float64)
+8.424151182174683
+current at batch: 54 tensor(8.6822, dtype=torch.float64)
+8.300824642181396
+current at batch: 55 tensor(8.7423, dtype=torch.float64)
+8.280364513397217
+current at batch: 56 tensor(8.7684, dtype=torch.float64)
+8.372246980667114
+current at batch: 57 tensor(8.6517, dtype=torch.float64)
+8.368825435638428
+current at batch: 58 tensor(8.5662, dtype=torch.float64)
+8.371597290039062
+current at batch: 59 tensor(8.1186, dtype=torch.float64)
+8.854033708572388
+current at batch: 60 tensor(8.6460, dtype=torch.float64)
+8.806142091751099
+current at batch: 61 tensor(8.6047, dtype=torch.float64)
+9.353911638259888
+current at batch: 62 tensor(8.7678, dtype=torch.float64)
+8.819206953048706
+current at batch: 63 tensor(8.7376, dtype=torch.float64)
+8.846192836761475
+current at batch: 64 tensor(8.3564, dtype=torch.float64)
+8.746243238449097
+current at batch: 65 tensor(8.9869, dtype=torch.float64)

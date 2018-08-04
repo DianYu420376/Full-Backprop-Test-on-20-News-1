@@ -16,7 +16,7 @@ save_filename = 'supervised_one_layer_pinv_run2'
 
 
 # import package
-get_ipython().run_line_magic('load_ext', 'memory_profiler')
+import sys
 import torch
 from torch.autograd import Variable
 import Ipynb_importer
@@ -65,8 +65,8 @@ pinv = PinvF.apply
 # Training process!
 import time
 # setting training parameters
-batchsize = 40
-epoch = 5
+batchsize = 100
+epoch = 8
 lr = 5000
 lr_nmf = 5000
 lr_cl = 5000
@@ -92,6 +92,7 @@ for epo in range(epoch):
         loss_lst.append(loss.data)
         total_loss += loss.data
         print('current at batch:', i+1, loss.data)
+        sys.stdout.flush()
         t2 = time.time()
         print(t2 - t1)
         for A in net.parameters():
@@ -123,6 +124,7 @@ np.savez(save_PATH + save_filename,
 history = Writer()
 for A in net.parameters():
     A.requires_grad = False
+# should be changed
 n = 18846
 for i in range(n):
     if (i+1)%100 == 0:
@@ -159,5 +161,5 @@ Y_pred = S_np@(inv_S@Y_sub)
 # In[172]:
 
 
-sum(np.argmax(Y_pred,1) == np.argmax(Y_sub,1))/n
+print(np.sum(np.argmax(Y_pred,1) == np.argmax(Y_sub,1))/n)
 
