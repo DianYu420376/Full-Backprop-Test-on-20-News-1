@@ -8,7 +8,7 @@
 Trying out cross entropy version
 '''
 save_PATH = 'saved_data/'
-save_filename = 'one_layer_supervised_cr_entr'
+save_filename = 'supervised_one_layer_cr_entr'
 
 
 # In[134]:
