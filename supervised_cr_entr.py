@@ -14,7 +14,7 @@ save_filename = 'one_layer_supervised_cr_entr'
 # In[134]:
 
 
-# import sys
+import sys
 # sys.path.append('/home/dianyu/Lyme Disease/Full Backprop Package')
 
 
@@ -68,10 +68,11 @@ for epo in range(epoch):
         S = net(inputs)
         pred = torch.mm(S, W)
 
-        loss1 = cr1(inputs, torch.mm(S, net.A))
+        #loss1 = cr1(inputs, torch.mm(S, net.A))
         loss2 = cr2(pred, label)
         loss = lambd*loss2# + loss1
-        print(loss, loss1, loss2)
+        print(loss.data)
+        sys.stdout.flush()
         loss_lst.append(loss.data)
         loss.backward()
         net.A.data = net.A.data.sub_(lr*net.A.grad.data)
