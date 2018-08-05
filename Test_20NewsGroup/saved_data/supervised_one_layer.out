@@ -1,0 +1,728 @@
+training the nmf layer
+tensor(12.6809, dtype=torch.float64)
+training the nmf layer
+tensor(12.6804, dtype=torch.float64)
+training the nmf layer
+tensor(12.6795, dtype=torch.float64)
+training the nmf layer
+tensor(12.6778, dtype=torch.float64)
+training the nmf layer
+tensor(12.6746, dtype=torch.float64)
+training the nmf layer
+tensor(12.6691, dtype=torch.float64)
+training the nmf layer
+tensor(12.6614, dtype=torch.float64)
+training the nmf layer
+tensor(12.6490, dtype=torch.float64)
+training the nmf layer
+tensor(12.6324, dtype=torch.float64)
+training the nmf layer
+tensor(12.6085, dtype=torch.float64)
+epoch =  0 
+ tensor(126.6136, dtype=torch.float64)
+training the nmf layer
+tensor(12.5698, dtype=torch.float64)
+training the nmf layer
+tensor(12.5168, dtype=torch.float64)
+training the nmf layer
+tensor(12.4415, dtype=torch.float64)
+training the nmf layer
+tensor(12.3327, dtype=torch.float64)
+training the nmf layer
+tensor(12.1898, dtype=torch.float64)
+training the nmf layer
+tensor(11.9993, dtype=torch.float64)
+training the nmf layer
+tensor(11.7614, dtype=torch.float64)
+training the nmf layer
+tensor(11.4796, dtype=torch.float64)
+training the nmf layer
+tensor(11.1519, dtype=torch.float64)
+training the nmf layer
+tensor(10.8664, dtype=torch.float64)
+epoch =  1 
+ tensor(119.3092, dtype=torch.float64)
+training the nmf layer
+tensor(10.5898, dtype=torch.float64)
+training the nmf layer
+tensor(10.3533, dtype=torch.float64)
+training the nmf layer
+tensor(10.0910, dtype=torch.float64)
+training the nmf layer
+tensor(9.9902, dtype=torch.float64)
+training the nmf layer
+tensor(9.9023, dtype=torch.float64)
+training the nmf layer
+tensor(9.8791, dtype=torch.float64)
+training the nmf layer
+tensor(9.7845, dtype=torch.float64)
+training the nmf layer
+tensor(9.7770, dtype=torch.float64)
+training the nmf layer
+tensor(9.7800, dtype=torch.float64)
+training the nmf layer
+tensor(9.7938, dtype=torch.float64)
+epoch =  2 
+ tensor(99.9410, dtype=torch.float64)
+training the nmf layer
+tensor(9.7184, dtype=torch.float64)
+training the nmf layer
+tensor(9.7121, dtype=torch.float64)
+training the nmf layer
+tensor(9.7317, dtype=torch.float64)
+training the nmf layer
+tensor(9.7341, dtype=torch.float64)
+training the nmf layer
+tensor(9.7962, dtype=torch.float64)
+training the nmf layer
+tensor(9.7049, dtype=torch.float64)
+training the nmf layer
+tensor(9.6920, dtype=torch.float64)
+training the nmf layer
+tensor(9.7030, dtype=torch.float64)
+training the nmf layer
+tensor(9.7915, dtype=torch.float64)
+training the nmf layer
+tensor(9.6792, dtype=torch.float64)
+epoch =  3 
+ tensor(97.2632, dtype=torch.float64)
+training the nmf layer
+tensor(9.7010, dtype=torch.float64)
+training the nmf layer
+tensor(9.7242, dtype=torch.float64)
+training the nmf layer
+tensor(9.7537, dtype=torch.float64)
+training the nmf layer
+tensor(9.7009, dtype=torch.float64)
+training the nmf layer
+tensor(9.6542, dtype=torch.float64)
+training the nmf layer
+tensor(9.7610, dtype=torch.float64)
+training the nmf layer
+tensor(9.7678, dtype=torch.float64)
+training the nmf layer
+tensor(9.7224, dtype=torch.float64)
+training the nmf layer
+tensor(9.7363, dtype=torch.float64)
+training the nmf layer
+tensor(9.7416, dtype=torch.float64)
+epoch =  4 
+ tensor(97.2632, dtype=torch.float64)
+training the nmf layer
+tensor(9.7099, dtype=torch.float64)
+training the nmf layer
+tensor(9.6744, dtype=torch.float64)
+training the nmf layer
+tensor(9.7058, dtype=torch.float64)
+training the nmf layer
+tensor(9.7374, dtype=torch.float64)
+training the nmf layer
+tensor(9.6628, dtype=torch.float64)
+training the nmf layer
+tensor(9.7135, dtype=torch.float64)
+training the nmf layer
+tensor(9.7751, dtype=torch.float64)
+training the nmf layer
+tensor(9.7631, dtype=torch.float64)
+training the nmf layer
+tensor(9.7938, dtype=torch.float64)
+training the nmf layer
+tensor(9.7064, dtype=torch.float64)
+epoch =  5 
+ tensor(97.2422, dtype=torch.float64)
+training the nmf layer
+tensor(9.7244, dtype=torch.float64)
+training the nmf layer
+tensor(9.7254, dtype=torch.float64)
+training the nmf layer
+tensor(9.6719, dtype=torch.float64)
+training the nmf layer
+tensor(9.7000, dtype=torch.float64)
+training the nmf layer
+tensor(9.7787, dtype=torch.float64)
+training the nmf layer
+tensor(9.7574, dtype=torch.float64)
+training the nmf layer
+tensor(9.7429, dtype=torch.float64)
+training the nmf layer
+tensor(9.7095, dtype=torch.float64)
+training the nmf layer
+tensor(9.7135, dtype=torch.float64)
+training the nmf layer
+tensor(9.7317, dtype=torch.float64)
+epoch =  6 
+ tensor(97.2555, dtype=torch.float64)
+training the nmf layer
+tensor(9.7400, dtype=torch.float64)
+training the nmf layer
+tensor(9.7792, dtype=torch.float64)
+training the nmf layer
+tensor(9.6984, dtype=torch.float64)
+training the nmf layer
+tensor(9.7017, dtype=torch.float64)
+training the nmf layer
+tensor(9.7143, dtype=torch.float64)
+training the nmf layer
+tensor(9.6957, dtype=torch.float64)
+training the nmf layer
+tensor(9.7789, dtype=torch.float64)
+training the nmf layer
+tensor(9.6662, dtype=torch.float64)
+training the nmf layer
+tensor(9.7284, dtype=torch.float64)
+training the nmf layer
+tensor(9.7822, dtype=torch.float64)
+epoch =  7 
+ tensor(97.2850, dtype=torch.float64)
+training the nmf layer
+tensor(9.7586, dtype=torch.float64)
+training the nmf layer
+tensor(9.6918, dtype=torch.float64)
+training the nmf layer
+tensor(9.6790, dtype=torch.float64)
+training the nmf layer
+tensor(9.7674, dtype=torch.float64)
+training the nmf layer
+tensor(9.7312, dtype=torch.float64)
+training the nmf layer
+tensor(9.7173, dtype=torch.float64)
+training the nmf layer
+tensor(9.7484, dtype=torch.float64)
+training the nmf layer
+tensor(9.7123, dtype=torch.float64)
+training the nmf layer
+tensor(9.7021, dtype=torch.float64)
+training the nmf layer
+tensor(9.7698, dtype=torch.float64)
+epoch =  8 
+ tensor(97.2779, dtype=torch.float64)
+training the nmf layer
+tensor(9.6619, dtype=torch.float64)
+training the nmf layer
+tensor(9.7272, dtype=torch.float64)
+training the nmf layer
+tensor(9.7902, dtype=torch.float64)
+training the nmf layer
+tensor(9.7035, dtype=torch.float64)
+training the nmf layer
+tensor(9.6809, dtype=torch.float64)
+training the nmf layer
+tensor(9.7292, dtype=torch.float64)
+training the nmf layer
+tensor(9.7569, dtype=torch.float64)
+training the nmf layer
+tensor(9.7428, dtype=torch.float64)
+training the nmf layer
+tensor(9.7490, dtype=torch.float64)
+training the nmf layer
+tensor(9.6910, dtype=torch.float64)
+epoch =  9 
+ tensor(97.2326, dtype=torch.float64)
+training the nmf layer
+tensor(9.7439, dtype=torch.float64)
+training the nmf layer
+tensor(9.6702, dtype=torch.float64)
+training the nmf layer
+tensor(9.7565, dtype=torch.float64)
+training the nmf layer
+tensor(9.7249, dtype=torch.float64)
+training the nmf layer
+tensor(9.7313, dtype=torch.float64)
+training the nmf layer
+tensor(9.7027, dtype=torch.float64)
+training the nmf layer
+tensor(9.7189, dtype=torch.float64)
+training the nmf layer
+tensor(9.7532, dtype=torch.float64)
+training the nmf layer
+tensor(9.7338, dtype=torch.float64)
+training the nmf layer
+tensor(9.7041, dtype=torch.float64)
+epoch =  10 
+ tensor(97.2394, dtype=torch.float64)
+training the nmf layer
+tensor(9.7209, dtype=torch.float64)
+training the nmf layer
+tensor(9.7631, dtype=torch.float64)
+training the nmf layer
+tensor(9.7133, dtype=torch.float64)
+training the nmf layer
+tensor(9.6990, dtype=torch.float64)
+training the nmf layer
+tensor(9.7237, dtype=torch.float64)
+training the nmf layer
+tensor(9.7479, dtype=torch.float64)
+training the nmf layer
+tensor(9.7082, dtype=torch.float64)
+training the nmf layer
+tensor(9.7465, dtype=torch.float64)
+training the nmf layer
+tensor(9.7358, dtype=torch.float64)
+training the nmf layer
+tensor(9.6505, dtype=torch.float64)
+epoch =  11 
+ tensor(97.2089, dtype=torch.float64)
+training the nmf layer
+tensor(9.6861, dtype=torch.float64)
+training the nmf layer
+tensor(9.7162, dtype=torch.float64)
+training the nmf layer
+tensor(9.6648, dtype=torch.float64)
+training the nmf layer
+tensor(9.7487, dtype=torch.float64)
+training the nmf layer
+tensor(9.7376, dtype=torch.float64)
+training the nmf layer
+tensor(9.7251, dtype=torch.float64)
+training the nmf layer
+tensor(9.7513, dtype=torch.float64)
+training the nmf layer
+tensor(9.7764, dtype=torch.float64)
+training the nmf layer
+tensor(9.6969, dtype=torch.float64)
+training the nmf layer
+tensor(9.7813, dtype=torch.float64)
+epoch =  12 
+ tensor(97.2843, dtype=torch.float64)
+training the nmf layer
+tensor(9.6648, dtype=torch.float64)
+training the nmf layer
+tensor(9.7432, dtype=torch.float64)
+training the nmf layer
+tensor(9.7324, dtype=torch.float64)
+training the nmf layer
+tensor(9.7153, dtype=torch.float64)
+training the nmf layer
+tensor(9.6957, dtype=torch.float64)
+training the nmf layer
+tensor(9.7118, dtype=torch.float64)
+training the nmf layer
+tensor(9.7300, dtype=torch.float64)
+training the nmf layer
+tensor(9.7496, dtype=torch.float64)
+training the nmf layer
+tensor(9.7837, dtype=torch.float64)
+training the nmf layer
+tensor(9.7242, dtype=torch.float64)
+epoch =  13 
+ tensor(97.2507, dtype=torch.float64)
+training the nmf layer
+tensor(9.7525, dtype=torch.float64)
+training the nmf layer
+tensor(9.7065, dtype=torch.float64)
+training the nmf layer
+tensor(9.7228, dtype=torch.float64)
+training the nmf layer
+tensor(9.6871, dtype=torch.float64)
+training the nmf layer
+tensor(9.7332, dtype=torch.float64)
+training the nmf layer
+tensor(9.7669, dtype=torch.float64)
+training the nmf layer
+tensor(9.7177, dtype=torch.float64)
+training the nmf layer
+tensor(9.7485, dtype=torch.float64)
+training the nmf layer
+tensor(9.7147, dtype=torch.float64)
+training the nmf layer
+tensor(9.6691, dtype=torch.float64)
+epoch =  14 
+ tensor(97.2191, dtype=torch.float64)
+training the nmf layer
+tensor(9.7048, dtype=torch.float64)
+training the nmf layer
+tensor(9.7476, dtype=torch.float64)
+training the nmf layer
+tensor(9.6907, dtype=torch.float64)
+training the nmf layer
+tensor(9.7317, dtype=torch.float64)
+training the nmf layer
+tensor(9.7398, dtype=torch.float64)
+training the nmf layer
+tensor(9.7927, dtype=torch.float64)
+training the nmf layer
+tensor(9.7018, dtype=torch.float64)
+training the nmf layer
+tensor(9.6722, dtype=torch.float64)
+training the nmf layer
+tensor(9.7307, dtype=torch.float64)
+training the nmf layer
+tensor(9.7589, dtype=torch.float64)
+epoch =  15 
+ tensor(97.2710, dtype=torch.float64)
+training the nmf layer
+tensor(9.7103, dtype=torch.float64)
+training the nmf layer
+tensor(9.7370, dtype=torch.float64)
+training the nmf layer
+tensor(9.6773, dtype=torch.float64)
+training the nmf layer
+tensor(9.7193, dtype=torch.float64)
+training the nmf layer
+tensor(9.7457, dtype=torch.float64)
+training the nmf layer
+tensor(9.7503, dtype=torch.float64)
+training the nmf layer
+tensor(9.7180, dtype=torch.float64)
+training the nmf layer
+tensor(9.7314, dtype=torch.float64)
+training the nmf layer
+tensor(9.7016, dtype=torch.float64)
+training the nmf layer
+tensor(9.8089, dtype=torch.float64)
+epoch =  16 
+ tensor(97.2999, dtype=torch.float64)
+training the nmf layer
+tensor(9.7189, dtype=torch.float64)
+training the nmf layer
+tensor(9.7467, dtype=torch.float64)
+training the nmf layer
+tensor(9.7191, dtype=torch.float64)
+training the nmf layer
+tensor(9.6597, dtype=torch.float64)
+training the nmf layer
+tensor(9.7451, dtype=torch.float64)
+training the nmf layer
+tensor(9.7277, dtype=torch.float64)
+training the nmf layer
+tensor(9.7634, dtype=torch.float64)
+training the nmf layer
+tensor(9.7185, dtype=torch.float64)
+training the nmf layer
+tensor(9.7249, dtype=torch.float64)
+training the nmf layer
+tensor(9.7295, dtype=torch.float64)
+epoch =  17 
+ tensor(97.2536, dtype=torch.float64)
+training the nmf layer
+tensor(9.7245, dtype=torch.float64)
+training the nmf layer
+tensor(9.7315, dtype=torch.float64)
+training the nmf layer
+tensor(9.7025, dtype=torch.float64)
+training the nmf layer
+tensor(9.7650, dtype=torch.float64)
+training the nmf layer
+tensor(9.7292, dtype=torch.float64)
+training the nmf layer
+tensor(9.7136, dtype=torch.float64)
+training the nmf layer
+tensor(9.7461, dtype=torch.float64)
+training the nmf layer
+tensor(9.6983, dtype=torch.float64)
+training the nmf layer
+tensor(9.7181, dtype=torch.float64)
+training the nmf layer
+tensor(9.7186, dtype=torch.float64)
+epoch =  18 
+ tensor(97.2473, dtype=torch.float64)
+training the nmf layer
+tensor(9.7281, dtype=torch.float64)
+training the nmf layer
+tensor(9.7017, dtype=torch.float64)
+training the nmf layer
+tensor(9.7278, dtype=torch.float64)
+training the nmf layer
+tensor(9.7519, dtype=torch.float64)
+training the nmf layer
+tensor(9.7644, dtype=torch.float64)
+training the nmf layer
+tensor(9.7261, dtype=torch.float64)
+training the nmf layer
+tensor(9.6760, dtype=torch.float64)
+training the nmf layer
+tensor(9.7578, dtype=torch.float64)
+training the nmf layer
+tensor(9.7035, dtype=torch.float64)
+training the nmf layer
+tensor(9.6978, dtype=torch.float64)
+epoch =  19 
+ tensor(97.2352, dtype=torch.float64)
+training the nmf layer
+tensor(9.7152, dtype=torch.float64)
+training the nmf layer
+tensor(9.7390, dtype=torch.float64)
+training the nmf layer
+tensor(9.7340, dtype=torch.float64)
+training the nmf layer
+tensor(9.7240, dtype=torch.float64)
+training the nmf layer
+tensor(9.7109, dtype=torch.float64)
+training the nmf layer
+tensor(9.7537, dtype=torch.float64)
+training the nmf layer
+tensor(9.7928, dtype=torch.float64)
+training the nmf layer
+tensor(9.6786, dtype=torch.float64)
+training the nmf layer
+tensor(9.6747, dtype=torch.float64)
+training the nmf layer
+tensor(9.7312, dtype=torch.float64)
+epoch =  20 
+ tensor(97.2541, dtype=torch.float64)
+training the nmf layer
+tensor(9.7317, dtype=torch.float64)
+training the nmf layer
+tensor(9.7425, dtype=torch.float64)
+training the nmf layer
+tensor(9.7263, dtype=torch.float64)
+training the nmf layer
+tensor(9.7199, dtype=torch.float64)
+training the nmf layer
+tensor(9.7427, dtype=torch.float64)
+training the nmf layer
+tensor(9.7335, dtype=torch.float64)
+training the nmf layer
+tensor(9.7577, dtype=torch.float64)
+training the nmf layer
+tensor(9.7222, dtype=torch.float64)
+training the nmf layer
+tensor(9.6636, dtype=torch.float64)
+training the nmf layer
+tensor(9.6908, dtype=torch.float64)
+epoch =  21 
+ tensor(97.2309, dtype=torch.float64)
+training the nmf layer
+tensor(9.7543, dtype=torch.float64)
+training the nmf layer
+tensor(9.7350, dtype=torch.float64)
+training the nmf layer
+tensor(9.6770, dtype=torch.float64)
+training the nmf layer
+tensor(9.6625, dtype=torch.float64)
+training the nmf layer
+tensor(9.7227, dtype=torch.float64)
+training the nmf layer
+tensor(9.7971, dtype=torch.float64)
+training the nmf layer
+tensor(9.6828, dtype=torch.float64)
+training the nmf layer
+tensor(9.7208, dtype=torch.float64)
+training the nmf layer
+tensor(9.7674, dtype=torch.float64)
+training the nmf layer
+tensor(9.7395, dtype=torch.float64)
+epoch =  22 
+ tensor(97.2591, dtype=torch.float64)
+training the nmf layer
+tensor(9.7333, dtype=torch.float64)
+training the nmf layer
+tensor(9.7060, dtype=torch.float64)
+training the nmf layer
+tensor(9.6895, dtype=torch.float64)
+training the nmf layer
+tensor(9.7779, dtype=torch.float64)
+training the nmf layer
+tensor(9.7210, dtype=torch.float64)
+training the nmf layer
+tensor(9.7224, dtype=torch.float64)
+training the nmf layer
+tensor(9.7257, dtype=torch.float64)
+training the nmf layer
+tensor(9.7434, dtype=torch.float64)
+training the nmf layer
+tensor(9.7034, dtype=torch.float64)
+training the nmf layer
+tensor(9.7303, dtype=torch.float64)
+epoch =  23 
+ tensor(97.2529, dtype=torch.float64)
+training the nmf layer
+tensor(9.6986, dtype=torch.float64)
+training the nmf layer
+tensor(9.7468, dtype=torch.float64)
+training the nmf layer
+tensor(9.7211, dtype=torch.float64)
+training the nmf layer
+tensor(9.7382, dtype=torch.float64)
+training the nmf layer
+tensor(9.7544, dtype=torch.float64)
+training the nmf layer
+tensor(9.7909, dtype=torch.float64)
+training the nmf layer
+tensor(9.7262, dtype=torch.float64)
+training the nmf layer
+tensor(9.7201, dtype=torch.float64)
+training the nmf layer
+tensor(9.6541, dtype=torch.float64)
+training the nmf layer
+tensor(9.6662, dtype=torch.float64)
+epoch =  24 
+ tensor(97.2165, dtype=torch.float64)
+training the nmf layer
+tensor(9.6913, dtype=torch.float64)
+training the nmf layer
+tensor(9.7782, dtype=torch.float64)
+training the nmf layer
+tensor(9.7470, dtype=torch.float64)
+training the nmf layer
+tensor(9.7169, dtype=torch.float64)
+training the nmf layer
+tensor(9.6801, dtype=torch.float64)
+training the nmf layer
+tensor(9.7430, dtype=torch.float64)
+training the nmf layer
+tensor(9.7440, dtype=torch.float64)
+training the nmf layer
+tensor(9.6853, dtype=torch.float64)
+training the nmf layer
+tensor(9.7227, dtype=torch.float64)
+training the nmf layer
+tensor(9.7637, dtype=torch.float64)
+epoch =  25 
+ tensor(97.2722, dtype=torch.float64)
+training the nmf layer
+tensor(9.6963, dtype=torch.float64)
+training the nmf layer
+tensor(9.7412, dtype=torch.float64)
+training the nmf layer
+tensor(9.6749, dtype=torch.float64)
+training the nmf layer
+tensor(9.7557, dtype=torch.float64)
+training the nmf layer
+tensor(9.7097, dtype=torch.float64)
+training the nmf layer
+tensor(9.7819, dtype=torch.float64)
+training the nmf layer
+tensor(9.7381, dtype=torch.float64)
+training the nmf layer
+tensor(9.7186, dtype=torch.float64)
+training the nmf layer
+tensor(9.7444, dtype=torch.float64)
+training the nmf layer
+tensor(9.6398, dtype=torch.float64)
+epoch =  26 
+ tensor(97.2007, dtype=torch.float64)
+training the nmf layer
+tensor(9.7436, dtype=torch.float64)
+training the nmf layer
+tensor(9.7028, dtype=torch.float64)
+training the nmf layer
+tensor(9.7524, dtype=torch.float64)
+training the nmf layer
+tensor(9.7374, dtype=torch.float64)
+training the nmf layer
+tensor(9.7322, dtype=torch.float64)
+training the nmf layer
+tensor(9.7382, dtype=torch.float64)
+training the nmf layer
+tensor(9.6859, dtype=torch.float64)
+training the nmf layer
+tensor(9.7190, dtype=torch.float64)
+training the nmf layer
+tensor(9.7135, dtype=torch.float64)
+training the nmf layer
+tensor(9.7231, dtype=torch.float64)
+epoch =  27 
+ tensor(97.2481, dtype=torch.float64)
+training the nmf layer
+tensor(9.7451, dtype=torch.float64)
+training the nmf layer
+tensor(9.7028, dtype=torch.float64)
+training the nmf layer
+tensor(9.7449, dtype=torch.float64)
+training the nmf layer
+tensor(9.7193, dtype=torch.float64)
+training the nmf layer
+tensor(9.7150, dtype=torch.float64)
+training the nmf layer
+tensor(9.6980, dtype=torch.float64)
+training the nmf layer
+tensor(9.7531, dtype=torch.float64)
+training the nmf layer
+tensor(9.7058, dtype=torch.float64)
+training the nmf layer
+tensor(9.7191, dtype=torch.float64)
+training the nmf layer
+tensor(9.7749, dtype=torch.float64)
+epoch =  28 
+ tensor(97.2781, dtype=torch.float64)
+training the nmf layer
+tensor(9.7000, dtype=torch.float64)
+training the nmf layer
+tensor(9.7397, dtype=torch.float64)
+training the nmf layer
+tensor(9.7303, dtype=torch.float64)
+training the nmf layer
+tensor(9.6898, dtype=torch.float64)
+training the nmf layer
+tensor(9.7395, dtype=torch.float64)
+training the nmf layer
+tensor(9.7410, dtype=torch.float64)
+training the nmf layer
+tensor(9.7336, dtype=torch.float64)
+training the nmf layer
+tensor(9.7268, dtype=torch.float64)
+training the nmf layer
+tensor(9.7476, dtype=torch.float64)
+training the nmf layer
+tensor(9.6654, dtype=torch.float64)
+epoch =  29 
+ tensor(97.2138, dtype=torch.float64)
+training the nmf layer
+tensor(9.7111, dtype=torch.float64)
+training the nmf layer
+tensor(9.7336, dtype=torch.float64)
+training the nmf layer
+tensor(9.6984, dtype=torch.float64)
+training the nmf layer
+tensor(9.7641, dtype=torch.float64)
+training the nmf layer
+tensor(9.6780, dtype=torch.float64)
+training the nmf layer
+tensor(9.6769, dtype=torch.float64)
+training the nmf layer
+tensor(9.7845, dtype=torch.float64)
+training the nmf layer
+tensor(9.7311, dtype=torch.float64)
+training the nmf layer
+tensor(9.7527, dtype=torch.float64)
+training the nmf layer
+tensor(9.7075, dtype=torch.float64)
+epoch =  30 
+ tensor(97.2378, dtype=torch.float64)
+training the nmf layer
+tensor(9.7611, dtype=torch.float64)
+training the nmf layer
+tensor(9.7286, dtype=torch.float64)
+training the nmf layer
+tensor(9.7081, dtype=torch.float64)
+training the nmf layer
+tensor(9.7131, dtype=torch.float64)
+training the nmf layer
+tensor(9.6791, dtype=torch.float64)
+training the nmf layer
+tensor(9.7483, dtype=torch.float64)
+training the nmf layer
+tensor(9.7302, dtype=torch.float64)
+training the nmf layer
+tensor(9.7486, dtype=torch.float64)
+training the nmf layer
+tensor(9.6986, dtype=torch.float64)
+training the nmf layer
+tensor(9.7421, dtype=torch.float64)
+epoch =  31 
+ tensor(97.2578, dtype=torch.float64)
+training the nmf layer
+tensor(9.7195, dtype=torch.float64)
+training the nmf layer
+tensor(9.7140, dtype=torch.float64)
+training the nmf layer
+tensor(9.6608, dtype=torch.float64)
+training the nmf layer
+tensor(9.7247, dtype=torch.float64)
+training the nmf layer
+tensor(9.7331, dtype=torch.float64)
+training the nmf layer
+tensor(9.7397, dtype=torch.float64)
+training the nmf layer
+tensor(9.7500, dtype=torch.float64)
+training the nmf layer
+tensor(9.7649, dtype=torch.float64)
+training the nmf layer
+tensor(9.7038, dtype=torch.float64)
+training the nmf layer
+tensor(9.7537, dtype=torch.float64)
+epoch =  32 
+ tensor(97.2641, dtype=torch.float64)
+training the nmf layer
+tensor(9.7706, dtype=torch.float64)

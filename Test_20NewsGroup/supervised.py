@@ -35,11 +35,11 @@ from twenty_news_group_data_loading import data, Y, target,L20, L50, L90, sparse
 m = data.shape[1]
 k = 20
 c = 20
-lambd = 300
+lambd = 1e-4
 net = Deep_NMF([m, k], c)
 loss_func = Energy_Loss_Func(lambd = lambd, classification_type = 'L2')
 data_input = data*1000
-dataset = sparsedata_L2(data_input, Y)
+dataset = sparsedata_L2(data_input,1000* Y)
 criterion = Fro_Norm()
 
 
@@ -60,10 +60,10 @@ criterion = Fro_Norm()
 # Training process!
 
 # setting training parameters
-batchsize = 100
-epoch = 7
-lr_nmf = 7000
-lr_cl = 5
+batchsize = 2000
+epoch = 40
+lr_nmf = 5000
+lr_cl = 5000
 loss_lst = []
 # train!
 for epo in range(epoch):
@@ -73,25 +73,8 @@ for epo in range(epoch):
         inputs = inputs.view([inputs.shape[0], inputs.shape[2]])
         label = label.view([label.shape[0], -1])
         inputs, label = Variable(inputs), Variable(label)
-        # train the linear classifier
-        S_lst, pred = net(inputs)
-        print('training the classifier')
-        for A in net.lsqnonneglst.parameters():
-            A.requires_grad = False
-        for k in range(100):
-            net.zero_grad()
-            pred = net.linear(S_lst[-1].data)
-            loss = criterion(pred, label)
-            loss.backward()
-            #print(loss.data)
-            for A in net.linear.parameters():
-                A.data = A.data.sub_(lr_cl*A.grad.data)
-        for A in net.lsqnonneglst.parameters():
-            A.requires_grad = True
-       #train the lsqnonneg layers
         net.zero_grad()
         S_lst,pred = net(inputs)
-        net.zero_grad()
         loss = loss_func(inputs, S_lst,list(net.lsqnonneglst.parameters()),pred,label)
         loss.backward()
         loss_lst.append(loss.data)
@@ -99,11 +82,13 @@ for epo in range(epoch):
         print('training the nmf layer')
         print(loss.data)
         sys.stdout.flush()
+        net.linear.weight.data = net.linear.weight.data.sub_(lr_cl*net.linear.weight.grad.data)
         for A in net.lsqnonneglst.parameters():
             A.data = A.data.sub_(lr_nmf*A.grad.data)
             A.data = A.data.clamp(min = 0)
-            A.requires_grad = False
     print('epoch = ', epo, '\n', total_loss)
+    np.savez(save_PATH + save_filename,
+                      param_lst = list(net.parameters()), loss_lst = loss_lst)
 
 
 # In[19]:
@@ -124,7 +109,7 @@ S, pred = get_whole_output(net, dataset)
 sys.stdout.flush()
 # Get the accuracy
 accuracy = torch.sum(torch.argmax(pred, 1) 
-                     == torch.argmax(torch.from_numpy(Y),1))/len(dataset)
+                     == torch.argmax(torch.from_numpy(Y),1)).float()/len(dataset)
 print(accuracy)
 sys.stdout.flush()
 # Get the reconstruction error

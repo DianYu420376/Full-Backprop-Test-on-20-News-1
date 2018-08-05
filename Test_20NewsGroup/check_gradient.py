@@ -70,28 +70,36 @@ for epo in range(epoch):
         loss = classification
         loss.backward()
         print(epo, i, loss.data)
+        sys.stdout.flush()
         loss_lst.append(loss.data)
         
-        if epo > 500 and loss.data > 1:
+        if epo > 500 and loss.data/loss_lst[epo-1] >= 10:
             # check gradient
-            grad_true_A = net.A.grad.data
             grad_A = torch.zeros(grad_true_A.shape)
             delta = 1e-6
             f = LsqNonnegF.apply
             for i in range(grad_A.shape[0]):
                 for j in range(grad_A.shape[1]):
-                    A = net.A.data
+                    A = A_previous
                     A_delta = A.clone()
                     A_delta[i,j] += delta
-                    S_delta = f(inputs.data, A_delta)
-                    pred_delta = torch.mm(S_delta, W.data)
-                    loss_delta = cr3(pred_delta, label_.data)
-                    grad_A[i,j] = (loss_delta - loss.data)/delta
+                    S_delta = f(inputs_previous, A_delta)
+                    pred_delta = torch.mm(S_delta, W_previous)
+                    loss_delta = cr3(pred_delta, label_previous)
+                    grad_A[i,j] = (loss_delta - loss_previous)/delta
             grad_error = torch.norm(grad_A - grad_true_A.float())
             print('the error betweem grad and numeric grad:')
             print(grad_error)
+            sys.stdout.flush()
             grad_lst.append(grad_error)
             np.savez('saved_data/check_gradient',loss_lst = loss_lst, grad_lst = grad_lst)
+
+        A_previous = net.A.data.clone()
+        inputs_previous = inputs.data.clone()
+        label_previous = label_.data.clone()
+        loss_previous = loss.data.clone()
+        grad_true_A = net.A.grad.data.clone()
+        W_previous =  W.data.clone()
         
         net.A.data = net.A.data.sub_(lr*net.A.grad.data)
         net.A.data = net.A.data.clamp(min = 0)
