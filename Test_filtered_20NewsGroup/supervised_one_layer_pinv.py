@@ -50,8 +50,8 @@ dataset = sparsedata_L2(1000*data, 1000*Y1)
 
 
 lr = 5000
-batchsize = 150
-lambd = 1e-4
+batchsize = 1500
+lambd = 1e-10
 epoch = 11
 loss_lst = []
 for epo in range(epoch):
