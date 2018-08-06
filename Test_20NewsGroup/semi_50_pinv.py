@@ -55,8 +55,8 @@ pinv = PinvF.apply
 # Training process!
 import time
 # setting training parameters
-batchsize = 200
-epoch = 25
+batchsize = 1000
+epoch = 70
 lr = 10000
 lr_nmf = 5000
 lr_cl = 5000
