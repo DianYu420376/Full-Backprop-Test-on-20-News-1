@@ -726,3 +726,187 @@ epoch =  32
  tensor(97.2641, dtype=torch.float64)
 training the nmf layer
 tensor(9.7706, dtype=torch.float64)
+training the nmf layer
+tensor(9.7277, dtype=torch.float64)
+training the nmf layer
+tensor(9.6671, dtype=torch.float64)
+training the nmf layer
+tensor(9.7016, dtype=torch.float64)
+training the nmf layer
+tensor(9.7514, dtype=torch.float64)
+training the nmf layer
+tensor(9.6854, dtype=torch.float64)
+training the nmf layer
+tensor(9.6920, dtype=torch.float64)
+training the nmf layer
+tensor(9.7295, dtype=torch.float64)
+training the nmf layer
+tensor(9.8019, dtype=torch.float64)
+training the nmf layer
+tensor(9.7131, dtype=torch.float64)
+epoch =  33 
+ tensor(97.2402, dtype=torch.float64)
+training the nmf layer
+tensor(9.7018, dtype=torch.float64)
+training the nmf layer
+tensor(9.7188, dtype=torch.float64)
+training the nmf layer
+tensor(9.7546, dtype=torch.float64)
+training the nmf layer
+tensor(9.7882, dtype=torch.float64)
+training the nmf layer
+tensor(9.6994, dtype=torch.float64)
+training the nmf layer
+tensor(9.6651, dtype=torch.float64)
+training the nmf layer
+tensor(9.7242, dtype=torch.float64)
+training the nmf layer
+tensor(9.7644, dtype=torch.float64)
+training the nmf layer
+tensor(9.6845, dtype=torch.float64)
+training the nmf layer
+tensor(9.7725, dtype=torch.float64)
+epoch =  34 
+ tensor(97.2736, dtype=torch.float64)
+training the nmf layer
+tensor(9.8018, dtype=torch.float64)
+training the nmf layer
+tensor(9.7077, dtype=torch.float64)
+training the nmf layer
+tensor(9.6867, dtype=torch.float64)
+training the nmf layer
+tensor(9.7603, dtype=torch.float64)
+training the nmf layer
+tensor(9.6809, dtype=torch.float64)
+training the nmf layer
+tensor(9.7007, dtype=torch.float64)
+training the nmf layer
+tensor(9.6955, dtype=torch.float64)
+training the nmf layer
+tensor(9.7160, dtype=torch.float64)
+training the nmf layer
+tensor(9.7268, dtype=torch.float64)
+training the nmf layer
+tensor(9.8283, dtype=torch.float64)
+epoch =  35 
+ tensor(97.3049, dtype=torch.float64)
+training the nmf layer
+tensor(9.7375, dtype=torch.float64)
+training the nmf layer
+tensor(9.7326, dtype=torch.float64)
+training the nmf layer
+tensor(9.7518, dtype=torch.float64)
+training the nmf layer
+tensor(9.7205, dtype=torch.float64)
+training the nmf layer
+tensor(9.7427, dtype=torch.float64)
+training the nmf layer
+tensor(9.7288, dtype=torch.float64)
+training the nmf layer
+tensor(9.6877, dtype=torch.float64)
+training the nmf layer
+tensor(9.7092, dtype=torch.float64)
+training the nmf layer
+tensor(9.7261, dtype=torch.float64)
+training the nmf layer
+tensor(9.6838, dtype=torch.float64)
+epoch =  36 
+ tensor(97.2206, dtype=torch.float64)
+training the nmf layer
+tensor(9.7383, dtype=torch.float64)
+training the nmf layer
+tensor(9.7200, dtype=torch.float64)
+training the nmf layer
+tensor(9.7424, dtype=torch.float64)
+training the nmf layer
+tensor(9.7114, dtype=torch.float64)
+training the nmf layer
+tensor(9.7176, dtype=torch.float64)
+training the nmf layer
+tensor(9.6700, dtype=torch.float64)
+training the nmf layer
+tensor(9.7684, dtype=torch.float64)
+training the nmf layer
+tensor(9.6905, dtype=torch.float64)
+training the nmf layer
+tensor(9.7569, dtype=torch.float64)
+training the nmf layer
+tensor(9.7314, dtype=torch.float64)
+epoch =  37 
+ tensor(97.2469, dtype=torch.float64)
+training the nmf layer
+tensor(9.7484, dtype=torch.float64)
+training the nmf layer
+tensor(9.6709, dtype=torch.float64)
+training the nmf layer
+tensor(9.7163, dtype=torch.float64)
+training the nmf layer
+tensor(9.7487, dtype=torch.float64)
+training the nmf layer
+tensor(9.7662, dtype=torch.float64)
+training the nmf layer
+tensor(9.7145, dtype=torch.float64)
+training the nmf layer
+tensor(9.6455, dtype=torch.float64)
+training the nmf layer
+tensor(9.7520, dtype=torch.float64)
+training the nmf layer
+tensor(9.7384, dtype=torch.float64)
+training the nmf layer
+tensor(9.7637, dtype=torch.float64)
+epoch =  38 
+ tensor(97.2648, dtype=torch.float64)
+training the nmf layer
+tensor(9.7001, dtype=torch.float64)
+training the nmf layer
+tensor(9.6609, dtype=torch.float64)
+training the nmf layer
+tensor(9.7031, dtype=torch.float64)
+training the nmf layer
+tensor(9.7351, dtype=torch.float64)
+training the nmf layer
+tensor(9.7214, dtype=torch.float64)
+training the nmf layer
+tensor(9.7408, dtype=torch.float64)
+training the nmf layer
+tensor(9.7506, dtype=torch.float64)
+training the nmf layer
+tensor(9.7246, dtype=torch.float64)
+training the nmf layer
+tensor(9.7408, dtype=torch.float64)
+training the nmf layer
+tensor(9.8177, dtype=torch.float64)
+/usr/lib/python3.5/importlib/_bootstrap.py:222: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  return f(*args, **kwds)
+/usr/lib/python3.5/importlib/_bootstrap.py:222: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  return f(*args, **kwds)
+/usr/lib/python3.5/importlib/_bootstrap.py:222: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  return f(*args, **kwds)
+/usr/lib/python3.5/importlib/_bootstrap.py:222: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  return f(*args, **kwds)
+epoch =  39 
+ tensor(97.2952, dtype=torch.float64)
+batch_num =  189 
+
+current at batch: 0
+Traceback (most recent call last):
+  File "/home/runyuzhang333/Full-Backprop-Test-on-20-News-1/Test_20NewsGroup/auxillary_functions.py", line 34, in get_whole_output
+    total_data = dataset[i*100:(i+1)*100]
+  File "/home/runyuzhang333/Full-Backprop-Test-on-20-News-1/Test_20NewsGroup/twenty_news_group_data_loading.py", line 123, in __getitem__
+    target = torch.Tensor(target).double()
+TypeError: can't convert np.ndarray of type numpy.uint16. The only supported types are: double, float, float16, int64, int32, and uint8.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "supervised.py", line 106, in <module>
+    #plt.show()
+  File "/home/runyuzhang333/Full-Backprop-Test-on-20-News-1/Test_20NewsGroup/auxillary_functions.py", line 37, in get_whole_output
+    total_data = dataset[i*100:]
+  File "/home/runyuzhang333/Full-Backprop-Test-on-20-News-1/Test_20NewsGroup/twenty_news_group_data_loading.py", line 123, in __getitem__
+    target = torch.Tensor(target).double()
+TypeError: can't convert np.ndarray of type numpy.uint16. The only supported types are: double, float, float16, int64, int32, and uint8.
+Exception ignored in: <function WeakValueDictionary.__init__.<locals>.remove at 0x7f141f798f28>
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/weakref.py", line 117, in remove
+TypeError: 'NoneType' object is not callable

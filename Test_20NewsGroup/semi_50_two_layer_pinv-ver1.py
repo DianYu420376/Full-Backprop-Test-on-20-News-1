@@ -43,12 +43,11 @@ k2 = 20
 c = 20
 lambd1 = 1
 lambd2 = 1
-lambd3 = 100
+lambd3 = 1e-4
 net = Deep_NMF([m, k1, k2])
 #loss_func = Energy_Loss_Func(lambd = lambd, classification_type = 'L2')
 data_input = data*1000
-# should be changed
-dataset = sparsedata_L2(data_input[0:220,:], 1000*Y[0:220,:], L50[0:220,:])
+dataset = sparsedata_L2(data_input, 1000*Y, L50)
 criterion = Fro_Norm()
 pinv = PinvF.apply
 
@@ -60,9 +59,9 @@ pinv = PinvF.apply
 import time
 # setting training parameters
 batchsize = 100
-epoch = 1
-lr = 500
-lr_nmf = 500
+epoch = 10
+lr = 5000
+lr_nmf = 5000
 lr_cl = 5000
 loss_lst = []
 # train!
@@ -120,8 +119,7 @@ np.savez(save_PATH + save_filename,
 history = Writer()
 for A in net.parameters():
     A.requires_grad = False
-# should be changed
-n = 220
+n = 18846
 for i in range(n):
     if (i+1)%100 == 0:
         print('current at batch:', i+1)
@@ -159,5 +157,5 @@ print(np.sum(pred == np.argmax(Y_sub,1))/n)
 
 
 np.savez(save_PATH + save_filename,
-         param_lst = list(net.parameters()), loss_lst = loss_lst, S = S_np, pred = pred)
+          param_lst = [A.data.numpy() for A in net.parameters()], loss_lst = loss_lst, S = S_np, pred = pred)
 
