@@ -5,13 +5,13 @@
 
 
 # import package
-import sys
-package_dir = '../full_backprop_package/'
-sys.path.append(package_dir)
+#import sys
+#package_dir = '../full_backprop_package/'
+#sys.path.append(package_dir)
 import torch
 from torch.autograd import Variable
-from deep_nmf import Deep_NMF, Energy_Loss_Func
-from writer import Writer
+#from deep_nmf import Deep_NMF, Energy_Loss_Func
+#from writer import Writer
 import scipy.io as sio
 import numpy as np
 import torch.utils.data
