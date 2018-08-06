@@ -56,10 +56,11 @@ cr2 = nn.CrossEntropyLoss()
 
 lambd = 1
 lr = 1000
-epoch = 10
+epoch = 20
 loss_lst = []
 for epo in range(epoch):
-    dataloader = torch.utils.data.DataLoader(dataset, shuffle = True, batch_size = 100)
+    total_loss = 0
+    dataloader = torch.utils.data.DataLoader(dataset, shuffle = True, batch_size = 2000)
     for (i,(inputs, label)) in enumerate(dataloader):
         net.zero_grad()
         inputs = inputs.view(inputs.shape[0], -1)
@@ -74,6 +75,7 @@ for epo in range(epoch):
         loss = lambd*loss2# + loss1
         print(loss.data)
         sys.stdout.flush()
+        total_loss += loss.data
         loss_lst.append(loss.data)
         loss.backward()
         net.A.data = net.A.data.sub_(lr*net.A.grad.data)
@@ -81,7 +83,7 @@ for epo in range(epoch):
 
         W.data = W.data.sub_(lr*W.grad.data)
         W.grad.data.zero_()
-
+    print('epoch = ', epo, total_loss)
 
 # In[127]:
 
@@ -112,7 +114,7 @@ pred = torch.cat(pred_lst, 0)
 # In[ ]:
 
 
-np.savez(save_PATH + save_filename,  S = S.data, pred = pred.data, A = net.A.data, W = W.data)
+np.savez(save_PATH + save_filename,  S = S.data, pred = pred.data, A = net.A.data, W = W.data, loss_lst = loss_lst)
 
 
 # In[129]:

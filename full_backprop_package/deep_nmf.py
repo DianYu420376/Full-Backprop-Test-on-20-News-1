@@ -16,7 +16,6 @@ import torch.nn as nn
 from torch.autograd import Variable
 from matplotlib import pyplot as plt
 import scipy.io as sio
-import Ipynb_importer
 from lsqnonneg_module import LsqNonneg
 import numpy as np
 import torch.nn.functional as F
