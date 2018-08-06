@@ -1,4 +1,4 @@
-
+>
 # coding: utf-8
 
 # In[1]:
@@ -55,9 +55,9 @@ pinv = PinvF.apply
 # Training process!
 import time
 # setting training parameters
-batchsize = 150
-epoch = 10
-lr = 5000
+batchsize = 200
+epoch = 25
+lr = 10000
 lr_nmf = 5000
 lr_cl = 5000
 loss_lst = []
@@ -151,4 +151,3 @@ print(np.sum(pred == np.argmax(Y_sub,1))/n)
 
 np.savez(save_PATH + save_filename,
          param_lst = [A.data.numpy() for A in net.parameters()] , loss_lst = loss_lst, S = S_np, pred = pred)
-

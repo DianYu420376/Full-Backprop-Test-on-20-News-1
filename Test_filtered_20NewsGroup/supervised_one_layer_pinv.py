@@ -43,19 +43,19 @@ k2 = 6
 net = Deep_NMF([m, k1])
 criterion = Fro_Norm()
 pinv = PinvF.apply
-# should be changed
-dataset = sparsedata_L2(1000*data[0:220,:], 1000*Y1[0:220,:])
+dataset = sparsedata_L2(1000*data, 1000*Y1)
 
 
 # In[6]:
 
 
 lr = 5000
-batchsize = 100
+batchsize = 150
 lambd = 1e-4
-epoch = 7
-
+epoch = 11
+loss_lst = []
 for epo in range(epoch):
+    total_loss = 0
     dataloader = torch.utils.data.DataLoader(dataset, batch_size = batchsize, shuffle = True)
     for (i,(inputs, label)) in enumerate(dataloader):
         net.zero_grad()
@@ -74,11 +74,17 @@ for epo in range(epoch):
         loss = loss1 + lambd*loss2
         print('epoch = ', epo, 'batch = ',i)
         print(loss.data, loss1.data, lambd*loss2.data)
+        sys.stdout.flush()
+        loss_lst.append(loss.data)
+        total_loss += loss.data
         
         loss.backward()
         for A in net.parameters():
             A.data = A.data.sub_(lr*A.grad.data)
             A.data = A.data.clamp(min = 0)
+
+    print('epoch = ', epo)
+    print('total_loss = ', total_loss)
 
 
 # In[ ]:
@@ -91,8 +97,7 @@ np.savez(save_PATH+save_filename, param_lst = list(net.parameters()), loss_lst =
 
 
 history = Writer()
-# should be changed
-n = 220
+n = 18846
 for A in net.parameters():
     A.requires_grad = False
 for i in range(n):
@@ -121,3 +126,5 @@ Y_sub = Y1[0:n,:]
 Y_pred = S_np@(inv_S@Y_sub)
 print(np.sum(np.argmax(Y_pred,1) == np.argmax(Y_sub,1))/n)
 
+np.savez(save_PATH + save_filename, 
+param_lst = [A.data.numpy() for A in net.parameters()] , loss_lst = loss_lst, S = S_np, pred=Y_pred)
