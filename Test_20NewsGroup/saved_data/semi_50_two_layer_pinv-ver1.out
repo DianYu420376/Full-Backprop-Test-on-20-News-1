@@ -2654,3 +2654,9 @@ current at batch: 126 tensor(8.0603, dtype=torch.float64)
 70.2701768875122
 tensor(4.8282, dtype=torch.float64) tensor(0.0012, dtype=torch.float64) tensor(3.0745, dtype=torch.float64)
 current at batch: 127 tensor(7.9040, dtype=torch.float64)
+69.26563906669617
+tensor(4.8912, dtype=torch.float64) tensor(0.0012, dtype=torch.float64) tensor(3.3785, dtype=torch.float64)
+current at batch: 128 tensor(8.2709, dtype=torch.float64)
+69.56165409088135
+tensor(4.7949, dtype=torch.float64) tensor(0.0012, dtype=torch.float64) tensor(3.3633, dtype=torch.float64)
+current at batch: 129 tensor(8.1594, dtype=torch.float64)
