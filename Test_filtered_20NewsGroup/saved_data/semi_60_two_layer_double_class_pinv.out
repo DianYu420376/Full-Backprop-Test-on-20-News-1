@@ -1,0 +1,1568 @@
+epoch =  0 batch =  0
+tensor(19.5191, dtype=torch.float64) tensor(7.8602, dtype=torch.float64) tensor(0.0000, dtype=torch.float64) tensor(4.6727, dtype=torch.float64) tensor(6.9862, dtype=torch.float64)
+epoch =  0 batch =  1
+tensor(17.8214, dtype=torch.float64) tensor(7.8464, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(4.3834, dtype=torch.float64) tensor(5.5913, dtype=torch.float64)
+epoch =  0 batch =  2
+tensor(16.8747, dtype=torch.float64) tensor(7.8373, dtype=torch.float64) tensor(0.0004, dtype=torch.float64) tensor(4.1959, dtype=torch.float64) tensor(4.8411, dtype=torch.float64)
+epoch =  0 batch =  3
+tensor(17.1175, dtype=torch.float64) tensor(7.8059, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(4.9606, dtype=torch.float64) tensor(4.3506, dtype=torch.float64)
+epoch =  0 batch =  4
+tensor(18.1163, dtype=torch.float64) tensor(7.7078, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(6.0117, dtype=torch.float64) tensor(4.3965, dtype=torch.float64)
+epoch =  0 batch =  5
+tensor(16.8395, dtype=torch.float64) tensor(7.8793, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(3.9448, dtype=torch.float64) tensor(5.0151, dtype=torch.float64)
+epoch =  0 batch =  6
+tensor(16.3094, dtype=torch.float64) tensor(7.7826, dtype=torch.float64) tensor(0.0004, dtype=torch.float64) tensor(3.9779, dtype=torch.float64) tensor(4.5485, dtype=torch.float64)
+epoch =  0 batch =  7
+tensor(16.1928, dtype=torch.float64) tensor(7.8789, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(4.0969, dtype=torch.float64) tensor(4.2168, dtype=torch.float64)
+epoch =  0 batch =  8
+tensor(15.6029, dtype=torch.float64) tensor(7.7646, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(3.7971, dtype=torch.float64) tensor(4.0408, dtype=torch.float64)
+epoch =  0 batch =  9
+tensor(16.4365, dtype=torch.float64) tensor(7.7928, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(4.5542, dtype=torch.float64) tensor(4.0892, dtype=torch.float64)
+epoch =  0 batch =  10
+tensor(16.0926, dtype=torch.float64) tensor(7.7775, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(4.0863, dtype=torch.float64) tensor(4.2286, dtype=torch.float64)
+epoch =  0 batch =  11
+tensor(15.4077, dtype=torch.float64) tensor(7.6622, dtype=torch.float64) tensor(0.0004, dtype=torch.float64) tensor(3.7480, dtype=torch.float64) tensor(3.9970, dtype=torch.float64)
+epoch =  0 batch =  12
+tensor(15.6804, dtype=torch.float64) tensor(7.7597, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(3.9459, dtype=torch.float64) tensor(3.9745, dtype=torch.float64)
+epoch =  0 batch =  13
+tensor(15.0349, dtype=torch.float64) tensor(7.7871, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(3.5885, dtype=torch.float64) tensor(3.6591, dtype=torch.float64)
+epoch =  0 batch =  14
+tensor(15.5211, dtype=torch.float64) tensor(7.7796, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(3.7154, dtype=torch.float64) tensor(4.0259, dtype=torch.float64)
+epoch =  0 batch =  15
+tensor(15.1138, dtype=torch.float64) tensor(7.6794, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(3.6465, dtype=torch.float64) tensor(3.7876, dtype=torch.float64)
+epoch =  0 batch =  16
+tensor(15.0683, dtype=torch.float64) tensor(7.7458, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(3.5646, dtype=torch.float64) tensor(3.7577, dtype=torch.float64)
+epoch =  0 batch =  17
+tensor(14.8673, dtype=torch.float64) tensor(7.8971, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(3.5267, dtype=torch.float64) tensor(3.4431, dtype=torch.float64)
+epoch =  0 batch =  18
+tensor(14.8538, dtype=torch.float64) tensor(7.8087, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(3.6184, dtype=torch.float64) tensor(3.4264, dtype=torch.float64)
+epoch =  0 batch =  19
+tensor(14.8531, dtype=torch.float64) tensor(7.8094, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(3.5072, dtype=torch.float64) tensor(3.5362, dtype=torch.float64)
+epoch =  0 batch =  20
+tensor(14.8531, dtype=torch.float64) tensor(7.7789, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(3.5472, dtype=torch.float64) tensor(3.5266, dtype=torch.float64)
+epoch =  0 batch =  21
+tensor(14.8042, dtype=torch.float64) tensor(7.7411, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(3.5724, dtype=torch.float64) tensor(3.4904, dtype=torch.float64)
+epoch =  0 batch =  22
+tensor(14.6873, dtype=torch.float64) tensor(7.8051, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(3.5020, dtype=torch.float64) tensor(3.3799, dtype=torch.float64)
+epoch =  0 batch =  23
+tensor(14.1610, dtype=torch.float64) tensor(7.7921, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(3.2703, dtype=torch.float64) tensor(3.0983, dtype=torch.float64)
+epoch =  0 batch =  24
+tensor(14.6878, dtype=torch.float64) tensor(7.6908, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(3.4722, dtype=torch.float64) tensor(3.5245, dtype=torch.float64)
+epoch =  0 batch =  25
+tensor(14.6187, dtype=torch.float64) tensor(7.8248, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(3.6832, dtype=torch.float64) tensor(3.1105, dtype=torch.float64)
+epoch =  0 batch =  26
+tensor(14.5751, dtype=torch.float64) tensor(7.6890, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(3.4578, dtype=torch.float64) tensor(3.4279, dtype=torch.float64)
+epoch =  0 batch =  27
+tensor(14.1129, dtype=torch.float64) tensor(7.8583, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(3.3877, dtype=torch.float64) tensor(2.8666, dtype=torch.float64)
+epoch =  0 batch =  28
+tensor(14.0436, dtype=torch.float64) tensor(7.7748, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(3.2632, dtype=torch.float64) tensor(3.0053, dtype=torch.float64)
+epoch =  0 batch =  29
+tensor(14.0439, dtype=torch.float64) tensor(7.7742, dtype=torch.float64) tensor(0.0004, dtype=torch.float64) tensor(3.3764, dtype=torch.float64) tensor(2.8928, dtype=torch.float64)
+epoch =  0 batch =  30
+tensor(14.0521, dtype=torch.float64) tensor(7.6748, dtype=torch.float64) tensor(0.0004, dtype=torch.float64) tensor(3.4420, dtype=torch.float64) tensor(2.9349, dtype=torch.float64)
+epoch =  0 batch =  31
+tensor(13.8749, dtype=torch.float64) tensor(7.8218, dtype=torch.float64) tensor(0.0004, dtype=torch.float64) tensor(3.2187, dtype=torch.float64) tensor(2.8341, dtype=torch.float64)
+epoch =  0 batch =  32
+tensor(14.1328, dtype=torch.float64) tensor(7.7903, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(3.4220, dtype=torch.float64) tensor(2.9202, dtype=torch.float64)
+epoch =  0 batch =  33
+tensor(13.8935, dtype=torch.float64) tensor(7.7525, dtype=torch.float64) tensor(0.0004, dtype=torch.float64) tensor(3.2728, dtype=torch.float64) tensor(2.8679, dtype=torch.float64)
+epoch =  0 batch =  34
+tensor(13.7823, dtype=torch.float64) tensor(7.8521, dtype=torch.float64) tensor(0.0004, dtype=torch.float64) tensor(3.2226, dtype=torch.float64) tensor(2.7072, dtype=torch.float64)
+epoch =  0 batch =  35
+tensor(13.7890, dtype=torch.float64) tensor(7.7527, dtype=torch.float64) tensor(0.0004, dtype=torch.float64) tensor(3.2974, dtype=torch.float64) tensor(2.7386, dtype=torch.float64)
+epoch =  0 batch =  36
+tensor(13.7940, dtype=torch.float64) tensor(7.7742, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(3.3160, dtype=torch.float64) tensor(2.7035, dtype=torch.float64)
+epoch =  0 batch =  37
+tensor(14.1491, dtype=torch.float64) tensor(7.7093, dtype=torch.float64) tensor(0.0004, dtype=torch.float64) tensor(3.4385, dtype=torch.float64) tensor(3.0009, dtype=torch.float64)
+epoch =  0
+total_loss =  tensor(579.3786, dtype=torch.float64)
+epoch =  1 batch =  0
+tensor(13.4352, dtype=torch.float64) tensor(7.7384, dtype=torch.float64) tensor(0.0004, dtype=torch.float64) tensor(3.4148, dtype=torch.float64) tensor(2.2817, dtype=torch.float64)
+epoch =  1 batch =  1
+tensor(13.0186, dtype=torch.float64) tensor(7.7851, dtype=torch.float64) tensor(0.0004, dtype=torch.float64) tensor(3.0388, dtype=torch.float64) tensor(2.1943, dtype=torch.float64)
+epoch =  1 batch =  2
+tensor(13.0008, dtype=torch.float64) tensor(7.9095, dtype=torch.float64) tensor(0.0004, dtype=torch.float64) tensor(2.9723, dtype=torch.float64) tensor(2.1186, dtype=torch.float64)
+epoch =  1 batch =  3
+tensor(13.0472, dtype=torch.float64) tensor(7.8670, dtype=torch.float64) tensor(0.0004, dtype=torch.float64) tensor(2.9717, dtype=torch.float64) tensor(2.2081, dtype=torch.float64)
+epoch =  1 batch =  4
+tensor(12.7409, dtype=torch.float64) tensor(7.7198, dtype=torch.float64) tensor(0.0004, dtype=torch.float64) tensor(2.9737, dtype=torch.float64) tensor(2.0470, dtype=torch.float64)
+epoch =  1 batch =  5
+tensor(12.4711, dtype=torch.float64) tensor(7.8501, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(2.9236, dtype=torch.float64) tensor(1.6970, dtype=torch.float64)
+epoch =  1 batch =  6
+tensor(13.0861, dtype=torch.float64) tensor(7.7794, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(3.1359, dtype=torch.float64) tensor(2.1703, dtype=torch.float64)
+epoch =  1 batch =  7
+tensor(12.6110, dtype=torch.float64) tensor(7.8510, dtype=torch.float64) tensor(0.0004, dtype=torch.float64) tensor(2.8237, dtype=torch.float64) tensor(1.9360, dtype=torch.float64)
+epoch =  1 batch =  8
+tensor(14.0443, dtype=torch.float64) tensor(7.7874, dtype=torch.float64) tensor(0.0004, dtype=torch.float64) tensor(4.0829, dtype=torch.float64) tensor(2.1737, dtype=torch.float64)
+epoch =  1 batch =  9
+tensor(13.4859, dtype=torch.float64) tensor(7.7126, dtype=torch.float64) tensor(0.0005, dtype=torch.float64) tensor(3.3099, dtype=torch.float64) tensor(2.4630, dtype=torch.float64)
+epoch =  1 batch =  10
+tensor(13.4253, dtype=torch.float64) tensor(7.8022, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(3.1565, dtype=torch.float64) tensor(2.4663, dtype=torch.float64)
+epoch =  1 batch =  11
+tensor(12.7586, dtype=torch.float64) tensor(7.8507, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(2.8241, dtype=torch.float64) tensor(2.0834, dtype=torch.float64)
+epoch =  1 batch =  12
+tensor(12.7025, dtype=torch.float64) tensor(7.5602, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(3.0256, dtype=torch.float64) tensor(2.1164, dtype=torch.float64)
+epoch =  1 batch =  13
+tensor(12.7042, dtype=torch.float64) tensor(7.6576, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(2.9689, dtype=torch.float64) tensor(2.0773, dtype=torch.float64)
+epoch =  1 batch =  14
+tensor(13.0609, dtype=torch.float64) tensor(7.7585, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(3.0373, dtype=torch.float64) tensor(2.2648, dtype=torch.float64)
+epoch =  1 batch =  15
+tensor(12.6378, dtype=torch.float64) tensor(7.7966, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(2.8490, dtype=torch.float64) tensor(1.9919, dtype=torch.float64)
+epoch =  1 batch =  16
+tensor(12.9937, dtype=torch.float64) tensor(7.7278, dtype=torch.float64) tensor(0.0004, dtype=torch.float64) tensor(2.9879, dtype=torch.float64) tensor(2.2776, dtype=torch.float64)
+epoch =  1 batch =  17
+tensor(12.8652, dtype=torch.float64) tensor(7.7837, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(2.9110, dtype=torch.float64) tensor(2.1701, dtype=torch.float64)
+epoch =  1 batch =  18
+tensor(12.8529, dtype=torch.float64) tensor(7.7384, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(2.8826, dtype=torch.float64) tensor(2.2316, dtype=torch.float64)
+epoch =  1 batch =  19
+tensor(13.2502, dtype=torch.float64) tensor(7.7610, dtype=torch.float64) tensor(0.0004, dtype=torch.float64) tensor(3.2155, dtype=torch.float64) tensor(2.2734, dtype=torch.float64)
+epoch =  1 batch =  20
+tensor(12.6545, dtype=torch.float64) tensor(7.7391, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(2.8644, dtype=torch.float64) tensor(2.0507, dtype=torch.float64)
+epoch =  1 batch =  21
+tensor(12.7457, dtype=torch.float64) tensor(7.7848, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(2.9907, dtype=torch.float64) tensor(1.9699, dtype=torch.float64)
+epoch =  1 batch =  22
+tensor(12.9929, dtype=torch.float64) tensor(7.7760, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(2.9536, dtype=torch.float64) tensor(2.2630, dtype=torch.float64)
+epoch =  1 batch =  23
+tensor(13.1252, dtype=torch.float64) tensor(7.8166, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(3.0712, dtype=torch.float64) tensor(2.2370, dtype=torch.float64)
+epoch =  1 batch =  24
+tensor(13.0066, dtype=torch.float64) tensor(7.7084, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(2.9847, dtype=torch.float64) tensor(2.3131, dtype=torch.float64)
+epoch =  1 batch =  25
+tensor(12.6230, dtype=torch.float64) tensor(7.7869, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(2.8288, dtype=torch.float64) tensor(2.0070, dtype=torch.float64)
+epoch =  1 batch =  26
+tensor(12.7975, dtype=torch.float64) tensor(7.8043, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(2.8710, dtype=torch.float64) tensor(2.1218, dtype=torch.float64)
+epoch =  1 batch =  27
+tensor(13.1262, dtype=torch.float64) tensor(7.6943, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(3.0735, dtype=torch.float64) tensor(2.3581, dtype=torch.float64)
+epoch =  1 batch =  28
+tensor(12.5450, dtype=torch.float64) tensor(7.7043, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(2.9350, dtype=torch.float64) tensor(1.9054, dtype=torch.float64)
+epoch =  1 batch =  29
+tensor(12.8011, dtype=torch.float64) tensor(7.7043, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(2.9918, dtype=torch.float64) tensor(2.1046, dtype=torch.float64)
+epoch =  1 batch =  30
+tensor(13.0371, dtype=torch.float64) tensor(7.7815, dtype=torch.float64) tensor(0.0004, dtype=torch.float64) tensor(2.9301, dtype=torch.float64) tensor(2.3251, dtype=torch.float64)
+epoch =  1 batch =  31
+tensor(13.0729, dtype=torch.float64) tensor(7.7542, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(3.0018, dtype=torch.float64) tensor(2.3166, dtype=torch.float64)
+epoch =  1 batch =  32
+tensor(12.7588, dtype=torch.float64) tensor(7.7647, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(2.8267, dtype=torch.float64) tensor(2.1671, dtype=torch.float64)
+epoch =  1 batch =  33
+tensor(12.5452, dtype=torch.float64) tensor(7.7856, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(2.8554, dtype=torch.float64) tensor(1.9039, dtype=torch.float64)
+epoch =  1 batch =  34
+tensor(12.6659, dtype=torch.float64) tensor(7.7512, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(2.8969, dtype=torch.float64) tensor(2.0174, dtype=torch.float64)
+epoch =  1 batch =  35
+tensor(13.0214, dtype=torch.float64) tensor(7.8850, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(2.9491, dtype=torch.float64) tensor(2.1870, dtype=torch.float64)
+epoch =  1 batch =  36
+tensor(12.6584, dtype=torch.float64) tensor(7.8326, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(2.8087, dtype=torch.float64) tensor(2.0168, dtype=torch.float64)
+epoch =  1 batch =  37
+tensor(12.8466, dtype=torch.float64) tensor(7.8228, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(3.0471, dtype=torch.float64) tensor(1.9764, dtype=torch.float64)
+epoch =  1
+total_loss =  tensor(491.2165, dtype=torch.float64)
+epoch =  2 batch =  0
+tensor(12.2867, dtype=torch.float64) tensor(7.8016, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(2.7216, dtype=torch.float64) tensor(1.7632, dtype=torch.float64)
+epoch =  2 batch =  1
+tensor(11.8788, dtype=torch.float64) tensor(7.8019, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(2.6178, dtype=torch.float64) tensor(1.4588, dtype=torch.float64)
+epoch =  2 batch =  2
+tensor(11.8838, dtype=torch.float64) tensor(7.7667, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(2.5407, dtype=torch.float64) tensor(1.5761, dtype=torch.float64)
+epoch =  2 batch =  3
+tensor(11.7669, dtype=torch.float64) tensor(7.7545, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(2.5859, dtype=torch.float64) tensor(1.4263, dtype=torch.float64)
+epoch =  2 batch =  4
+tensor(11.9173, dtype=torch.float64) tensor(7.8168, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(2.6584, dtype=torch.float64) tensor(1.4418, dtype=torch.float64)
+epoch =  2 batch =  5
+tensor(12.1177, dtype=torch.float64) tensor(7.7434, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(2.7353, dtype=torch.float64) tensor(1.6386, dtype=torch.float64)
+epoch =  2 batch =  6
+tensor(11.9153, dtype=torch.float64) tensor(7.8857, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(2.5571, dtype=torch.float64) tensor(1.4722, dtype=torch.float64)
+epoch =  2 batch =  7
+tensor(11.7919, dtype=torch.float64) tensor(7.7318, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(2.6070, dtype=torch.float64) tensor(1.4528, dtype=torch.float64)
+epoch =  2 batch =  8
+tensor(11.7623, dtype=torch.float64) tensor(7.7719, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(2.4824, dtype=torch.float64) tensor(1.5077, dtype=torch.float64)
+epoch =  2 batch =  9
+tensor(11.8296, dtype=torch.float64) tensor(7.7272, dtype=torch.float64) tensor(0.0004, dtype=torch.float64) tensor(2.5219, dtype=torch.float64) tensor(1.5801, dtype=torch.float64)
+epoch =  2 batch =  10
+tensor(11.8801, dtype=torch.float64) tensor(7.8014, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(2.6515, dtype=torch.float64) tensor(1.4269, dtype=torch.float64)
+epoch =  2 batch =  11
+tensor(11.8799, dtype=torch.float64) tensor(7.8077, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(2.6663, dtype=torch.float64) tensor(1.4057, dtype=torch.float64)
+epoch =  2 batch =  12
+tensor(12.0314, dtype=torch.float64) tensor(7.8183, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(2.6995, dtype=torch.float64) tensor(1.5134, dtype=torch.float64)
+epoch =  2 batch =  13
+tensor(11.8039, dtype=torch.float64) tensor(7.8303, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(2.4710, dtype=torch.float64) tensor(1.5023, dtype=torch.float64)
+epoch =  2 batch =  14
+tensor(11.9018, dtype=torch.float64) tensor(7.7325, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(2.5843, dtype=torch.float64) tensor(1.5847, dtype=torch.float64)
+epoch =  2 batch =  15
+tensor(11.8735, dtype=torch.float64) tensor(7.8196, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(2.5399, dtype=torch.float64) tensor(1.5137, dtype=torch.float64)
+epoch =  2 batch =  16
+tensor(11.7489, dtype=torch.float64) tensor(7.7803, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(2.4767, dtype=torch.float64) tensor(1.4916, dtype=torch.float64)
+epoch =  2 batch =  17
+tensor(11.9704, dtype=torch.float64) tensor(7.7540, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(2.6248, dtype=torch.float64) tensor(1.5913, dtype=torch.float64)
+epoch =  2 batch =  18
+tensor(12.0464, dtype=torch.float64) tensor(7.7771, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(2.6387, dtype=torch.float64) tensor(1.6303, dtype=torch.float64)
+epoch =  2 batch =  19
+tensor(11.7601, dtype=torch.float64) tensor(7.7579, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(2.5640, dtype=torch.float64) tensor(1.4380, dtype=torch.float64)
+epoch =  2 batch =  20
+tensor(11.8083, dtype=torch.float64) tensor(7.8151, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(2.5266, dtype=torch.float64) tensor(1.4662, dtype=torch.float64)
+epoch =  2 batch =  21
+tensor(12.1145, dtype=torch.float64) tensor(7.6360, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(2.6209, dtype=torch.float64) tensor(1.8574, dtype=torch.float64)
+epoch =  2 batch =  22
+tensor(11.9514, dtype=torch.float64) tensor(7.7841, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(2.6620, dtype=torch.float64) tensor(1.5050, dtype=torch.float64)
+epoch =  2 batch =  23
+tensor(12.1818, dtype=torch.float64) tensor(7.8161, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(2.7449, dtype=torch.float64) tensor(1.6204, dtype=torch.float64)
+epoch =  2 batch =  24
+tensor(11.8817, dtype=torch.float64) tensor(7.8504, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(2.6886, dtype=torch.float64) tensor(1.3424, dtype=torch.float64)
+epoch =  2 batch =  25
+tensor(11.8461, dtype=torch.float64) tensor(7.8822, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(2.4794, dtype=torch.float64) tensor(1.4842, dtype=torch.float64)
+epoch =  2 batch =  26
+tensor(11.9576, dtype=torch.float64) tensor(7.8008, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(2.5609, dtype=torch.float64) tensor(1.5955, dtype=torch.float64)
+epoch =  2 batch =  27
+tensor(12.2491, dtype=torch.float64) tensor(7.7553, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(2.6676, dtype=torch.float64) tensor(1.8259, dtype=torch.float64)
+epoch =  2 batch =  28
+tensor(11.9626, dtype=torch.float64) tensor(7.5456, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(2.6416, dtype=torch.float64) tensor(1.7750, dtype=torch.float64)
+epoch =  2 batch =  29
+tensor(12.1763, dtype=torch.float64) tensor(7.7002, dtype=torch.float64) tensor(0.0004, dtype=torch.float64) tensor(2.5725, dtype=torch.float64) tensor(1.9032, dtype=torch.float64)
+epoch =  2 batch =  30
+tensor(11.9064, dtype=torch.float64) tensor(7.7243, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(2.6084, dtype=torch.float64) tensor(1.5733, dtype=torch.float64)
+epoch =  2 batch =  31
+tensor(12.3089, dtype=torch.float64) tensor(7.7783, dtype=torch.float64) tensor(0.0004, dtype=torch.float64) tensor(2.7869, dtype=torch.float64) tensor(1.7434, dtype=torch.float64)
+epoch =  2 batch =  32
+tensor(12.0767, dtype=torch.float64) tensor(7.7380, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(2.6874, dtype=torch.float64) tensor(1.6511, dtype=torch.float64)
+epoch =  2 batch =  33
+tensor(11.9042, dtype=torch.float64) tensor(7.7100, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(2.6089, dtype=torch.float64) tensor(1.5850, dtype=torch.float64)
+epoch =  2 batch =  34
+tensor(12.0440, dtype=torch.float64) tensor(7.8188, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(2.5917, dtype=torch.float64) tensor(1.6332, dtype=torch.float64)
+epoch =  2 batch =  35
+tensor(12.1555, dtype=torch.float64) tensor(7.7069, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(2.7204, dtype=torch.float64) tensor(1.7279, dtype=torch.float64)
+epoch =  2 batch =  36
+tensor(11.9840, dtype=torch.float64) tensor(7.7834, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(2.7214, dtype=torch.float64) tensor(1.4789, dtype=torch.float64)
+epoch =  2 batch =  37
+tensor(11.7792, dtype=torch.float64) tensor(7.8511, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(2.5622, dtype=torch.float64) tensor(1.3656, dtype=torch.float64)
+epoch =  2
+total_loss =  tensor(454.3351, dtype=torch.float64)
+epoch =  3 batch =  0
+tensor(11.2642, dtype=torch.float64) tensor(7.8017, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(2.3592, dtype=torch.float64) tensor(1.1030, dtype=torch.float64)
+epoch =  3 batch =  1
+tensor(11.0774, dtype=torch.float64) tensor(7.7051, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(2.2709, dtype=torch.float64) tensor(1.1011, dtype=torch.float64)
+epoch =  3 batch =  2
+tensor(11.4051, dtype=torch.float64) tensor(7.8692, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(2.3566, dtype=torch.float64) tensor(1.1790, dtype=torch.float64)
+epoch =  3 batch =  3
+tensor(11.4025, dtype=torch.float64) tensor(7.8532, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(2.3647, dtype=torch.float64) tensor(1.1844, dtype=torch.float64)
+epoch =  3 batch =  4
+tensor(11.5871, dtype=torch.float64) tensor(7.8646, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(2.4345, dtype=torch.float64) tensor(1.2878, dtype=torch.float64)
+epoch =  3 batch =  5
+tensor(11.5238, dtype=torch.float64) tensor(7.6763, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(2.5500, dtype=torch.float64) tensor(1.2973, dtype=torch.float64)
+epoch =  3 batch =  6
+tensor(11.3587, dtype=torch.float64) tensor(7.8165, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(2.3052, dtype=torch.float64) tensor(1.2367, dtype=torch.float64)
+epoch =  3 batch =  7
+tensor(11.0529, dtype=torch.float64) tensor(7.6895, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(2.1215, dtype=torch.float64) tensor(1.2416, dtype=torch.float64)
+epoch =  3 batch =  8
+tensor(11.1832, dtype=torch.float64) tensor(7.9170, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(2.2873, dtype=torch.float64) tensor(0.9787, dtype=torch.float64)
+epoch =  3 batch =  9
+tensor(11.8764, dtype=torch.float64) tensor(7.6793, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(2.7267, dtype=torch.float64) tensor(1.4702, dtype=torch.float64)
+epoch =  3 batch =  10
+tensor(11.7506, dtype=torch.float64) tensor(7.8473, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(2.5294, dtype=torch.float64) tensor(1.3735, dtype=torch.float64)
+epoch =  3 batch =  11
+tensor(11.2253, dtype=torch.float64) tensor(7.7285, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(2.3247, dtype=torch.float64) tensor(1.1718, dtype=torch.float64)
+epoch =  3 batch =  12
+tensor(11.4810, dtype=torch.float64) tensor(7.7391, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(2.4079, dtype=torch.float64) tensor(1.3338, dtype=torch.float64)
+epoch =  3 batch =  13
+tensor(11.3538, dtype=torch.float64) tensor(7.8174, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(2.3742, dtype=torch.float64) tensor(1.1620, dtype=torch.float64)
+epoch =  3 batch =  14
+tensor(11.5070, dtype=torch.float64) tensor(7.7025, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(2.4697, dtype=torch.float64) tensor(1.3345, dtype=torch.float64)
+epoch =  3 batch =  15
+tensor(11.3169, dtype=torch.float64) tensor(7.8637, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(2.3545, dtype=torch.float64) tensor(1.0985, dtype=torch.float64)
+epoch =  3 batch =  16
+tensor(11.3721, dtype=torch.float64) tensor(7.7278, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(2.4898, dtype=torch.float64) tensor(1.1542, dtype=torch.float64)
+epoch =  3 batch =  17
+tensor(11.3076, dtype=torch.float64) tensor(7.7835, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(2.2757, dtype=torch.float64) tensor(1.2481, dtype=torch.float64)
+epoch =  3 batch =  18
+tensor(11.5728, dtype=torch.float64) tensor(7.8392, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(2.4158, dtype=torch.float64) tensor(1.3175, dtype=torch.float64)
+epoch =  3 batch =  19
+tensor(11.6250, dtype=torch.float64) tensor(7.8044, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(2.4441, dtype=torch.float64) tensor(1.3763, dtype=torch.float64)
+epoch =  3 batch =  20
+tensor(11.8360, dtype=torch.float64) tensor(7.7337, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(2.6670, dtype=torch.float64) tensor(1.4350, dtype=torch.float64)
+epoch =  3 batch =  21
+tensor(11.4822, dtype=torch.float64) tensor(7.7394, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(2.4060, dtype=torch.float64) tensor(1.3366, dtype=torch.float64)
+epoch =  3 batch =  22
+tensor(11.4415, dtype=torch.float64) tensor(7.6776, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(2.3737, dtype=torch.float64) tensor(1.3900, dtype=torch.float64)
+epoch =  3 batch =  23
+tensor(11.1542, dtype=torch.float64) tensor(7.7826, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(2.1806, dtype=torch.float64) tensor(1.1908, dtype=torch.float64)
+epoch =  3 batch =  24
+tensor(11.6516, dtype=torch.float64) tensor(7.7545, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(2.4869, dtype=torch.float64) tensor(1.4100, dtype=torch.float64)
+epoch =  3 batch =  25
+tensor(11.5830, dtype=torch.float64) tensor(7.6765, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(2.4765, dtype=torch.float64) tensor(1.4298, dtype=torch.float64)
+epoch =  3 batch =  26
+tensor(11.6654, dtype=torch.float64) tensor(7.7588, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(2.4347, dtype=torch.float64) tensor(1.4716, dtype=torch.float64)
+epoch =  3 batch =  27
+tensor(11.5621, dtype=torch.float64) tensor(7.7350, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(2.4412, dtype=torch.float64) tensor(1.3856, dtype=torch.float64)
+epoch =  3 batch =  28
+tensor(11.5860, dtype=torch.float64) tensor(7.8529, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(2.4492, dtype=torch.float64) tensor(1.2835, dtype=torch.float64)
+epoch =  3 batch =  29
+tensor(11.2307, dtype=torch.float64) tensor(7.7586, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(2.2519, dtype=torch.float64) tensor(1.2200, dtype=torch.float64)
+epoch =  3 batch =  30
+tensor(11.5589, dtype=torch.float64) tensor(7.8353, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(2.4478, dtype=torch.float64) tensor(1.2755, dtype=torch.float64)
+epoch =  3 batch =  31
+tensor(11.6767, dtype=torch.float64) tensor(7.8643, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(2.5858, dtype=torch.float64) tensor(1.2263, dtype=torch.float64)
+epoch =  3 batch =  32
+tensor(11.8975, dtype=torch.float64) tensor(7.7391, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(2.4426, dtype=torch.float64) tensor(1.7155, dtype=torch.float64)
+epoch =  3 batch =  33
+tensor(11.5019, dtype=torch.float64) tensor(7.7547, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(2.2807, dtype=torch.float64) tensor(1.4663, dtype=torch.float64)
+epoch =  3 batch =  34
+tensor(11.1701, dtype=torch.float64) tensor(7.6438, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(2.2920, dtype=torch.float64) tensor(1.2341, dtype=torch.float64)
+epoch =  3 batch =  35
+tensor(11.4209, dtype=torch.float64) tensor(7.7721, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(2.3858, dtype=torch.float64) tensor(1.2628, dtype=torch.float64)
+epoch =  3 batch =  36
+tensor(11.5043, dtype=torch.float64) tensor(7.7878, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(2.4341, dtype=torch.float64) tensor(1.2822, dtype=torch.float64)
+epoch =  3 batch =  37
+tensor(11.7224, dtype=torch.float64) tensor(7.8440, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(2.4131, dtype=torch.float64) tensor(1.4650, dtype=torch.float64)
+epoch =  3
+total_loss =  tensor(435.8886, dtype=torch.float64)
+epoch =  4 batch =  0
+tensor(10.9066, dtype=torch.float64) tensor(7.6797, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(2.1864, dtype=torch.float64) tensor(1.0403, dtype=torch.float64)
+epoch =  4 batch =  1
+tensor(11.0334, dtype=torch.float64) tensor(7.7986, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(2.1366, dtype=torch.float64) tensor(1.0980, dtype=torch.float64)
+epoch =  4 batch =  2
+tensor(11.2266, dtype=torch.float64) tensor(7.8680, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(2.1820, dtype=torch.float64) tensor(1.1764, dtype=torch.float64)
+epoch =  4 batch =  3
+tensor(10.7022, dtype=torch.float64) tensor(7.9171, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(2.0842, dtype=torch.float64) tensor(0.7006, dtype=torch.float64)
+epoch =  4 batch =  4
+tensor(10.9085, dtype=torch.float64) tensor(7.9517, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(2.0986, dtype=torch.float64) tensor(0.8580, dtype=torch.float64)
+epoch =  4 batch =  5
+tensor(11.2957, dtype=torch.float64) tensor(7.7220, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(2.3586, dtype=torch.float64) tensor(1.2148, dtype=torch.float64)
+epoch =  4 batch =  6
+tensor(11.1392, dtype=torch.float64) tensor(7.7891, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(2.3431, dtype=torch.float64) tensor(1.0068, dtype=torch.float64)
+epoch =  4 batch =  7
+tensor(11.2067, dtype=torch.float64) tensor(7.6379, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(2.2990, dtype=torch.float64) tensor(1.2695, dtype=torch.float64)
+epoch =  4 batch =  8
+tensor(10.9145, dtype=torch.float64) tensor(7.7894, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(2.1626, dtype=torch.float64) tensor(0.9622, dtype=torch.float64)
+epoch =  4 batch =  9
+tensor(10.8526, dtype=torch.float64) tensor(7.8195, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(2.0770, dtype=torch.float64) tensor(0.9558, dtype=torch.float64)
+epoch =  4 batch =  10
+tensor(10.9675, dtype=torch.float64) tensor(7.6946, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(2.2539, dtype=torch.float64) tensor(1.0188, dtype=torch.float64)
+epoch =  4 batch =  11
+tensor(10.9944, dtype=torch.float64) tensor(7.6707, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(2.1572, dtype=torch.float64) tensor(1.1662, dtype=torch.float64)
+epoch =  4 batch =  12
+tensor(10.7621, dtype=torch.float64) tensor(7.7556, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(2.1382, dtype=torch.float64) tensor(0.8681, dtype=torch.float64)
+epoch =  4 batch =  13
+tensor(11.0511, dtype=torch.float64) tensor(7.7873, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(2.1631, dtype=torch.float64) tensor(1.1005, dtype=torch.float64)
+epoch =  4 batch =  14
+tensor(10.9424, dtype=torch.float64) tensor(7.8849, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(2.1140, dtype=torch.float64) tensor(0.9433, dtype=torch.float64)
+epoch =  4 batch =  15
+tensor(10.9966, dtype=torch.float64) tensor(7.7588, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(2.2009, dtype=torch.float64) tensor(1.0368, dtype=torch.float64)
+epoch =  4 batch =  16
+tensor(11.1398, dtype=torch.float64) tensor(7.7719, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(2.2596, dtype=torch.float64) tensor(1.1081, dtype=torch.float64)
+epoch =  4 batch =  17
+tensor(11.3032, dtype=torch.float64) tensor(7.7569, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(2.3615, dtype=torch.float64) tensor(1.1845, dtype=torch.float64)
+epoch =  4 batch =  18
+tensor(11.2290, dtype=torch.float64) tensor(7.7097, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(2.3968, dtype=torch.float64) tensor(1.1223, dtype=torch.float64)
+epoch =  4 batch =  19
+tensor(11.0861, dtype=torch.float64) tensor(7.8482, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(2.1593, dtype=torch.float64) tensor(1.0783, dtype=torch.float64)
+epoch =  4 batch =  20
+tensor(10.7633, dtype=torch.float64) tensor(7.8149, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(2.0386, dtype=torch.float64) tensor(0.9096, dtype=torch.float64)
+epoch =  4 batch =  21
+tensor(10.9119, dtype=torch.float64) tensor(7.6881, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(2.1844, dtype=torch.float64) tensor(1.0392, dtype=torch.float64)
+epoch =  4 batch =  22
+tensor(11.1732, dtype=torch.float64) tensor(7.7891, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(2.2772, dtype=torch.float64) tensor(1.1066, dtype=torch.float64)
+epoch =  4 batch =  23
+tensor(11.1971, dtype=torch.float64) tensor(7.8528, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(2.2042, dtype=torch.float64) tensor(1.1399, dtype=torch.float64)
+epoch =  4 batch =  24
+tensor(11.3080, dtype=torch.float64) tensor(7.7429, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(2.3902, dtype=torch.float64) tensor(1.1747, dtype=torch.float64)
+epoch =  4 batch =  25
+tensor(11.1821, dtype=torch.float64) tensor(7.7489, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(2.2574, dtype=torch.float64) tensor(1.1756, dtype=torch.float64)
+epoch =  4 batch =  26
+tensor(11.0455, dtype=torch.float64) tensor(7.7235, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(2.2657, dtype=torch.float64) tensor(1.0561, dtype=torch.float64)
+epoch =  4 batch =  27
+tensor(10.9767, dtype=torch.float64) tensor(7.8401, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(2.1413, dtype=torch.float64) tensor(0.9950, dtype=torch.float64)
+epoch =  4 batch =  28
+tensor(11.0752, dtype=torch.float64) tensor(7.8695, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(2.1832, dtype=torch.float64) tensor(1.0222, dtype=torch.float64)
+epoch =  4 batch =  29
+tensor(11.2907, dtype=torch.float64) tensor(7.7254, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(2.3229, dtype=torch.float64) tensor(1.2421, dtype=torch.float64)
+epoch =  4 batch =  30
+tensor(11.1407, dtype=torch.float64) tensor(7.8217, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(2.2214, dtype=torch.float64) tensor(1.0974, dtype=torch.float64)
+epoch =  4 batch =  31
+tensor(11.1986, dtype=torch.float64) tensor(7.7364, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(2.2109, dtype=torch.float64) tensor(1.2511, dtype=torch.float64)
+epoch =  4 batch =  32
+tensor(11.6660, dtype=torch.float64) tensor(7.7562, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(2.5384, dtype=torch.float64) tensor(1.3711, dtype=torch.float64)
+epoch =  4 batch =  33
+tensor(11.4228, dtype=torch.float64) tensor(7.8116, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(2.1940, dtype=torch.float64) tensor(1.4170, dtype=torch.float64)
+epoch =  4 batch =  34
+tensor(11.1740, dtype=torch.float64) tensor(7.7701, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(2.2878, dtype=torch.float64) tensor(1.1159, dtype=torch.float64)
+epoch =  4 batch =  35
+tensor(11.2224, dtype=torch.float64) tensor(7.7249, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(2.1864, dtype=torch.float64) tensor(1.3109, dtype=torch.float64)
+epoch =  4 batch =  36
+tensor(11.2929, dtype=torch.float64) tensor(7.6962, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(2.2604, dtype=torch.float64) tensor(1.3361, dtype=torch.float64)
+epoch =  4 batch =  37
+tensor(11.1317, dtype=torch.float64) tensor(7.7402, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(2.1398, dtype=torch.float64) tensor(1.2514, dtype=torch.float64)
+epoch =  4
+total_loss =  tensor(421.8314, dtype=torch.float64)
+epoch =  5 batch =  0
+tensor(11.1247, dtype=torch.float64) tensor(7.7968, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(2.3294, dtype=torch.float64) tensor(0.9983, dtype=torch.float64)
+epoch =  5 batch =  1
+tensor(10.6232, dtype=torch.float64) tensor(7.7104, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.9823, dtype=torch.float64) tensor(0.9303, dtype=torch.float64)
+epoch =  5 batch =  2
+tensor(10.6673, dtype=torch.float64) tensor(7.8559, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.9811, dtype=torch.float64) tensor(0.8301, dtype=torch.float64)
+epoch =  5 batch =  3
+tensor(10.8232, dtype=torch.float64) tensor(7.7440, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(2.0773, dtype=torch.float64) tensor(1.0017, dtype=torch.float64)
+epoch =  5 batch =  4
+tensor(10.7997, dtype=torch.float64) tensor(7.8218, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(2.0421, dtype=torch.float64) tensor(0.9356, dtype=torch.float64)
+epoch =  5 batch =  5
+tensor(10.9625, dtype=torch.float64) tensor(7.7231, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(2.2621, dtype=torch.float64) tensor(0.9771, dtype=torch.float64)
+epoch =  5 batch =  6
+tensor(10.5369, dtype=torch.float64) tensor(7.8537, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.8818, dtype=torch.float64) tensor(0.8011, dtype=torch.float64)
+epoch =  5 batch =  7
+tensor(10.7048, dtype=torch.float64) tensor(7.7594, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(2.0654, dtype=torch.float64) tensor(0.8798, dtype=torch.float64)
+epoch =  5 batch =  8
+tensor(10.9384, dtype=torch.float64) tensor(7.8316, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(2.2454, dtype=torch.float64) tensor(0.8611, dtype=torch.float64)
+epoch =  5 batch =  9
+tensor(10.9765, dtype=torch.float64) tensor(7.8424, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(2.1203, dtype=torch.float64) tensor(1.0135, dtype=torch.float64)
+epoch =  5 batch =  10
+tensor(10.9317, dtype=torch.float64) tensor(7.8028, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(2.1545, dtype=torch.float64) tensor(0.9741, dtype=torch.float64)
+epoch =  5 batch =  11
+tensor(10.8818, dtype=torch.float64) tensor(7.6692, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(2.1287, dtype=torch.float64) tensor(1.0837, dtype=torch.float64)
+epoch =  5 batch =  12
+tensor(10.5775, dtype=torch.float64) tensor(7.7719, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.9273, dtype=torch.float64) tensor(0.8780, dtype=torch.float64)
+epoch =  5 batch =  13
+tensor(10.8358, dtype=torch.float64) tensor(7.7911, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(2.1253, dtype=torch.float64) tensor(0.9193, dtype=torch.float64)
+epoch =  5 batch =  14
+tensor(10.7676, dtype=torch.float64) tensor(7.8066, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(2.0357, dtype=torch.float64) tensor(0.9251, dtype=torch.float64)
+epoch =  5 batch =  15
+tensor(10.6062, dtype=torch.float64) tensor(7.7902, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(2.0378, dtype=torch.float64) tensor(0.7780, dtype=torch.float64)
+epoch =  5 batch =  16
+tensor(10.7270, dtype=torch.float64) tensor(7.7685, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(2.0548, dtype=torch.float64) tensor(0.9035, dtype=torch.float64)
+epoch =  5 batch =  17
+tensor(10.7238, dtype=torch.float64) tensor(7.7766, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(2.0437, dtype=torch.float64) tensor(0.9034, dtype=torch.float64)
+epoch =  5 batch =  18
+tensor(11.0126, dtype=torch.float64) tensor(7.6935, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(2.1281, dtype=torch.float64) tensor(1.1907, dtype=torch.float64)
+epoch =  5 batch =  19
+tensor(10.9165, dtype=torch.float64) tensor(7.7827, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(2.1244, dtype=torch.float64) tensor(1.0093, dtype=torch.float64)
+epoch =  5 batch =  20
+tensor(10.7462, dtype=torch.float64) tensor(7.6494, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(2.1296, dtype=torch.float64) tensor(0.9670, dtype=torch.float64)
+epoch =  5 batch =  21
+tensor(10.6318, dtype=torch.float64) tensor(7.7422, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.9709, dtype=torch.float64) tensor(0.9186, dtype=torch.float64)
+epoch =  5 batch =  22
+tensor(10.7726, dtype=torch.float64) tensor(7.7266, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(2.1007, dtype=torch.float64) tensor(0.9450, dtype=torch.float64)
+epoch =  5 batch =  23
+tensor(10.7815, dtype=torch.float64) tensor(7.8554, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(2.0605, dtype=torch.float64) tensor(0.8654, dtype=torch.float64)
+epoch =  5 batch =  24
+tensor(10.9307, dtype=torch.float64) tensor(7.6955, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(2.1399, dtype=torch.float64) tensor(1.0951, dtype=torch.float64)
+epoch =  5 batch =  25
+tensor(10.7914, dtype=torch.float64) tensor(7.8367, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(2.1034, dtype=torch.float64) tensor(0.8510, dtype=torch.float64)
+epoch =  5 batch =  26
+tensor(10.6646, dtype=torch.float64) tensor(7.8398, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.9685, dtype=torch.float64) tensor(0.8561, dtype=torch.float64)
+epoch =  5 batch =  27
+tensor(10.6410, dtype=torch.float64) tensor(7.7200, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.9832, dtype=torch.float64) tensor(0.9377, dtype=torch.float64)
+epoch =  5 batch =  28
+tensor(10.9784, dtype=torch.float64) tensor(7.7065, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(2.1451, dtype=torch.float64) tensor(1.1267, dtype=torch.float64)
+epoch =  5 batch =  29
+tensor(10.8608, dtype=torch.float64) tensor(7.8551, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(2.0958, dtype=torch.float64) tensor(0.9097, dtype=torch.float64)
+epoch =  5 batch =  30
+tensor(10.7009, dtype=torch.float64) tensor(7.8073, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(2.0639, dtype=torch.float64) tensor(0.8295, dtype=torch.float64)
+epoch =  5 batch =  31
+tensor(10.8230, dtype=torch.float64) tensor(7.8082, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(2.0835, dtype=torch.float64) tensor(0.9311, dtype=torch.float64)
+epoch =  5 batch =  32
+tensor(10.6227, dtype=torch.float64) tensor(7.7461, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(2.0359, dtype=torch.float64) tensor(0.8405, dtype=torch.float64)
+epoch =  5 batch =  33
+tensor(10.7152, dtype=torch.float64) tensor(7.8033, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(2.0187, dtype=torch.float64) tensor(0.8929, dtype=torch.float64)
+epoch =  5 batch =  34
+tensor(11.0366, dtype=torch.float64) tensor(7.7862, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(2.2340, dtype=torch.float64) tensor(1.0162, dtype=torch.float64)
+epoch =  5 batch =  35
+tensor(10.9007, dtype=torch.float64) tensor(7.8490, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.9181, dtype=torch.float64) tensor(1.1334, dtype=torch.float64)
+epoch =  5 batch =  36
+tensor(10.9710, dtype=torch.float64) tensor(7.7110, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(2.1921, dtype=torch.float64) tensor(1.0678, dtype=torch.float64)
+epoch =  5 batch =  37
+tensor(11.1031, dtype=torch.float64) tensor(7.8060, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(2.2559, dtype=torch.float64) tensor(1.0409, dtype=torch.float64)
+epoch =  5
+total_loss =  tensor(410.8100, dtype=torch.float64)
+epoch =  6 batch =  0
+tensor(10.2893, dtype=torch.float64) tensor(7.6613, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.8321, dtype=torch.float64) tensor(0.7957, dtype=torch.float64)
+epoch =  6 batch =  1
+tensor(10.5322, dtype=torch.float64) tensor(7.8266, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.9222, dtype=torch.float64) tensor(0.7833, dtype=torch.float64)
+epoch =  6 batch =  2
+tensor(10.7195, dtype=torch.float64) tensor(7.8721, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(2.0325, dtype=torch.float64) tensor(0.8147, dtype=torch.float64)
+epoch =  6 batch =  3
+tensor(10.7516, dtype=torch.float64) tensor(7.7935, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(2.0396, dtype=torch.float64) tensor(0.9182, dtype=torch.float64)
+epoch =  6 batch =  4
+tensor(10.6143, dtype=torch.float64) tensor(7.7316, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(2.0382, dtype=torch.float64) tensor(0.8443, dtype=torch.float64)
+epoch =  6 batch =  5
+tensor(10.4936, dtype=torch.float64) tensor(7.8699, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.9055, dtype=torch.float64) tensor(0.7180, dtype=torch.float64)
+epoch =  6 batch =  6
+tensor(10.8212, dtype=torch.float64) tensor(7.7111, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(2.1354, dtype=torch.float64) tensor(0.9745, dtype=torch.float64)
+epoch =  6 batch =  7
+tensor(10.6089, dtype=torch.float64) tensor(7.6801, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(2.0190, dtype=torch.float64) tensor(0.9097, dtype=torch.float64)
+epoch =  6 batch =  8
+tensor(10.5035, dtype=torch.float64) tensor(7.7944, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.9522, dtype=torch.float64) tensor(0.7567, dtype=torch.float64)
+epoch =  6 batch =  9
+tensor(10.5934, dtype=torch.float64) tensor(7.7611, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.9690, dtype=torch.float64) tensor(0.8631, dtype=torch.float64)
+epoch =  6 batch =  10
+tensor(10.8684, dtype=torch.float64) tensor(7.7764, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(2.0928, dtype=torch.float64) tensor(0.9990, dtype=torch.float64)
+epoch =  6 batch =  11
+tensor(10.6735, dtype=torch.float64) tensor(7.7576, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.9444, dtype=torch.float64) tensor(0.9712, dtype=torch.float64)
+epoch =  6 batch =  12
+tensor(10.8041, dtype=torch.float64) tensor(7.8770, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(2.2311, dtype=torch.float64) tensor(0.6959, dtype=torch.float64)
+epoch =  6 batch =  13
+tensor(10.4504, dtype=torch.float64) tensor(7.8082, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.7926, dtype=torch.float64) tensor(0.8494, dtype=torch.float64)
+epoch =  6 batch =  14
+tensor(10.8701, dtype=torch.float64) tensor(7.8019, dtype=torch.float64) tensor(0.0003, dtype=torch.float64) tensor(2.0080, dtype=torch.float64) tensor(1.0600, dtype=torch.float64)
+epoch =  6 batch =  15
+tensor(10.8946, dtype=torch.float64) tensor(7.7286, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(2.0544, dtype=torch.float64) tensor(1.1114, dtype=torch.float64)
+epoch =  6 batch =  16
+tensor(10.6791, dtype=torch.float64) tensor(7.8251, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.9962, dtype=torch.float64) tensor(0.8576, dtype=torch.float64)
+epoch =  6 batch =  17
+tensor(10.4707, dtype=torch.float64) tensor(7.7748, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.8617, dtype=torch.float64) tensor(0.8340, dtype=torch.float64)
+epoch =  6 batch =  18
+tensor(10.3550, dtype=torch.float64) tensor(7.7952, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.8735, dtype=torch.float64) tensor(0.6861, dtype=torch.float64)
+epoch =  6 batch =  19
+tensor(10.6245, dtype=torch.float64) tensor(7.8242, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.9651, dtype=torch.float64) tensor(0.8350, dtype=torch.float64)
+epoch =  6 batch =  20
+tensor(10.4899, dtype=torch.float64) tensor(7.8355, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.9188, dtype=torch.float64) tensor(0.7353, dtype=torch.float64)
+epoch =  6 batch =  21
+tensor(10.5386, dtype=torch.float64) tensor(7.8056, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.8801, dtype=torch.float64) tensor(0.8526, dtype=torch.float64)
+epoch =  6 batch =  22
+tensor(10.7077, dtype=torch.float64) tensor(7.6913, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(2.0995, dtype=torch.float64) tensor(0.9166, dtype=torch.float64)
+epoch =  6 batch =  23
+tensor(10.5453, dtype=torch.float64) tensor(7.7218, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.9404, dtype=torch.float64) tensor(0.8829, dtype=torch.float64)
+epoch =  6 batch =  24
+tensor(10.6230, dtype=torch.float64) tensor(7.8907, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.9790, dtype=torch.float64) tensor(0.7532, dtype=torch.float64)
+epoch =  6 batch =  25
+tensor(10.4583, dtype=torch.float64) tensor(7.8189, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.8971, dtype=torch.float64) tensor(0.7421, dtype=torch.float64)
+epoch =  6 batch =  26
+tensor(10.7559, dtype=torch.float64) tensor(7.7777, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(2.0574, dtype=torch.float64) tensor(0.9206, dtype=torch.float64)
+epoch =  6 batch =  27
+tensor(10.4785, dtype=torch.float64) tensor(7.7919, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.9033, dtype=torch.float64) tensor(0.7831, dtype=torch.float64)
+epoch =  6 batch =  28
+tensor(10.4805, dtype=torch.float64) tensor(7.8258, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.9243, dtype=torch.float64) tensor(0.7302, dtype=torch.float64)
+epoch =  6 batch =  29
+tensor(10.7619, dtype=torch.float64) tensor(7.7423, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(2.0951, dtype=torch.float64) tensor(0.9243, dtype=torch.float64)
+epoch =  6 batch =  30
+tensor(10.6616, dtype=torch.float64) tensor(7.6607, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(2.0787, dtype=torch.float64) tensor(0.9219, dtype=torch.float64)
+epoch =  6 batch =  31
+tensor(10.8479, dtype=torch.float64) tensor(7.7242, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(2.0329, dtype=torch.float64) tensor(1.0906, dtype=torch.float64)
+epoch =  6 batch =  32
+tensor(10.5837, dtype=torch.float64) tensor(7.8343, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.9577, dtype=torch.float64) tensor(0.7916, dtype=torch.float64)
+epoch =  6 batch =  33
+tensor(10.9701, dtype=torch.float64) tensor(7.6619, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(2.3423, dtype=torch.float64) tensor(0.9656, dtype=torch.float64)
+epoch =  6 batch =  34
+tensor(10.8575, dtype=torch.float64) tensor(7.7431, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(2.1361, dtype=torch.float64) tensor(0.9781, dtype=torch.float64)
+epoch =  6 batch =  35
+tensor(10.8879, dtype=torch.float64) tensor(7.8078, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(2.0780, dtype=torch.float64) tensor(1.0019, dtype=torch.float64)
+epoch =  6 batch =  36
+tensor(10.5444, dtype=torch.float64) tensor(7.7760, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.9802, dtype=torch.float64) tensor(0.7880, dtype=torch.float64)
+epoch =  6 batch =  37
+tensor(10.5260, dtype=torch.float64) tensor(7.8055, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.8887, dtype=torch.float64) tensor(0.8316, dtype=torch.float64)
+epoch =  6
+total_loss =  tensor(404.3364, dtype=torch.float64)
+epoch =  7 batch =  0
+tensor(10.2801, dtype=torch.float64) tensor(7.7063, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.7904, dtype=torch.float64) tensor(0.7832, dtype=torch.float64)
+epoch =  7 batch =  1
+tensor(10.3981, dtype=torch.float64) tensor(7.8395, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.8304, dtype=torch.float64) tensor(0.7279, dtype=torch.float64)
+epoch =  7 batch =  2
+tensor(10.6896, dtype=torch.float64) tensor(7.7247, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(2.1201, dtype=torch.float64) tensor(0.8445, dtype=torch.float64)
+epoch =  7 batch =  3
+tensor(10.5382, dtype=torch.float64) tensor(7.7770, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.9441, dtype=torch.float64) tensor(0.8170, dtype=torch.float64)
+epoch =  7 batch =  4
+tensor(10.7298, dtype=torch.float64) tensor(7.7121, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(2.0596, dtype=torch.float64) tensor(0.9579, dtype=torch.float64)
+epoch =  7 batch =  5
+tensor(10.3517, dtype=torch.float64) tensor(7.6896, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.9169, dtype=torch.float64) tensor(0.7450, dtype=torch.float64)
+epoch =  7 batch =  6
+tensor(10.4330, dtype=torch.float64) tensor(7.6764, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.9035, dtype=torch.float64) tensor(0.8529, dtype=torch.float64)
+epoch =  7 batch =  7
+tensor(10.6067, dtype=torch.float64) tensor(7.8041, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(2.0068, dtype=torch.float64) tensor(0.7956, dtype=torch.float64)
+epoch =  7 batch =  8
+tensor(10.2665, dtype=torch.float64) tensor(7.7614, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.8251, dtype=torch.float64) tensor(0.6799, dtype=torch.float64)
+epoch =  7 batch =  9
+tensor(10.4325, dtype=torch.float64) tensor(7.7791, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.9388, dtype=torch.float64) tensor(0.7144, dtype=torch.float64)
+epoch =  7 batch =  10
+tensor(10.5177, dtype=torch.float64) tensor(7.7097, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.9161, dtype=torch.float64) tensor(0.8917, dtype=torch.float64)
+epoch =  7 batch =  11
+tensor(10.5297, dtype=torch.float64) tensor(7.8585, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.9347, dtype=torch.float64) tensor(0.7364, dtype=torch.float64)
+epoch =  7 batch =  12
+tensor(10.4324, dtype=torch.float64) tensor(7.8713, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.8714, dtype=torch.float64) tensor(0.6896, dtype=torch.float64)
+epoch =  7 batch =  13
+tensor(10.4704, dtype=torch.float64) tensor(7.8254, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.8222, dtype=torch.float64) tensor(0.8227, dtype=torch.float64)
+epoch =  7 batch =  14
+tensor(10.3814, dtype=torch.float64) tensor(7.7868, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.8463, dtype=torch.float64) tensor(0.7482, dtype=torch.float64)
+epoch =  7 batch =  15
+tensor(10.5444, dtype=torch.float64) tensor(7.7757, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.9396, dtype=torch.float64) tensor(0.8288, dtype=torch.float64)
+epoch =  7 batch =  16
+tensor(10.6457, dtype=torch.float64) tensor(7.8401, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(2.0075, dtype=torch.float64) tensor(0.7979, dtype=torch.float64)
+epoch =  7 batch =  17
+tensor(10.5125, dtype=torch.float64) tensor(7.7733, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.8913, dtype=torch.float64) tensor(0.8477, dtype=torch.float64)
+epoch =  7 batch =  18
+tensor(10.5774, dtype=torch.float64) tensor(7.7292, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.9220, dtype=torch.float64) tensor(0.9260, dtype=torch.float64)
+epoch =  7 batch =  19
+tensor(10.4450, dtype=torch.float64) tensor(7.8525, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.8859, dtype=torch.float64) tensor(0.7065, dtype=torch.float64)
+epoch =  7 batch =  20
+tensor(10.4150, dtype=torch.float64) tensor(7.8112, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.8993, dtype=torch.float64) tensor(0.7043, dtype=torch.float64)
+epoch =  7 batch =  21
+tensor(10.3939, dtype=torch.float64) tensor(7.7300, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.9128, dtype=torch.float64) tensor(0.7509, dtype=torch.float64)
+epoch =  7 batch =  22
+tensor(10.7926, dtype=torch.float64) tensor(7.7400, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(2.2176, dtype=torch.float64) tensor(0.8348, dtype=torch.float64)
+epoch =  7 batch =  23
+tensor(10.6235, dtype=torch.float64) tensor(7.7244, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(2.0370, dtype=torch.float64) tensor(0.8619, dtype=torch.float64)
+epoch =  7 batch =  24
+tensor(10.6060, dtype=torch.float64) tensor(7.8027, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.7784, dtype=torch.float64) tensor(1.0246, dtype=torch.float64)
+epoch =  7 batch =  25
+tensor(10.3775, dtype=torch.float64) tensor(7.9111, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.8510, dtype=torch.float64) tensor(0.6152, dtype=torch.float64)
+epoch =  7 batch =  26
+tensor(10.4960, dtype=torch.float64) tensor(7.8081, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.9199, dtype=torch.float64) tensor(0.7677, dtype=torch.float64)
+epoch =  7 batch =  27
+tensor(10.4593, dtype=torch.float64) tensor(7.8460, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.8607, dtype=torch.float64) tensor(0.7525, dtype=torch.float64)
+epoch =  7 batch =  28
+tensor(10.5597, dtype=torch.float64) tensor(7.7577, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.9431, dtype=torch.float64) tensor(0.8587, dtype=torch.float64)
+epoch =  7 batch =  29
+tensor(10.4187, dtype=torch.float64) tensor(7.8120, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.8560, dtype=torch.float64) tensor(0.7505, dtype=torch.float64)
+epoch =  7 batch =  30
+tensor(10.4636, dtype=torch.float64) tensor(7.7441, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.8957, dtype=torch.float64) tensor(0.8235, dtype=torch.float64)
+epoch =  7 batch =  31
+tensor(10.2125, dtype=torch.float64) tensor(7.7787, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.7503, dtype=torch.float64) tensor(0.6833, dtype=torch.float64)
+epoch =  7 batch =  32
+tensor(10.4802, dtype=torch.float64) tensor(7.8347, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.8454, dtype=torch.float64) tensor(0.7998, dtype=torch.float64)
+epoch =  7 batch =  33
+tensor(10.5656, dtype=torch.float64) tensor(7.7309, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.9327, dtype=torch.float64) tensor(0.9019, dtype=torch.float64)
+epoch =  7 batch =  34
+tensor(10.5137, dtype=torch.float64) tensor(7.6457, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.9315, dtype=torch.float64) tensor(0.9364, dtype=torch.float64)
+epoch =  7 batch =  35
+tensor(10.3458, dtype=torch.float64) tensor(7.7625, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.9109, dtype=torch.float64) tensor(0.6722, dtype=torch.float64)
+epoch =  7 batch =  36
+tensor(10.5809, dtype=torch.float64) tensor(7.8106, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.9939, dtype=torch.float64) tensor(0.7762, dtype=torch.float64)
+epoch =  7 batch =  37
+tensor(10.3896, dtype=torch.float64) tensor(7.9003, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.8397, dtype=torch.float64) tensor(0.6495, dtype=torch.float64)
+epoch =  7
+total_loss =  tensor(398.4768, dtype=torch.float64)
+epoch =  8 batch =  0
+tensor(10.3086, dtype=torch.float64) tensor(7.7314, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.8645, dtype=torch.float64) tensor(0.7126, dtype=torch.float64)
+epoch =  8 batch =  1
+tensor(10.2301, dtype=torch.float64) tensor(7.6803, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.7871, dtype=torch.float64) tensor(0.7625, dtype=torch.float64)
+epoch =  8 batch =  2
+tensor(10.3384, dtype=torch.float64) tensor(7.7251, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.8777, dtype=torch.float64) tensor(0.7355, dtype=torch.float64)
+epoch =  8 batch =  3
+tensor(10.3938, dtype=torch.float64) tensor(7.7439, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.8879, dtype=torch.float64) tensor(0.7619, dtype=torch.float64)
+epoch =  8 batch =  4
+tensor(10.1362, dtype=torch.float64) tensor(7.7480, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.7395, dtype=torch.float64) tensor(0.6485, dtype=torch.float64)
+epoch =  8 batch =  5
+tensor(10.4109, dtype=torch.float64) tensor(7.7150, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.8721, dtype=torch.float64) tensor(0.8236, dtype=torch.float64)
+epoch =  8 batch =  6
+tensor(10.2741, dtype=torch.float64) tensor(7.6831, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.8329, dtype=torch.float64) tensor(0.7580, dtype=torch.float64)
+epoch =  8 batch =  7
+tensor(10.3083, dtype=torch.float64) tensor(7.7088, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.8575, dtype=torch.float64) tensor(0.7418, dtype=torch.float64)
+epoch =  8 batch =  8
+tensor(10.3573, dtype=torch.float64) tensor(7.8688, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.8246, dtype=torch.float64) tensor(0.6636, dtype=torch.float64)
+epoch =  8 batch =  9
+tensor(10.7508, dtype=torch.float64) tensor(7.7927, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.9076, dtype=torch.float64) tensor(1.0503, dtype=torch.float64)
+epoch =  8 batch =  10
+tensor(10.3958, dtype=torch.float64) tensor(7.7730, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.7901, dtype=torch.float64) tensor(0.8325, dtype=torch.float64)
+epoch =  8 batch =  11
+tensor(10.6984, dtype=torch.float64) tensor(7.7573, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(2.0269, dtype=torch.float64) tensor(0.9140, dtype=torch.float64)
+epoch =  8 batch =  12
+tensor(10.2163, dtype=torch.float64) tensor(7.7932, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.7541, dtype=torch.float64) tensor(0.6688, dtype=torch.float64)
+epoch =  8 batch =  13
+tensor(10.4429, dtype=torch.float64) tensor(7.8554, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.9840, dtype=torch.float64) tensor(0.6033, dtype=torch.float64)
+epoch =  8 batch =  14
+tensor(10.5247, dtype=torch.float64) tensor(7.7789, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.9925, dtype=torch.float64) tensor(0.7531, dtype=torch.float64)
+epoch =  8 batch =  15
+tensor(10.3554, dtype=torch.float64) tensor(7.8290, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.8611, dtype=torch.float64) tensor(0.6651, dtype=torch.float64)
+epoch =  8 batch =  16
+tensor(10.0965, dtype=torch.float64) tensor(7.7121, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.6828, dtype=torch.float64) tensor(0.7015, dtype=torch.float64)
+epoch =  8 batch =  17
+tensor(10.2817, dtype=torch.float64) tensor(7.8258, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.8393, dtype=torch.float64) tensor(0.6163, dtype=torch.float64)
+epoch =  8 batch =  18
+tensor(10.3088, dtype=torch.float64) tensor(7.7928, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.8303, dtype=torch.float64) tensor(0.6856, dtype=torch.float64)
+epoch =  8 batch =  19
+tensor(10.1642, dtype=torch.float64) tensor(7.8578, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.7631, dtype=torch.float64) tensor(0.5432, dtype=torch.float64)
+epoch =  8 batch =  20
+tensor(10.1845, dtype=torch.float64) tensor(7.8269, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.7528, dtype=torch.float64) tensor(0.6046, dtype=torch.float64)
+epoch =  8 batch =  21
+tensor(10.4675, dtype=torch.float64) tensor(7.8090, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.8572, dtype=torch.float64) tensor(0.8012, dtype=torch.float64)
+epoch =  8 batch =  22
+tensor(10.3501, dtype=torch.float64) tensor(7.8587, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.7684, dtype=torch.float64) tensor(0.7228, dtype=torch.float64)
+epoch =  8 batch =  23
+tensor(10.3065, dtype=torch.float64) tensor(7.7837, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.7716, dtype=torch.float64) tensor(0.7510, dtype=torch.float64)
+epoch =  8 batch =  24
+tensor(10.2818, dtype=torch.float64) tensor(7.7761, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.7748, dtype=torch.float64) tensor(0.7307, dtype=torch.float64)
+epoch =  8 batch =  25
+tensor(10.3166, dtype=torch.float64) tensor(7.7725, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.7741, dtype=torch.float64) tensor(0.7698, dtype=torch.float64)
+epoch =  8 batch =  26
+tensor(10.4672, dtype=torch.float64) tensor(7.8260, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.9757, dtype=torch.float64) tensor(0.6653, dtype=torch.float64)
+epoch =  8 batch =  27
+tensor(10.2918, dtype=torch.float64) tensor(7.8560, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.8141, dtype=torch.float64) tensor(0.6216, dtype=torch.float64)
+epoch =  8 batch =  28
+tensor(10.7757, dtype=torch.float64) tensor(7.6624, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(2.0690, dtype=torch.float64) tensor(1.0442, dtype=torch.float64)
+epoch =  8 batch =  29
+tensor(10.3602, dtype=torch.float64) tensor(7.7535, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.9283, dtype=torch.float64) tensor(0.6782, dtype=torch.float64)
+epoch =  8 batch =  30
+tensor(10.4747, dtype=torch.float64) tensor(7.7114, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.9511, dtype=torch.float64) tensor(0.8120, dtype=torch.float64)
+epoch =  8 batch =  31
+tensor(10.1580, dtype=torch.float64) tensor(7.9397, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.7053, dtype=torch.float64) tensor(0.5128, dtype=torch.float64)
+epoch =  8 batch =  32
+tensor(10.1524, dtype=torch.float64) tensor(7.8590, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.6632, dtype=torch.float64) tensor(0.6301, dtype=torch.float64)
+epoch =  8 batch =  33
+tensor(10.6395, dtype=torch.float64) tensor(7.8111, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.9872, dtype=torch.float64) tensor(0.8409, dtype=torch.float64)
+epoch =  8 batch =  34
+tensor(10.3798, dtype=torch.float64) tensor(7.7414, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.8514, dtype=torch.float64) tensor(0.7868, dtype=torch.float64)
+epoch =  8 batch =  35
+tensor(10.2273, dtype=torch.float64) tensor(7.7502, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.7398, dtype=torch.float64) tensor(0.7371, dtype=torch.float64)
+epoch =  8 batch =  36
+tensor(10.3096, dtype=torch.float64) tensor(7.7848, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.7908, dtype=torch.float64) tensor(0.7339, dtype=torch.float64)
+epoch =  8 batch =  37
+tensor(10.3541, dtype=torch.float64) tensor(7.7384, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.8569, dtype=torch.float64) tensor(0.7586, dtype=torch.float64)
+epoch =  8
+total_loss =  tensor(393.4905, dtype=torch.float64)
+epoch =  9 batch =  0
+tensor(10.1357, dtype=torch.float64) tensor(7.7413, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.6983, dtype=torch.float64) tensor(0.6959, dtype=torch.float64)
+epoch =  9 batch =  1
+tensor(10.1675, dtype=torch.float64) tensor(7.8065, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.7350, dtype=torch.float64) tensor(0.6258, dtype=torch.float64)
+epoch =  9 batch =  2
+tensor(10.4622, dtype=torch.float64) tensor(7.7171, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.8927, dtype=torch.float64) tensor(0.8522, dtype=torch.float64)
+epoch =  9 batch =  3
+tensor(10.3618, dtype=torch.float64) tensor(7.7230, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.8871, dtype=torch.float64) tensor(0.7515, dtype=torch.float64)
+epoch =  9 batch =  4
+tensor(10.6540, dtype=torch.float64) tensor(7.7755, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.9837, dtype=torch.float64) tensor(0.8946, dtype=torch.float64)
+epoch =  9 batch =  5
+tensor(10.4714, dtype=torch.float64) tensor(7.8242, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.8298, dtype=torch.float64) tensor(0.8172, dtype=torch.float64)
+epoch =  9 batch =  6
+tensor(10.4224, dtype=torch.float64) tensor(7.8928, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.8608, dtype=torch.float64) tensor(0.6686, dtype=torch.float64)
+epoch =  9 batch =  7
+tensor(10.0496, dtype=torch.float64) tensor(7.7475, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.6888, dtype=torch.float64) tensor(0.6131, dtype=torch.float64)
+epoch =  9 batch =  8
+tensor(10.2987, dtype=torch.float64) tensor(7.7472, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.8015, dtype=torch.float64) tensor(0.7497, dtype=torch.float64)
+epoch =  9 batch =  9
+tensor(10.2250, dtype=torch.float64) tensor(7.7548, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.7781, dtype=torch.float64) tensor(0.6919, dtype=torch.float64)
+epoch =  9 batch =  10
+tensor(10.0906, dtype=torch.float64) tensor(7.7900, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.6498, dtype=torch.float64) tensor(0.6506, dtype=torch.float64)
+epoch =  9 batch =  11
+tensor(10.4481, dtype=torch.float64) tensor(7.8013, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.9174, dtype=torch.float64) tensor(0.7292, dtype=torch.float64)
+epoch =  9 batch =  12
+tensor(10.4477, dtype=torch.float64) tensor(7.7139, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.9085, dtype=torch.float64) tensor(0.8250, dtype=torch.float64)
+epoch =  9 batch =  13
+tensor(10.3775, dtype=torch.float64) tensor(7.7807, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.8827, dtype=torch.float64) tensor(0.7140, dtype=torch.float64)
+epoch =  9 batch =  14
+tensor(10.0489, dtype=torch.float64) tensor(7.8146, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.6762, dtype=torch.float64) tensor(0.5579, dtype=torch.float64)
+epoch =  9 batch =  15
+tensor(10.4499, dtype=torch.float64) tensor(7.8383, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.8934, dtype=torch.float64) tensor(0.7180, dtype=torch.float64)
+epoch =  9 batch =  16
+tensor(10.1656, dtype=torch.float64) tensor(7.8106, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.7970, dtype=torch.float64) tensor(0.5577, dtype=torch.float64)
+epoch =  9 batch =  17
+tensor(10.0910, dtype=torch.float64) tensor(7.7776, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.6840, dtype=torch.float64) tensor(0.6292, dtype=torch.float64)
+epoch =  9 batch =  18
+tensor(10.1818, dtype=torch.float64) tensor(7.7464, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.7494, dtype=torch.float64) tensor(0.6859, dtype=torch.float64)
+epoch =  9 batch =  19
+tensor(10.2838, dtype=torch.float64) tensor(7.7454, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.8249, dtype=torch.float64) tensor(0.7134, dtype=torch.float64)
+epoch =  9 batch =  20
+tensor(10.2826, dtype=torch.float64) tensor(7.6955, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.9015, dtype=torch.float64) tensor(0.6854, dtype=torch.float64)
+epoch =  9 batch =  21
+tensor(10.3704, dtype=torch.float64) tensor(7.7159, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.8504, dtype=torch.float64) tensor(0.8039, dtype=torch.float64)
+epoch =  9 batch =  22
+tensor(10.4618, dtype=torch.float64) tensor(7.8039, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.9861, dtype=torch.float64) tensor(0.6716, dtype=torch.float64)
+epoch =  9 batch =  23
+tensor(10.1869, dtype=torch.float64) tensor(7.7938, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.7023, dtype=torch.float64) tensor(0.6907, dtype=torch.float64)
+epoch =  9 batch =  24
+tensor(10.1392, dtype=torch.float64) tensor(7.8441, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.7332, dtype=torch.float64) tensor(0.5618, dtype=torch.float64)
+epoch =  9 batch =  25
+tensor(10.1431, dtype=torch.float64) tensor(7.8800, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.7019, dtype=torch.float64) tensor(0.5611, dtype=torch.float64)
+epoch =  9 batch =  26
+tensor(10.2991, dtype=torch.float64) tensor(7.6019, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.8534, dtype=torch.float64) tensor(0.8437, dtype=torch.float64)
+epoch =  9 batch =  27
+tensor(10.1445, dtype=torch.float64) tensor(7.8436, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.6595, dtype=torch.float64) tensor(0.6411, dtype=torch.float64)
+epoch =  9 batch =  28
+tensor(10.1370, dtype=torch.float64) tensor(7.7152, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.7360, dtype=torch.float64) tensor(0.6856, dtype=torch.float64)
+epoch =  9 batch =  29
+tensor(10.1053, dtype=torch.float64) tensor(7.7622, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.6768, dtype=torch.float64) tensor(0.6662, dtype=torch.float64)
+epoch =  9 batch =  30
+tensor(10.2014, dtype=torch.float64) tensor(7.7939, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.7467, dtype=torch.float64) tensor(0.6605, dtype=torch.float64)
+epoch =  9 batch =  31
+tensor(10.4009, dtype=torch.float64) tensor(7.8371, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.7419, dtype=torch.float64) tensor(0.8217, dtype=torch.float64)
+epoch =  9 batch =  32
+tensor(10.1574, dtype=torch.float64) tensor(7.8715, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.6832, dtype=torch.float64) tensor(0.6024, dtype=torch.float64)
+epoch =  9 batch =  33
+tensor(10.2121, dtype=torch.float64) tensor(7.8434, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.7556, dtype=torch.float64) tensor(0.6129, dtype=torch.float64)
+epoch =  9 batch =  34
+tensor(10.4729, dtype=torch.float64) tensor(7.8264, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.9157, dtype=torch.float64) tensor(0.7307, dtype=torch.float64)
+epoch =  9 batch =  35
+tensor(10.3047, dtype=torch.float64) tensor(7.7327, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.8023, dtype=torch.float64) tensor(0.7696, dtype=torch.float64)
+epoch =  9 batch =  36
+tensor(10.2049, dtype=torch.float64) tensor(7.7272, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.7435, dtype=torch.float64) tensor(0.7340, dtype=torch.float64)
+epoch =  9 batch =  37
+tensor(10.3837, dtype=torch.float64) tensor(7.8568, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.8991, dtype=torch.float64) tensor(0.6276, dtype=torch.float64)
+epoch =  9
+total_loss =  tensor(390.4410, dtype=torch.float64)
+epoch =  10 batch =  0
+tensor(10.1149, dtype=torch.float64) tensor(7.7329, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.7259, dtype=torch.float64) tensor(0.6559, dtype=torch.float64)
+epoch =  10 batch =  1
+tensor(10.1248, dtype=torch.float64) tensor(7.7109, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.7567, dtype=torch.float64) tensor(0.6570, dtype=torch.float64)
+epoch =  10 batch =  2
+tensor(10.2243, dtype=torch.float64) tensor(7.8656, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.8118, dtype=torch.float64) tensor(0.5467, dtype=torch.float64)
+epoch =  10 batch =  3
+tensor(10.0461, dtype=torch.float64) tensor(7.8571, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.6353, dtype=torch.float64) tensor(0.5536, dtype=torch.float64)
+epoch =  10 batch =  4
+tensor(10.0667, dtype=torch.float64) tensor(7.7165, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.7223, dtype=torch.float64) tensor(0.6278, dtype=torch.float64)
+epoch =  10 batch =  5
+tensor(10.2063, dtype=torch.float64) tensor(7.7010, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.7661, dtype=torch.float64) tensor(0.7390, dtype=torch.float64)
+epoch =  10 batch =  6
+tensor(10.1508, dtype=torch.float64) tensor(7.8899, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.6988, dtype=torch.float64) tensor(0.5620, dtype=torch.float64)
+epoch =  10 batch =  7
+tensor(10.4259, dtype=torch.float64) tensor(7.6660, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.9588, dtype=torch.float64) tensor(0.8009, dtype=torch.float64)
+epoch =  10 batch =  8
+tensor(10.1774, dtype=torch.float64) tensor(7.7481, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.7349, dtype=torch.float64) tensor(0.6942, dtype=torch.float64)
+epoch =  10 batch =  9
+tensor(9.9717, dtype=torch.float64) tensor(7.8369, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.5534, dtype=torch.float64) tensor(0.5813, dtype=torch.float64)
+epoch =  10 batch =  10
+tensor(10.1959, dtype=torch.float64) tensor(7.8724, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.7318, dtype=torch.float64) tensor(0.5915, dtype=torch.float64)
+epoch =  10 batch =  11
+tensor(10.3955, dtype=torch.float64) tensor(7.7786, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.8293, dtype=torch.float64) tensor(0.7874, dtype=torch.float64)
+epoch =  10 batch =  12
+tensor(10.2535, dtype=torch.float64) tensor(7.6712, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.7831, dtype=torch.float64) tensor(0.7990, dtype=torch.float64)
+epoch =  10 batch =  13
+tensor(10.1696, dtype=torch.float64) tensor(7.9244, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.7169, dtype=torch.float64) tensor(0.5281, dtype=torch.float64)
+epoch =  10 batch =  14
+tensor(10.1342, dtype=torch.float64) tensor(7.8435, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.7268, dtype=torch.float64) tensor(0.5637, dtype=torch.float64)
+epoch =  10 batch =  15
+tensor(10.3202, dtype=torch.float64) tensor(7.7774, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.8835, dtype=torch.float64) tensor(0.6591, dtype=torch.float64)
+epoch =  10 batch =  16
+tensor(10.0815, dtype=torch.float64) tensor(7.8106, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.6572, dtype=torch.float64) tensor(0.6136, dtype=torch.float64)
+epoch =  10 batch =  17
+tensor(10.1979, dtype=torch.float64) tensor(7.8582, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.7189, dtype=torch.float64) tensor(0.6206, dtype=torch.float64)
+epoch =  10 batch =  18
+tensor(10.4037, dtype=torch.float64) tensor(7.7552, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.7381, dtype=torch.float64) tensor(0.9102, dtype=torch.float64)
+epoch =  10 batch =  19
+tensor(10.1983, dtype=torch.float64) tensor(7.8447, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.7529, dtype=torch.float64) tensor(0.6005, dtype=torch.float64)
+epoch =  10 batch =  20
+tensor(10.1526, dtype=torch.float64) tensor(7.7780, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.7008, dtype=torch.float64) tensor(0.6737, dtype=torch.float64)
+epoch =  10 batch =  21
+tensor(10.2466, dtype=torch.float64) tensor(7.7443, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.6257, dtype=torch.float64) tensor(0.8764, dtype=torch.float64)
+epoch =  10 batch =  22
+tensor(10.1231, dtype=torch.float64) tensor(7.6512, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.7210, dtype=torch.float64) tensor(0.7508, dtype=torch.float64)
+epoch =  10 batch =  23
+tensor(10.2242, dtype=torch.float64) tensor(7.7208, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.7625, dtype=torch.float64) tensor(0.7408, dtype=torch.float64)
+epoch =  10 batch =  24
+tensor(10.0635, dtype=torch.float64) tensor(7.7805, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.7016, dtype=torch.float64) tensor(0.5812, dtype=torch.float64)
+epoch =  10 batch =  25
+tensor(10.3646, dtype=torch.float64) tensor(7.8089, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.9196, dtype=torch.float64) tensor(0.6360, dtype=torch.float64)
+epoch =  10 batch =  26
+tensor(10.0325, dtype=torch.float64) tensor(7.7797, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.6398, dtype=torch.float64) tensor(0.6130, dtype=torch.float64)
+epoch =  10 batch =  27
+tensor(10.3139, dtype=torch.float64) tensor(7.8421, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.7707, dtype=torch.float64) tensor(0.7010, dtype=torch.float64)
+epoch =  10 batch =  28
+tensor(10.2319, dtype=torch.float64) tensor(7.7909, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.8255, dtype=torch.float64) tensor(0.6152, dtype=torch.float64)
+epoch =  10 batch =  29
+tensor(10.1142, dtype=torch.float64) tensor(7.8088, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.6505, dtype=torch.float64) tensor(0.6547, dtype=torch.float64)
+epoch =  10 batch =  30
+tensor(10.1447, dtype=torch.float64) tensor(7.7939, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.7134, dtype=torch.float64) tensor(0.6373, dtype=torch.float64)
+epoch =  10 batch =  31
+tensor(10.2702, dtype=torch.float64) tensor(7.7512, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.7623, dtype=torch.float64) tensor(0.7566, dtype=torch.float64)
+epoch =  10 batch =  32
+tensor(10.1729, dtype=torch.float64) tensor(7.6999, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.7435, dtype=torch.float64) tensor(0.7294, dtype=torch.float64)
+epoch =  10 batch =  33
+tensor(10.2624, dtype=torch.float64) tensor(7.7646, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.8707, dtype=torch.float64) tensor(0.6270, dtype=torch.float64)
+epoch =  10 batch =  34
+tensor(10.2992, dtype=torch.float64) tensor(7.6698, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.8752, dtype=torch.float64) tensor(0.7541, dtype=torch.float64)
+epoch =  10 batch =  35
+tensor(10.2172, dtype=torch.float64) tensor(7.8604, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.7429, dtype=torch.float64) tensor(0.6138, dtype=torch.float64)
+epoch =  10 batch =  36
+tensor(10.0632, dtype=torch.float64) tensor(7.8131, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.7160, dtype=torch.float64) tensor(0.5339, dtype=torch.float64)
+epoch =  10 batch =  37
+tensor(9.9771, dtype=torch.float64) tensor(7.7667, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.6205, dtype=torch.float64) tensor(0.5897, dtype=torch.float64)
+epoch =  10
+total_loss =  tensor(387.1330, dtype=torch.float64)
+epoch =  11 batch =  0
+tensor(10.2732, dtype=torch.float64) tensor(7.7460, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.8720, dtype=torch.float64) tensor(0.6552, dtype=torch.float64)
+epoch =  11 batch =  1
+tensor(10.0326, dtype=torch.float64) tensor(7.7455, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.6702, dtype=torch.float64) tensor(0.6167, dtype=torch.float64)
+epoch =  11 batch =  2
+tensor(10.0127, dtype=torch.float64) tensor(7.7179, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.6571, dtype=torch.float64) tensor(0.6375, dtype=torch.float64)
+epoch =  11 batch =  3
+tensor(10.0928, dtype=torch.float64) tensor(7.7787, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.6864, dtype=torch.float64) tensor(0.6276, dtype=torch.float64)
+epoch =  11 batch =  4
+tensor(9.9240, dtype=torch.float64) tensor(7.7872, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.6255, dtype=torch.float64) tensor(0.5111, dtype=torch.float64)
+epoch =  11 batch =  5
+tensor(10.0801, dtype=torch.float64) tensor(7.7915, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.6417, dtype=torch.float64) tensor(0.6468, dtype=torch.float64)
+epoch =  11 batch =  6
+tensor(10.0780, dtype=torch.float64) tensor(7.8606, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.6469, dtype=torch.float64) tensor(0.5703, dtype=torch.float64)
+epoch =  11 batch =  7
+tensor(10.4493, dtype=torch.float64) tensor(7.6663, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.9330, dtype=torch.float64) tensor(0.8499, dtype=torch.float64)
+epoch =  11 batch =  8
+tensor(10.0578, dtype=torch.float64) tensor(7.8168, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.6743, dtype=torch.float64) tensor(0.5666, dtype=torch.float64)
+epoch =  11 batch =  9
+tensor(10.0903, dtype=torch.float64) tensor(7.8262, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.6141, dtype=torch.float64) tensor(0.6499, dtype=torch.float64)
+epoch =  11 batch =  10
+tensor(10.1909, dtype=torch.float64) tensor(7.7961, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.7973, dtype=torch.float64) tensor(0.5973, dtype=torch.float64)
+epoch =  11 batch =  11
+tensor(9.9558, dtype=torch.float64) tensor(7.7947, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.6430, dtype=torch.float64) tensor(0.5180, dtype=torch.float64)
+epoch =  11 batch =  12
+tensor(10.0109, dtype=torch.float64) tensor(7.8279, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.6188, dtype=torch.float64) tensor(0.5640, dtype=torch.float64)
+epoch =  11 batch =  13
+tensor(9.9411, dtype=torch.float64) tensor(7.8884, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.6228, dtype=torch.float64) tensor(0.4297, dtype=torch.float64)
+epoch =  11 batch =  14
+tensor(9.8805, dtype=torch.float64) tensor(7.7941, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.5603, dtype=torch.float64) tensor(0.5260, dtype=torch.float64)
+epoch =  11 batch =  15
+tensor(10.5382, dtype=torch.float64) tensor(7.8279, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.9492, dtype=torch.float64) tensor(0.7610, dtype=torch.float64)
+epoch =  11 batch =  16
+tensor(10.1797, dtype=torch.float64) tensor(7.7778, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.7813, dtype=torch.float64) tensor(0.6204, dtype=torch.float64)
+epoch =  11 batch =  17
+tensor(10.2678, dtype=torch.float64) tensor(7.7456, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.8811, dtype=torch.float64) tensor(0.6409, dtype=torch.float64)
+epoch =  11 batch =  18
+tensor(9.9592, dtype=torch.float64) tensor(7.7603, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.5708, dtype=torch.float64) tensor(0.6280, dtype=torch.float64)
+epoch =  11 batch =  19
+tensor(10.2278, dtype=torch.float64) tensor(7.6725, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.7917, dtype=torch.float64) tensor(0.7634, dtype=torch.float64)
+epoch =  11 batch =  20
+tensor(9.8642, dtype=torch.float64) tensor(7.7625, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.5278, dtype=torch.float64) tensor(0.5737, dtype=torch.float64)
+epoch =  11 batch =  21
+tensor(10.0115, dtype=torch.float64) tensor(7.7472, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.6193, dtype=torch.float64) tensor(0.6449, dtype=torch.float64)
+epoch =  11 batch =  22
+tensor(10.0198, dtype=torch.float64) tensor(7.8053, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.6174, dtype=torch.float64) tensor(0.5969, dtype=torch.float64)
+epoch =  11 batch =  23
+tensor(10.0436, dtype=torch.float64) tensor(7.7627, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.6899, dtype=torch.float64) tensor(0.5908, dtype=torch.float64)
+epoch =  11 batch =  24
+tensor(10.0296, dtype=torch.float64) tensor(7.8120, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.6321, dtype=torch.float64) tensor(0.5854, dtype=torch.float64)
+epoch =  11 batch =  25
+tensor(9.8762, dtype=torch.float64) tensor(7.8917, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.5475, dtype=torch.float64) tensor(0.4369, dtype=torch.float64)
+epoch =  11 batch =  26
+tensor(9.9410, dtype=torch.float64) tensor(7.7495, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.6317, dtype=torch.float64) tensor(0.5597, dtype=torch.float64)
+epoch =  11 batch =  27
+tensor(10.1089, dtype=torch.float64) tensor(7.7631, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.6718, dtype=torch.float64) tensor(0.6739, dtype=torch.float64)
+epoch =  11 batch =  28
+tensor(10.1863, dtype=torch.float64) tensor(7.7735, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.7545, dtype=torch.float64) tensor(0.6581, dtype=torch.float64)
+epoch =  11 batch =  29
+tensor(10.1195, dtype=torch.float64) tensor(7.6836, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.7410, dtype=torch.float64) tensor(0.6948, dtype=torch.float64)
+epoch =  11 batch =  30
+tensor(10.0682, dtype=torch.float64) tensor(7.8421, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.5625, dtype=torch.float64) tensor(0.6635, dtype=torch.float64)
+epoch =  11 batch =  31
+tensor(10.1109, dtype=torch.float64) tensor(7.8456, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.6846, dtype=torch.float64) tensor(0.5805, dtype=torch.float64)
+epoch =  11 batch =  32
+tensor(10.3693, dtype=torch.float64) tensor(7.7799, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.8491, dtype=torch.float64) tensor(0.7401, dtype=torch.float64)
+epoch =  11 batch =  33
+tensor(10.1152, dtype=torch.float64) tensor(7.7785, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.6606, dtype=torch.float64) tensor(0.6759, dtype=torch.float64)
+epoch =  11 batch =  34
+tensor(9.9079, dtype=torch.float64) tensor(7.8749, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.4959, dtype=torch.float64) tensor(0.5370, dtype=torch.float64)
+epoch =  11 batch =  35
+tensor(10.0002, dtype=torch.float64) tensor(7.6973, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.6883, dtype=torch.float64) tensor(0.6144, dtype=torch.float64)
+epoch =  11 batch =  36
+tensor(10.4593, dtype=torch.float64) tensor(7.6800, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.9417, dtype=torch.float64) tensor(0.8374, dtype=torch.float64)
+epoch =  11 batch =  37
+tensor(9.9262, dtype=torch.float64) tensor(7.8591, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.5552, dtype=torch.float64) tensor(0.5117, dtype=torch.float64)
+epoch =  11
+total_loss =  tensor(383.4004, dtype=torch.float64)
+epoch =  12 batch =  0
+tensor(9.9114, dtype=torch.float64) tensor(7.6920, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.5668, dtype=torch.float64) tensor(0.6524, dtype=torch.float64)
+epoch =  12 batch =  1
+tensor(10.0745, dtype=torch.float64) tensor(7.6462, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.7118, dtype=torch.float64) tensor(0.7164, dtype=torch.float64)
+epoch =  12 batch =  2
+tensor(10.0132, dtype=torch.float64) tensor(7.8382, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.6036, dtype=torch.float64) tensor(0.5713, dtype=torch.float64)
+epoch =  12 batch =  3
+tensor(9.9944, dtype=torch.float64) tensor(7.7792, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.6415, dtype=torch.float64) tensor(0.5735, dtype=torch.float64)
+epoch =  12 batch =  4
+tensor(10.0486, dtype=torch.float64) tensor(7.8153, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.6612, dtype=torch.float64) tensor(0.5720, dtype=torch.float64)
+epoch =  12 batch =  5
+tensor(10.0404, dtype=torch.float64) tensor(7.7652, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.5876, dtype=torch.float64) tensor(0.6875, dtype=torch.float64)
+epoch =  12 batch =  6
+tensor(10.0108, dtype=torch.float64) tensor(7.8584, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.6164, dtype=torch.float64) tensor(0.5359, dtype=torch.float64)
+epoch =  12 batch =  7
+tensor(9.7518, dtype=torch.float64) tensor(7.8779, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.4159, dtype=torch.float64) tensor(0.4579, dtype=torch.float64)
+epoch =  12 batch =  8
+tensor(10.0095, dtype=torch.float64) tensor(7.8012, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.6186, dtype=torch.float64) tensor(0.5895, dtype=torch.float64)
+epoch =  12 batch =  9
+tensor(9.9971, dtype=torch.float64) tensor(7.6682, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.6157, dtype=torch.float64) tensor(0.7131, dtype=torch.float64)
+epoch =  12 batch =  10
+tensor(9.9705, dtype=torch.float64) tensor(7.7955, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.6776, dtype=torch.float64) tensor(0.4972, dtype=torch.float64)
+epoch =  12 batch =  11
+tensor(10.0601, dtype=torch.float64) tensor(7.7259, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.7186, dtype=torch.float64) tensor(0.6155, dtype=torch.float64)
+epoch =  12 batch =  12
+tensor(10.0390, dtype=torch.float64) tensor(7.7808, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.6945, dtype=torch.float64) tensor(0.5636, dtype=torch.float64)
+epoch =  12 batch =  13
+tensor(9.9897, dtype=torch.float64) tensor(7.7924, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.6442, dtype=torch.float64) tensor(0.5530, dtype=torch.float64)
+epoch =  12 batch =  14
+tensor(10.0273, dtype=torch.float64) tensor(7.8271, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.6923, dtype=torch.float64) tensor(0.5077, dtype=torch.float64)
+epoch =  12 batch =  15
+tensor(10.0897, dtype=torch.float64) tensor(7.7809, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.6356, dtype=torch.float64) tensor(0.6730, dtype=torch.float64)
+epoch =  12 batch =  16
+tensor(9.9589, dtype=torch.float64) tensor(7.7786, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.5914, dtype=torch.float64) tensor(0.5888, dtype=torch.float64)
+epoch =  12 batch =  17
+tensor(10.2049, dtype=torch.float64) tensor(7.8899, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.7666, dtype=torch.float64) tensor(0.5483, dtype=torch.float64)
+epoch =  12 batch =  18
+tensor(10.0288, dtype=torch.float64) tensor(7.7011, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.6349, dtype=torch.float64) tensor(0.6927, dtype=torch.float64)
+epoch =  12 batch =  19
+tensor(9.9108, dtype=torch.float64) tensor(7.6356, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.6282, dtype=torch.float64) tensor(0.6469, dtype=torch.float64)
+epoch =  12 batch =  20
+tensor(9.9420, dtype=torch.float64) tensor(7.8099, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.5363, dtype=torch.float64) tensor(0.5956, dtype=torch.float64)
+epoch =  12 batch =  21
+tensor(9.8912, dtype=torch.float64) tensor(7.7464, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.5786, dtype=torch.float64) tensor(0.5660, dtype=torch.float64)
+epoch =  12 batch =  22
+tensor(9.9967, dtype=torch.float64) tensor(7.7780, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.6150, dtype=torch.float64) tensor(0.6036, dtype=torch.float64)
+epoch =  12 batch =  23
+tensor(9.7806, dtype=torch.float64) tensor(7.7187, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.5520, dtype=torch.float64) tensor(0.5098, dtype=torch.float64)
+epoch =  12 batch =  24
+tensor(10.1930, dtype=torch.float64) tensor(7.9369, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.6780, dtype=torch.float64) tensor(0.5779, dtype=torch.float64)
+epoch =  12 batch =  25
+tensor(9.9144, dtype=torch.float64) tensor(7.7334, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.6214, dtype=torch.float64) tensor(0.5595, dtype=torch.float64)
+epoch =  12 batch =  26
+tensor(10.1079, dtype=torch.float64) tensor(7.7817, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.6742, dtype=torch.float64) tensor(0.6519, dtype=torch.float64)
+epoch =  12 batch =  27
+tensor(9.9172, dtype=torch.float64) tensor(7.8610, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.6612, dtype=torch.float64) tensor(0.3949, dtype=torch.float64)
+epoch =  12 batch =  28
+tensor(10.2446, dtype=torch.float64) tensor(7.7576, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.7358, dtype=torch.float64) tensor(0.7511, dtype=torch.float64)
+epoch =  12 batch =  29
+tensor(10.3373, dtype=torch.float64) tensor(7.8048, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.8534, dtype=torch.float64) tensor(0.6789, dtype=torch.float64)
+epoch =  12 batch =  30
+tensor(10.1282, dtype=torch.float64) tensor(7.7577, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.6170, dtype=torch.float64) tensor(0.7534, dtype=torch.float64)
+epoch =  12 batch =  31
+tensor(9.7891, dtype=torch.float64) tensor(7.8141, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.5441, dtype=torch.float64) tensor(0.4308, dtype=torch.float64)
+epoch =  12 batch =  32
+tensor(9.7031, dtype=torch.float64) tensor(7.8955, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.4347, dtype=torch.float64) tensor(0.3727, dtype=torch.float64)
+epoch =  12 batch =  33
+tensor(10.0045, dtype=torch.float64) tensor(7.7798, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.5781, dtype=torch.float64) tensor(0.6465, dtype=torch.float64)
+epoch =  12 batch =  34
+tensor(10.1657, dtype=torch.float64) tensor(7.7617, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.7341, dtype=torch.float64) tensor(0.6699, dtype=torch.float64)
+epoch =  12 batch =  35
+tensor(10.0864, dtype=torch.float64) tensor(7.7802, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.6986, dtype=torch.float64) tensor(0.6074, dtype=torch.float64)
+epoch =  12 batch =  36
+tensor(9.9931, dtype=torch.float64) tensor(7.8129, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.5962, dtype=torch.float64) tensor(0.5839, dtype=torch.float64)
+epoch =  12 batch =  37
+tensor(10.0241, dtype=torch.float64) tensor(7.7164, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.6659, dtype=torch.float64) tensor(0.6418, dtype=torch.float64)
+epoch =  12
+total_loss =  tensor(380.3507, dtype=torch.float64)
+epoch =  13 batch =  0
+tensor(9.9952, dtype=torch.float64) tensor(7.7658, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.6779, dtype=torch.float64) tensor(0.5514, dtype=torch.float64)
+epoch =  13 batch =  1
+tensor(9.8819, dtype=torch.float64) tensor(7.7561, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.5515, dtype=torch.float64) tensor(0.5741, dtype=torch.float64)
+epoch =  13 batch =  2
+tensor(9.9206, dtype=torch.float64) tensor(7.8276, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.5882, dtype=torch.float64) tensor(0.5047, dtype=torch.float64)
+epoch =  13 batch =  3
+tensor(9.8933, dtype=torch.float64) tensor(7.6983, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.5702, dtype=torch.float64) tensor(0.6247, dtype=torch.float64)
+epoch =  13 batch =  4
+tensor(10.1422, dtype=torch.float64) tensor(7.7460, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.7045, dtype=torch.float64) tensor(0.6915, dtype=torch.float64)
+epoch =  13 batch =  5
+tensor(10.1124, dtype=torch.float64) tensor(7.7448, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.6861, dtype=torch.float64) tensor(0.6814, dtype=torch.float64)
+epoch =  13 batch =  6
+tensor(9.8952, dtype=torch.float64) tensor(7.7367, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.6171, dtype=torch.float64) tensor(0.5412, dtype=torch.float64)
+epoch =  13 batch =  7
+tensor(9.7831, dtype=torch.float64) tensor(7.8115, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.4898, dtype=torch.float64) tensor(0.4816, dtype=torch.float64)
+epoch =  13 batch =  8
+tensor(9.9734, dtype=torch.float64) tensor(7.7792, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.5639, dtype=torch.float64) tensor(0.6302, dtype=torch.float64)
+epoch =  13 batch =  9
+tensor(9.9972, dtype=torch.float64) tensor(7.8269, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.5857, dtype=torch.float64) tensor(0.5844, dtype=torch.float64)
+epoch =  13 batch =  10
+tensor(10.1630, dtype=torch.float64) tensor(7.7750, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.6634, dtype=torch.float64) tensor(0.7245, dtype=torch.float64)
+epoch =  13 batch =  11
+tensor(10.0071, dtype=torch.float64) tensor(7.7403, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.5925, dtype=torch.float64) tensor(0.6741, dtype=torch.float64)
+epoch =  13 batch =  12
+tensor(10.0362, dtype=torch.float64) tensor(7.8260, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.6385, dtype=torch.float64) tensor(0.5716, dtype=torch.float64)
+epoch =  13 batch =  13
+tensor(9.9576, dtype=torch.float64) tensor(7.7129, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.6313, dtype=torch.float64) tensor(0.6132, dtype=torch.float64)
+epoch =  13 batch =  14
+tensor(9.6443, dtype=torch.float64) tensor(7.8944, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.3655, dtype=torch.float64) tensor(0.3843, dtype=torch.float64)
+epoch =  13 batch =  15
+tensor(10.0984, dtype=torch.float64) tensor(7.7406, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.7045, dtype=torch.float64) tensor(0.6532, dtype=torch.float64)
+epoch =  13 batch =  16
+tensor(9.8083, dtype=torch.float64) tensor(7.7775, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.5339, dtype=torch.float64) tensor(0.4968, dtype=torch.float64)
+epoch =  13 batch =  17
+tensor(10.1592, dtype=torch.float64) tensor(7.6504, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.7205, dtype=torch.float64) tensor(0.7881, dtype=torch.float64)
+epoch =  13 batch =  18
+tensor(9.9466, dtype=torch.float64) tensor(7.7299, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.5343, dtype=torch.float64) tensor(0.6822, dtype=torch.float64)
+epoch =  13 batch =  19
+tensor(9.9348, dtype=torch.float64) tensor(7.7729, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.6320, dtype=torch.float64) tensor(0.5298, dtype=torch.float64)
+epoch =  13 batch =  20
+tensor(9.7586, dtype=torch.float64) tensor(7.8266, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.4690, dtype=torch.float64) tensor(0.4628, dtype=torch.float64)
+epoch =  13 batch =  21
+tensor(10.2000, dtype=torch.float64) tensor(7.7928, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.7867, dtype=torch.float64) tensor(0.6203, dtype=torch.float64)
+epoch =  13 batch =  22
+tensor(9.9829, dtype=torch.float64) tensor(7.8774, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.6073, dtype=torch.float64) tensor(0.4981, dtype=torch.float64)
+epoch =  13 batch =  23
+tensor(9.9211, dtype=torch.float64) tensor(7.8462, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.5836, dtype=torch.float64) tensor(0.4912, dtype=torch.float64)
+epoch =  13 batch =  24
+tensor(9.8063, dtype=torch.float64) tensor(7.8128, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.5287, dtype=torch.float64) tensor(0.4647, dtype=torch.float64)
+epoch =  13 batch =  25
+tensor(10.2675, dtype=torch.float64) tensor(7.7300, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.8730, dtype=torch.float64) tensor(0.6643, dtype=torch.float64)
+epoch =  13 batch =  26
+tensor(9.9553, dtype=torch.float64) tensor(7.6525, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.6210, dtype=torch.float64) tensor(0.6816, dtype=torch.float64)
+epoch =  13 batch =  27
+tensor(9.9408, dtype=torch.float64) tensor(7.8746, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.6294, dtype=torch.float64) tensor(0.4367, dtype=torch.float64)
+epoch =  13 batch =  28
+tensor(9.7733, dtype=torch.float64) tensor(7.7305, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.5306, dtype=torch.float64) tensor(0.5121, dtype=torch.float64)
+epoch =  13 batch =  29
+tensor(9.8916, dtype=torch.float64) tensor(7.8617, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.5800, dtype=torch.float64) tensor(0.4499, dtype=torch.float64)
+epoch =  13 batch =  30
+tensor(9.8238, dtype=torch.float64) tensor(7.8585, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.5490, dtype=torch.float64) tensor(0.4161, dtype=torch.float64)
+epoch =  13 batch =  31
+tensor(10.0728, dtype=torch.float64) tensor(7.7641, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.6107, dtype=torch.float64) tensor(0.6978, dtype=torch.float64)
+epoch =  13 batch =  32
+tensor(10.0232, dtype=torch.float64) tensor(7.8312, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.6262, dtype=torch.float64) tensor(0.5657, dtype=torch.float64)
+epoch =  13 batch =  33
+tensor(9.8393, dtype=torch.float64) tensor(7.8422, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.4279, dtype=torch.float64) tensor(0.5691, dtype=torch.float64)
+epoch =  13 batch =  34
+tensor(9.8402, dtype=torch.float64) tensor(7.8586, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.4819, dtype=torch.float64) tensor(0.4995, dtype=torch.float64)
+epoch =  13 batch =  35
+tensor(9.8868, dtype=torch.float64) tensor(7.7617, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.5282, dtype=torch.float64) tensor(0.5968, dtype=torch.float64)
+epoch =  13 batch =  36
+tensor(9.8689, dtype=torch.float64) tensor(7.7645, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.4829, dtype=torch.float64) tensor(0.6213, dtype=torch.float64)
+epoch =  13 batch =  37
+tensor(9.8733, dtype=torch.float64) tensor(7.6951, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.5131, dtype=torch.float64) tensor(0.6650, dtype=torch.float64)
+epoch =  13
+total_loss =  tensor(378.0758, dtype=torch.float64)
+epoch =  14 batch =  0
+tensor(9.7622, dtype=torch.float64) tensor(7.6984, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.4735, dtype=torch.float64) tensor(0.5901, dtype=torch.float64)
+epoch =  14 batch =  1
+tensor(9.8573, dtype=torch.float64) tensor(7.6921, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.5372, dtype=torch.float64) tensor(0.6279, dtype=torch.float64)
+epoch =  14 batch =  2
+tensor(9.7298, dtype=torch.float64) tensor(7.7941, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.4987, dtype=torch.float64) tensor(0.4369, dtype=torch.float64)
+epoch =  14 batch =  3
+tensor(9.7762, dtype=torch.float64) tensor(7.7770, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.4714, dtype=torch.float64) tensor(0.5276, dtype=torch.float64)
+epoch =  14 batch =  4
+tensor(9.8924, dtype=torch.float64) tensor(7.7951, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.5598, dtype=torch.float64) tensor(0.5374, dtype=torch.float64)
+epoch =  14 batch =  5
+tensor(9.9198, dtype=torch.float64) tensor(7.8132, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.5858, dtype=torch.float64) tensor(0.5207, dtype=torch.float64)
+epoch =  14 batch =  6
+tensor(9.9204, dtype=torch.float64) tensor(7.8599, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.5902, dtype=torch.float64) tensor(0.4701, dtype=torch.float64)
+epoch =  14 batch =  7
+tensor(9.9149, dtype=torch.float64) tensor(7.7701, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.5487, dtype=torch.float64) tensor(0.5959, dtype=torch.float64)
+epoch =  14 batch =  8
+tensor(9.7818, dtype=torch.float64) tensor(7.7493, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.4901, dtype=torch.float64) tensor(0.5422, dtype=torch.float64)
+epoch =  14 batch =  9
+tensor(9.8562, dtype=torch.float64) tensor(7.7761, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.5899, dtype=torch.float64) tensor(0.4901, dtype=torch.float64)
+epoch =  14 batch =  10
+tensor(9.8635, dtype=torch.float64) tensor(7.7486, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.5631, dtype=torch.float64) tensor(0.5516, dtype=torch.float64)
+epoch =  14 batch =  11
+tensor(9.7815, dtype=torch.float64) tensor(7.8237, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.5079, dtype=torch.float64) tensor(0.4497, dtype=torch.float64)
+epoch =  14 batch =  12
+tensor(10.1149, dtype=torch.float64) tensor(7.8428, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.5899, dtype=torch.float64) tensor(0.6820, dtype=torch.float64)
+epoch =  14 batch =  13
+tensor(10.0124, dtype=torch.float64) tensor(7.8283, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.5858, dtype=torch.float64) tensor(0.5981, dtype=torch.float64)
+epoch =  14 batch =  14
+tensor(9.7006, dtype=torch.float64) tensor(7.7793, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.4146, dtype=torch.float64) tensor(0.5066, dtype=torch.float64)
+epoch =  14 batch =  15
+tensor(9.9940, dtype=torch.float64) tensor(7.6372, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.6952, dtype=torch.float64) tensor(0.6615, dtype=torch.float64)
+epoch =  14 batch =  16
+tensor(10.2759, dtype=torch.float64) tensor(7.7975, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.7495, dtype=torch.float64) tensor(0.7288, dtype=torch.float64)
+epoch =  14 batch =  17
+tensor(10.2569, dtype=torch.float64) tensor(7.7466, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.7969, dtype=torch.float64) tensor(0.7133, dtype=torch.float64)
+epoch =  14 batch =  18
+tensor(9.7768, dtype=torch.float64) tensor(7.8274, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.4977, dtype=torch.float64) tensor(0.4517, dtype=torch.float64)
+epoch =  14 batch =  19
+tensor(9.8530, dtype=torch.float64) tensor(7.8404, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.5201, dtype=torch.float64) tensor(0.4923, dtype=torch.float64)
+epoch =  14 batch =  20
+tensor(9.5233, dtype=torch.float64) tensor(7.8598, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.3207, dtype=torch.float64) tensor(0.3427, dtype=torch.float64)
+epoch =  14 batch =  21
+tensor(9.9503, dtype=torch.float64) tensor(7.7165, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.6517, dtype=torch.float64) tensor(0.5821, dtype=torch.float64)
+epoch =  14 batch =  22
+tensor(10.1048, dtype=torch.float64) tensor(7.7471, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.7146, dtype=torch.float64) tensor(0.6430, dtype=torch.float64)
+epoch =  14 batch =  23
+tensor(10.2079, dtype=torch.float64) tensor(7.7769, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.6685, dtype=torch.float64) tensor(0.7623, dtype=torch.float64)
+epoch =  14 batch =  24
+tensor(9.9837, dtype=torch.float64) tensor(7.8241, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.6078, dtype=torch.float64) tensor(0.5516, dtype=torch.float64)
+epoch =  14 batch =  25
+tensor(10.0495, dtype=torch.float64) tensor(7.7463, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.5881, dtype=torch.float64) tensor(0.7149, dtype=torch.float64)
+epoch =  14 batch =  26
+tensor(9.9778, dtype=torch.float64) tensor(7.7654, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.5955, dtype=torch.float64) tensor(0.6168, dtype=torch.float64)
+epoch =  14 batch =  27
+tensor(9.9541, dtype=torch.float64) tensor(7.7395, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.5169, dtype=torch.float64) tensor(0.6976, dtype=torch.float64)
+epoch =  14 batch =  28
+tensor(9.8164, dtype=torch.float64) tensor(7.7445, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.4310, dtype=torch.float64) tensor(0.6408, dtype=torch.float64)
+epoch =  14 batch =  29
+tensor(9.9478, dtype=torch.float64) tensor(7.8767, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.5874, dtype=torch.float64) tensor(0.4836, dtype=torch.float64)
+epoch =  14 batch =  30
+tensor(9.8712, dtype=torch.float64) tensor(7.7485, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.5905, dtype=torch.float64) tensor(0.5320, dtype=torch.float64)
+epoch =  14 batch =  31
+tensor(9.7948, dtype=torch.float64) tensor(7.8288, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.4392, dtype=torch.float64) tensor(0.5267, dtype=torch.float64)
+epoch =  14 batch =  32
+tensor(9.8315, dtype=torch.float64) tensor(7.7618, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.5080, dtype=torch.float64) tensor(0.5616, dtype=torch.float64)
+epoch =  14 batch =  33
+tensor(9.9214, dtype=torch.float64) tensor(7.7334, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.4974, dtype=torch.float64) tensor(0.6905, dtype=torch.float64)
+epoch =  14 batch =  34
+tensor(9.7398, dtype=torch.float64) tensor(7.7113, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.4735, dtype=torch.float64) tensor(0.5549, dtype=torch.float64)
+epoch =  14 batch =  35
+tensor(9.7447, dtype=torch.float64) tensor(7.8271, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.3654, dtype=torch.float64) tensor(0.5521, dtype=torch.float64)
+epoch =  14 batch =  36
+tensor(9.7171, dtype=torch.float64) tensor(7.9580, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.4378, dtype=torch.float64) tensor(0.3212, dtype=torch.float64)
+epoch =  14 batch =  37
+tensor(10.1994, dtype=torch.float64) tensor(7.7516, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.8716, dtype=torch.float64) tensor(0.5759, dtype=torch.float64)
+epoch =  14
+total_loss =  tensor(376.3763, dtype=torch.float64)
+epoch =  15 batch =  0
+tensor(9.8293, dtype=torch.float64) tensor(7.7158, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.5390, dtype=torch.float64) tensor(0.5743, dtype=torch.float64)
+epoch =  15 batch =  1
+tensor(9.5521, dtype=torch.float64) tensor(7.7717, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.2831, dtype=torch.float64) tensor(0.4972, dtype=torch.float64)
+epoch =  15 batch =  2
+tensor(10.0073, dtype=torch.float64) tensor(7.7909, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.6044, dtype=torch.float64) tensor(0.6118, dtype=torch.float64)
+epoch =  15 batch =  3
+tensor(9.6576, dtype=torch.float64) tensor(7.7647, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.3648, dtype=torch.float64) tensor(0.5280, dtype=torch.float64)
+epoch =  15 batch =  4
+tensor(9.9206, dtype=torch.float64) tensor(7.7154, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.6077, dtype=torch.float64) tensor(0.5974, dtype=torch.float64)
+epoch =  15 batch =  5
+tensor(9.7598, dtype=torch.float64) tensor(7.7933, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.4904, dtype=torch.float64) tensor(0.4759, dtype=torch.float64)
+epoch =  15 batch =  6
+tensor(9.9478, dtype=torch.float64) tensor(7.7126, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.6234, dtype=torch.float64) tensor(0.6117, dtype=torch.float64)
+epoch =  15 batch =  7
+tensor(9.7594, dtype=torch.float64) tensor(7.7805, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.4325, dtype=torch.float64) tensor(0.5463, dtype=torch.float64)
+epoch =  15 batch =  8
+tensor(9.8925, dtype=torch.float64) tensor(7.7311, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.5756, dtype=torch.float64) tensor(0.5857, dtype=torch.float64)
+epoch =  15 batch =  9
+tensor(9.8820, dtype=torch.float64) tensor(7.7641, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.4522, dtype=torch.float64) tensor(0.6655, dtype=torch.float64)
+epoch =  15 batch =  10
+tensor(9.9201, dtype=torch.float64) tensor(7.6681, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.6222, dtype=torch.float64) tensor(0.6298, dtype=torch.float64)
+epoch =  15 batch =  11
+tensor(9.9761, dtype=torch.float64) tensor(7.8449, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.6218, dtype=torch.float64) tensor(0.5093, dtype=torch.float64)
+epoch =  15 batch =  12
+tensor(10.0774, dtype=torch.float64) tensor(7.7011, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.6586, dtype=torch.float64) tensor(0.7175, dtype=torch.float64)
+epoch =  15 batch =  13
+tensor(9.9957, dtype=torch.float64) tensor(7.7969, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.5696, dtype=torch.float64) tensor(0.6291, dtype=torch.float64)
+epoch =  15 batch =  14
+tensor(9.7290, dtype=torch.float64) tensor(7.7758, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.4096, dtype=torch.float64) tensor(0.5434, dtype=torch.float64)
+epoch =  15 batch =  15
+tensor(9.8656, dtype=torch.float64) tensor(7.8443, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.4873, dtype=torch.float64) tensor(0.5338, dtype=torch.float64)
+epoch =  15 batch =  16
+tensor(9.7816, dtype=torch.float64) tensor(7.8118, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.5021, dtype=torch.float64) tensor(0.4676, dtype=torch.float64)
+epoch =  15 batch =  17
+tensor(9.7717, dtype=torch.float64) tensor(7.9238, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.4288, dtype=torch.float64) tensor(0.4190, dtype=torch.float64)
+epoch =  15 batch =  18
+tensor(9.9813, dtype=torch.float64) tensor(7.7257, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.5640, dtype=torch.float64) tensor(0.6914, dtype=torch.float64)
+epoch =  15 batch =  19
+tensor(9.8777, dtype=torch.float64) tensor(7.7817, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.4509, dtype=torch.float64) tensor(0.6450, dtype=torch.float64)
+epoch =  15 batch =  20
+tensor(9.8566, dtype=torch.float64) tensor(7.7986, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.5517, dtype=torch.float64) tensor(0.5062, dtype=torch.float64)
+epoch =  15 batch =  21
+tensor(9.8472, dtype=torch.float64) tensor(7.7761, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.5188, dtype=torch.float64) tensor(0.5522, dtype=torch.float64)
+epoch =  15 batch =  22
+tensor(9.9240, dtype=torch.float64) tensor(7.7924, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.5012, dtype=torch.float64) tensor(0.6303, dtype=torch.float64)
+epoch =  15 batch =  23
+tensor(10.0565, dtype=torch.float64) tensor(7.7336, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.6995, dtype=torch.float64) tensor(0.6234, dtype=torch.float64)
+epoch =  15 batch =  24
+tensor(9.8777, dtype=torch.float64) tensor(7.7332, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.5695, dtype=torch.float64) tensor(0.5750, dtype=torch.float64)
+epoch =  15 batch =  25
+tensor(9.7416, dtype=torch.float64) tensor(7.7655, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.4980, dtype=torch.float64) tensor(0.4779, dtype=torch.float64)
+epoch =  15 batch =  26
+tensor(9.8080, dtype=torch.float64) tensor(7.8867, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.4938, dtype=torch.float64) tensor(0.4274, dtype=torch.float64)
+epoch =  15 batch =  27
+tensor(9.7536, dtype=torch.float64) tensor(7.7562, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.4376, dtype=torch.float64) tensor(0.5597, dtype=torch.float64)
+epoch =  15 batch =  28
+tensor(9.8827, dtype=torch.float64) tensor(7.7939, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.4858, dtype=torch.float64) tensor(0.6028, dtype=torch.float64)
+epoch =  15 batch =  29
+tensor(9.7825, dtype=torch.float64) tensor(7.7456, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.5073, dtype=torch.float64) tensor(0.5294, dtype=torch.float64)
+epoch =  15 batch =  30
+tensor(9.6945, dtype=torch.float64) tensor(7.8432, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.4736, dtype=torch.float64) tensor(0.3776, dtype=torch.float64)
+epoch =  15 batch =  31
+tensor(9.5844, dtype=torch.float64) tensor(7.8458, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.3002, dtype=torch.float64) tensor(0.4382, dtype=torch.float64)
+epoch =  15 batch =  32
+tensor(9.9426, dtype=torch.float64) tensor(7.7290, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.5785, dtype=torch.float64) tensor(0.6350, dtype=torch.float64)
+epoch =  15 batch =  33
+tensor(10.0073, dtype=torch.float64) tensor(7.8377, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.5935, dtype=torch.float64) tensor(0.5760, dtype=torch.float64)
+epoch =  15 batch =  34
+tensor(9.8287, dtype=torch.float64) tensor(7.7809, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.5081, dtype=torch.float64) tensor(0.5396, dtype=torch.float64)
+epoch =  15 batch =  35
+tensor(9.6617, dtype=torch.float64) tensor(7.8386, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.4030, dtype=torch.float64) tensor(0.4200, dtype=torch.float64)
+epoch =  15 batch =  36
+tensor(9.6872, dtype=torch.float64) tensor(7.8608, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.4355, dtype=torch.float64) tensor(0.3907, dtype=torch.float64)
+epoch =  15 batch =  37
+tensor(9.9105, dtype=torch.float64) tensor(7.7905, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.6128, dtype=torch.float64) tensor(0.5070, dtype=torch.float64)
+epoch =  15
+total_loss =  tensor(374.0317, dtype=torch.float64)
+epoch =  16 batch =  0
+tensor(9.7048, dtype=torch.float64) tensor(7.7162, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.4277, dtype=torch.float64) tensor(0.5608, dtype=torch.float64)
+epoch =  16 batch =  1
+tensor(9.6948, dtype=torch.float64) tensor(7.7810, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.4646, dtype=torch.float64) tensor(0.4491, dtype=torch.float64)
+epoch =  16 batch =  2
+tensor(9.8488, dtype=torch.float64) tensor(7.8278, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.5125, dtype=torch.float64) tensor(0.5084, dtype=torch.float64)
+epoch =  16 batch =  3
+tensor(9.8610, dtype=torch.float64) tensor(7.7316, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.5498, dtype=torch.float64) tensor(0.5794, dtype=torch.float64)
+epoch =  16 batch =  4
+tensor(9.6015, dtype=torch.float64) tensor(7.7906, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.3748, dtype=torch.float64) tensor(0.4359, dtype=torch.float64)
+epoch =  16 batch =  5
+tensor(9.8559, dtype=torch.float64) tensor(7.7497, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.5740, dtype=torch.float64) tensor(0.5320, dtype=torch.float64)
+epoch =  16 batch =  6
+tensor(9.9478, dtype=torch.float64) tensor(7.7131, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.6226, dtype=torch.float64) tensor(0.6120, dtype=torch.float64)
+epoch =  16 batch =  7
+tensor(9.7336, dtype=torch.float64) tensor(7.8094, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.4775, dtype=torch.float64) tensor(0.4465, dtype=torch.float64)
+epoch =  16 batch =  8
+tensor(9.7722, dtype=torch.float64) tensor(7.7444, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.4908, dtype=torch.float64) tensor(0.5369, dtype=torch.float64)
+epoch =  16 batch =  9
+tensor(9.7530, dtype=torch.float64) tensor(7.7536, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.4491, dtype=torch.float64) tensor(0.5502, dtype=torch.float64)
+epoch =  16 batch =  10
+tensor(9.8134, dtype=torch.float64) tensor(7.7462, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.4872, dtype=torch.float64) tensor(0.5799, dtype=torch.float64)
+epoch =  16 batch =  11
+tensor(9.6603, dtype=torch.float64) tensor(7.8924, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.3143, dtype=torch.float64) tensor(0.4535, dtype=torch.float64)
+epoch =  16 batch =  12
+tensor(9.8729, dtype=torch.float64) tensor(7.7952, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.5236, dtype=torch.float64) tensor(0.5539, dtype=torch.float64)
+epoch =  16 batch =  13
+tensor(9.8331, dtype=torch.float64) tensor(7.7440, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.4123, dtype=torch.float64) tensor(0.6766, dtype=torch.float64)
+epoch =  16 batch =  14
+tensor(9.6720, dtype=torch.float64) tensor(7.8272, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.4060, dtype=torch.float64) tensor(0.4387, dtype=torch.float64)
+epoch =  16 batch =  15
+tensor(9.9631, dtype=torch.float64) tensor(7.6727, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.6310, dtype=torch.float64) tensor(0.6593, dtype=torch.float64)
+epoch =  16 batch =  16
+tensor(9.7957, dtype=torch.float64) tensor(7.7801, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.4337, dtype=torch.float64) tensor(0.5818, dtype=torch.float64)
+epoch =  16 batch =  17
+tensor(9.8935, dtype=torch.float64) tensor(7.7306, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.5888, dtype=torch.float64) tensor(0.5740, dtype=torch.float64)
+epoch =  16 batch =  18
+tensor(9.7356, dtype=torch.float64) tensor(7.7812, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.4199, dtype=torch.float64) tensor(0.5344, dtype=torch.float64)
+epoch =  16 batch =  19
+tensor(9.8701, dtype=torch.float64) tensor(7.7308, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.5201, dtype=torch.float64) tensor(0.6190, dtype=torch.float64)
+epoch =  16 batch =  20
+tensor(9.6761, dtype=torch.float64) tensor(7.8280, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.3835, dtype=torch.float64) tensor(0.4644, dtype=torch.float64)
+epoch =  16 batch =  21
+tensor(9.8820, dtype=torch.float64) tensor(7.8407, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.5431, dtype=torch.float64) tensor(0.4981, dtype=torch.float64)
+epoch =  16 batch =  22
+tensor(9.7929, dtype=torch.float64) tensor(7.8070, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.4659, dtype=torch.float64) tensor(0.5198, dtype=torch.float64)
+epoch =  16 batch =  23
+tensor(9.4456, dtype=torch.float64) tensor(7.8764, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.2652, dtype=torch.float64) tensor(0.3039, dtype=torch.float64)
+epoch =  16 batch =  24
+tensor(9.8559, dtype=torch.float64) tensor(7.8092, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.4952, dtype=torch.float64) tensor(0.5514, dtype=torch.float64)
+epoch =  16 batch =  25
+tensor(9.6313, dtype=torch.float64) tensor(7.8557, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.4376, dtype=torch.float64) tensor(0.3379, dtype=torch.float64)
+epoch =  16 batch =  26
+tensor(9.9553, dtype=torch.float64) tensor(7.9103, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.5667, dtype=torch.float64) tensor(0.4782, dtype=torch.float64)
+epoch =  16 batch =  27
+tensor(9.8684, dtype=torch.float64) tensor(7.8437, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.4829, dtype=torch.float64) tensor(0.5416, dtype=torch.float64)
+epoch =  16 batch =  28
+tensor(9.8332, dtype=torch.float64) tensor(7.7765, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.5637, dtype=torch.float64) tensor(0.4929, dtype=torch.float64)
+epoch =  16 batch =  29
+tensor(9.8316, dtype=torch.float64) tensor(7.8257, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.4778, dtype=torch.float64) tensor(0.5279, dtype=torch.float64)
+epoch =  16 batch =  30
+tensor(9.9456, dtype=torch.float64) tensor(7.8109, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.6175, dtype=torch.float64) tensor(0.5171, dtype=torch.float64)
+epoch =  16 batch =  31
+tensor(9.8004, dtype=torch.float64) tensor(7.7588, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.4310, dtype=torch.float64) tensor(0.6103, dtype=torch.float64)
+epoch =  16 batch =  32
+tensor(9.8385, dtype=torch.float64) tensor(7.8071, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.4991, dtype=torch.float64) tensor(0.5322, dtype=torch.float64)
+epoch =  16 batch =  33
+tensor(9.8317, dtype=torch.float64) tensor(7.8097, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.4953, dtype=torch.float64) tensor(0.5265, dtype=torch.float64)
+epoch =  16 batch =  34
+tensor(9.6948, dtype=torch.float64) tensor(7.8101, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.3923, dtype=torch.float64) tensor(0.4923, dtype=torch.float64)
+epoch =  16 batch =  35
+tensor(9.8394, dtype=torch.float64) tensor(7.6986, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.4709, dtype=torch.float64) tensor(0.6697, dtype=torch.float64)
+epoch =  16 batch =  36
+tensor(9.7991, dtype=torch.float64) tensor(7.6219, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.5233, dtype=torch.float64) tensor(0.6539, dtype=torch.float64)
+epoch =  16 batch =  37
+tensor(9.8874, dtype=torch.float64) tensor(7.6728, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.5427, dtype=torch.float64) tensor(0.6718, dtype=torch.float64)
+epoch =  16
+total_loss =  tensor(372.2922, dtype=torch.float64)
+epoch =  17 batch =  0
+tensor(9.7327, dtype=torch.float64) tensor(7.8874, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.4372, dtype=torch.float64) tensor(0.4079, dtype=torch.float64)
+epoch =  17 batch =  1
+tensor(9.9214, dtype=torch.float64) tensor(7.7300, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.5767, dtype=torch.float64) tensor(0.6146, dtype=torch.float64)
+epoch =  17 batch =  2
+tensor(9.7307, dtype=torch.float64) tensor(7.7866, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.4737, dtype=torch.float64) tensor(0.4703, dtype=torch.float64)
+epoch =  17 batch =  3
+tensor(9.6111, dtype=torch.float64) tensor(7.8896, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.3347, dtype=torch.float64) tensor(0.3866, dtype=torch.float64)
+epoch =  17 batch =  4
+tensor(9.5914, dtype=torch.float64) tensor(7.7111, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.3190, dtype=torch.float64) tensor(0.5610, dtype=torch.float64)
+epoch =  17 batch =  5
+tensor(9.8008, dtype=torch.float64) tensor(7.7905, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.4723, dtype=torch.float64) tensor(0.5378, dtype=torch.float64)
+epoch =  17 batch =  6
+tensor(9.9684, dtype=torch.float64) tensor(7.6846, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.4982, dtype=torch.float64) tensor(0.7855, dtype=torch.float64)
+epoch =  17 batch =  7
+tensor(9.7903, dtype=torch.float64) tensor(7.7637, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.4548, dtype=torch.float64) tensor(0.5718, dtype=torch.float64)
+epoch =  17 batch =  8
+tensor(9.8493, dtype=torch.float64) tensor(7.7279, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.5089, dtype=torch.float64) tensor(0.6123, dtype=torch.float64)
+epoch =  17 batch =  9
+tensor(9.7270, dtype=torch.float64) tensor(7.8245, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.3923, dtype=torch.float64) tensor(0.5100, dtype=torch.float64)
+epoch =  17 batch =  10
+tensor(9.8497, dtype=torch.float64) tensor(7.7618, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.4901, dtype=torch.float64) tensor(0.5977, dtype=torch.float64)
+epoch =  17 batch =  11
+tensor(9.8447, dtype=torch.float64) tensor(7.7411, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.4695, dtype=torch.float64) tensor(0.6340, dtype=torch.float64)
+epoch =  17 batch =  12
+tensor(9.7640, dtype=torch.float64) tensor(7.6823, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.5138, dtype=torch.float64) tensor(0.5678, dtype=torch.float64)
+epoch =  17 batch =  13
+tensor(9.5472, dtype=torch.float64) tensor(7.7814, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.3159, dtype=torch.float64) tensor(0.4497, dtype=torch.float64)
+epoch =  17 batch =  14
+tensor(9.9784, dtype=torch.float64) tensor(7.7119, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.6274, dtype=torch.float64) tensor(0.6390, dtype=torch.float64)
+epoch =  17 batch =  15
+tensor(9.7363, dtype=torch.float64) tensor(7.8434, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.3783, dtype=torch.float64) tensor(0.5145, dtype=torch.float64)
+epoch =  17 batch =  16
+tensor(9.8862, dtype=torch.float64) tensor(7.7661, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.4553, dtype=torch.float64) tensor(0.6648, dtype=torch.float64)
+epoch =  17 batch =  17
+tensor(9.7656, dtype=torch.float64) tensor(7.7940, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.4984, dtype=torch.float64) tensor(0.4731, dtype=torch.float64)
+epoch =  17 batch =  18
+tensor(9.6616, dtype=torch.float64) tensor(7.8452, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.3757, dtype=torch.float64) tensor(0.4406, dtype=torch.float64)
+epoch =  17 batch =  19
+tensor(9.8337, dtype=torch.float64) tensor(7.7442, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.5170, dtype=torch.float64) tensor(0.5724, dtype=torch.float64)
+epoch =  17 batch =  20
+tensor(9.7124, dtype=torch.float64) tensor(7.7248, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.4648, dtype=torch.float64) tensor(0.5227, dtype=torch.float64)
+epoch =  17 batch =  21
+tensor(9.5960, dtype=torch.float64) tensor(7.7943, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.3555, dtype=torch.float64) tensor(0.4462, dtype=torch.float64)
+epoch =  17 batch =  22
+tensor(9.3359, dtype=torch.float64) tensor(7.8004, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.1663, dtype=torch.float64) tensor(0.3691, dtype=torch.float64)
+epoch =  17 batch =  23
+tensor(9.8358, dtype=torch.float64) tensor(7.8282, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.4931, dtype=torch.float64) tensor(0.5144, dtype=torch.float64)
+epoch =  17 batch =  24
+tensor(9.7586, dtype=torch.float64) tensor(7.8769, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.4705, dtype=torch.float64) tensor(0.4111, dtype=torch.float64)
+epoch =  17 batch =  25
+tensor(9.7205, dtype=torch.float64) tensor(7.8614, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.4485, dtype=torch.float64) tensor(0.4105, dtype=torch.float64)
+epoch =  17 batch =  26
+tensor(9.8201, dtype=torch.float64) tensor(7.7657, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.4759, dtype=torch.float64) tensor(0.5784, dtype=torch.float64)
+epoch =  17 batch =  27
+tensor(9.8111, dtype=torch.float64) tensor(7.8592, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.5055, dtype=torch.float64) tensor(0.4464, dtype=torch.float64)
+epoch =  17 batch =  28
+tensor(9.9915, dtype=torch.float64) tensor(7.5852, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.6615, dtype=torch.float64) tensor(0.7447, dtype=torch.float64)
+epoch =  17 batch =  29
+tensor(10.0045, dtype=torch.float64) tensor(7.8595, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.5558, dtype=torch.float64) tensor(0.5890, dtype=torch.float64)
+epoch =  17 batch =  30
+tensor(9.7011, dtype=torch.float64) tensor(7.8092, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.4376, dtype=torch.float64) tensor(0.4542, dtype=torch.float64)
+epoch =  17 batch =  31
+tensor(9.6268, dtype=torch.float64) tensor(7.7714, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.4353, dtype=torch.float64) tensor(0.4200, dtype=torch.float64)
+epoch =  17 batch =  32
+tensor(9.8259, dtype=torch.float64) tensor(7.7791, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.5262, dtype=torch.float64) tensor(0.5205, dtype=torch.float64)
+epoch =  17 batch =  33
+tensor(9.6455, dtype=torch.float64) tensor(7.7072, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.3715, dtype=torch.float64) tensor(0.5668, dtype=torch.float64)
+epoch =  17 batch =  34
+tensor(9.6622, dtype=torch.float64) tensor(7.8433, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.4175, dtype=torch.float64) tensor(0.4012, dtype=torch.float64)
+epoch =  17 batch =  35
+tensor(9.7260, dtype=torch.float64) tensor(7.7638, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.4820, dtype=torch.float64) tensor(0.4801, dtype=torch.float64)
+epoch =  17 batch =  36
+tensor(9.6006, dtype=torch.float64) tensor(7.8275, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.3699, dtype=torch.float64) tensor(0.4030, dtype=torch.float64)
+epoch =  17 batch =  37
+tensor(9.6084, dtype=torch.float64) tensor(7.7882, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.3852, dtype=torch.float64) tensor(0.4349, dtype=torch.float64)
+epoch =  17
+total_loss =  tensor(370.5739, dtype=torch.float64)
+epoch =  18 batch =  0
+tensor(9.7848, dtype=torch.float64) tensor(7.7470, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.5609, dtype=torch.float64) tensor(0.4767, dtype=torch.float64)
+epoch =  18 batch =  1
+tensor(9.5047, dtype=torch.float64) tensor(7.8773, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.2212, dtype=torch.float64) tensor(0.4061, dtype=torch.float64)
+epoch =  18 batch =  2
+tensor(9.5075, dtype=torch.float64) tensor(7.8733, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.2915, dtype=torch.float64) tensor(0.3425, dtype=torch.float64)
+epoch =  18 batch =  3
+tensor(9.9160, dtype=torch.float64) tensor(7.7941, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.6124, dtype=torch.float64) tensor(0.5095, dtype=torch.float64)
+epoch =  18 batch =  4
+tensor(9.8566, dtype=torch.float64) tensor(7.7650, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.5014, dtype=torch.float64) tensor(0.5901, dtype=torch.float64)
+epoch =  18 batch =  5
+tensor(9.9079, dtype=torch.float64) tensor(7.7466, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.4651, dtype=torch.float64) tensor(0.6961, dtype=torch.float64)
+epoch =  18 batch =  6
+tensor(9.7118, dtype=torch.float64) tensor(7.8113, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.3673, dtype=torch.float64) tensor(0.5330, dtype=torch.float64)
+epoch =  18 batch =  7
+tensor(10.0090, dtype=torch.float64) tensor(7.6628, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.7215, dtype=torch.float64) tensor(0.6245, dtype=torch.float64)
+epoch =  18 batch =  8
+tensor(9.6832, dtype=torch.float64) tensor(7.7309, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.3550, dtype=torch.float64) tensor(0.5972, dtype=torch.float64)
+epoch =  18 batch =  9
+tensor(9.6747, dtype=torch.float64) tensor(7.7448, dtype=torch.float64) tensor(0.0002, dtype=torch.float64) tensor(1.3820, dtype=torch.float64) tensor(0.5477, dtype=torch.float64)
+epoch =  18 batch =  10
+tensor(9.9287, dtype=torch.float64) tensor(7.7781, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.5662, dtype=torch.float64) tensor(0.5842, dtype=torch.float64)
+epoch =  18 batch =  11
+tensor(9.9080, dtype=torch.float64) tensor(7.7967, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.4273, dtype=torch.float64) tensor(0.6839, dtype=torch.float64)
+epoch =  18 batch =  12
+tensor(9.7260, dtype=torch.float64) tensor(7.8548, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.3913, dtype=torch.float64) tensor(0.4798, dtype=torch.float64)
+epoch =  18 batch =  13
+tensor(9.4956, dtype=torch.float64) tensor(7.7789, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.3122, dtype=torch.float64) tensor(0.4043, dtype=torch.float64)
+epoch =  18 batch =  14
+tensor(9.9212, dtype=torch.float64) tensor(7.7445, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.5929, dtype=torch.float64) tensor(0.5838, dtype=torch.float64)
+epoch =  18 batch =  15
+tensor(9.4813, dtype=torch.float64) tensor(7.7796, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.2899, dtype=torch.float64) tensor(0.4117, dtype=torch.float64)
+epoch =  18 batch =  16
+tensor(9.7172, dtype=torch.float64) tensor(7.7320, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.4179, dtype=torch.float64) tensor(0.5671, dtype=torch.float64)
+epoch =  18 batch =  17
+tensor(9.5455, dtype=torch.float64) tensor(7.8040, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.3111, dtype=torch.float64) tensor(0.4302, dtype=torch.float64)
+epoch =  18 batch =  18
+tensor(9.6839, dtype=torch.float64) tensor(7.8256, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.2636, dtype=torch.float64) tensor(0.5945, dtype=torch.float64)
+epoch =  18 batch =  19
+tensor(9.5241, dtype=torch.float64) tensor(7.8281, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.3586, dtype=torch.float64) tensor(0.3373, dtype=torch.float64)
+epoch =  18 batch =  20
+tensor(9.7002, dtype=torch.float64) tensor(7.8096, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.4360, dtype=torch.float64) tensor(0.4545, dtype=torch.float64)
+epoch =  18 batch =  21
+tensor(9.5166, dtype=torch.float64) tensor(7.7479, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.3041, dtype=torch.float64) tensor(0.4644, dtype=torch.float64)
+epoch =  18 batch =  22
+tensor(9.5007, dtype=torch.float64) tensor(7.7793, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.2849, dtype=torch.float64) tensor(0.4364, dtype=torch.float64)
+epoch =  18 batch =  23
+tensor(9.7314, dtype=torch.float64) tensor(7.8371, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.4924, dtype=torch.float64) tensor(0.4018, dtype=torch.float64)
+epoch =  18 batch =  24
+tensor(9.9715, dtype=torch.float64) tensor(7.7919, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.5929, dtype=torch.float64) tensor(0.5865, dtype=torch.float64)
+epoch =  18 batch =  25
+tensor(9.7221, dtype=torch.float64) tensor(7.7632, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.4286, dtype=torch.float64) tensor(0.5302, dtype=torch.float64)
+epoch =  18 batch =  26
+tensor(9.6763, dtype=torch.float64) tensor(7.7297, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.4400, dtype=torch.float64) tensor(0.5065, dtype=torch.float64)
+epoch =  18 batch =  27
+tensor(9.7471, dtype=torch.float64) tensor(7.7466, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.4290, dtype=torch.float64) tensor(0.5714, dtype=torch.float64)
+epoch =  18 batch =  28
+tensor(9.6537, dtype=torch.float64) tensor(7.8263, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.3532, dtype=torch.float64) tensor(0.4740, dtype=torch.float64)
+epoch =  18 batch =  29
+tensor(9.7348, dtype=torch.float64) tensor(7.7471, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.4211, dtype=torch.float64) tensor(0.5665, dtype=torch.float64)
+epoch =  18 batch =  30
+tensor(9.6900, dtype=torch.float64) tensor(7.8283, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.4484, dtype=torch.float64) tensor(0.4133, dtype=torch.float64)
+epoch =  18 batch =  31
+tensor(9.6310, dtype=torch.float64) tensor(7.7810, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.3593, dtype=torch.float64) tensor(0.4906, dtype=torch.float64)
+epoch =  18 batch =  32
+tensor(9.9346, dtype=torch.float64) tensor(7.7626, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.6219, dtype=torch.float64) tensor(0.5500, dtype=torch.float64)
+epoch =  18 batch =  33
+tensor(9.5926, dtype=torch.float64) tensor(7.8606, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.3443, dtype=torch.float64) tensor(0.3877, dtype=torch.float64)
+epoch =  18 batch =  34
+tensor(9.6236, dtype=torch.float64) tensor(7.7186, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.4039, dtype=torch.float64) tensor(0.5010, dtype=torch.float64)
+epoch =  18 batch =  35
+tensor(9.7491, dtype=torch.float64) tensor(7.7637, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.5167, dtype=torch.float64) tensor(0.4686, dtype=torch.float64)
+epoch =  18 batch =  36
+tensor(9.6493, dtype=torch.float64) tensor(7.7640, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.3872, dtype=torch.float64) tensor(0.4980, dtype=torch.float64)
+epoch =  18 batch =  37
+tensor(9.8312, dtype=torch.float64) tensor(7.7661, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.5661, dtype=torch.float64) tensor(0.4989, dtype=torch.float64)
+epoch =  18
+total_loss =  tensor(369.1437, dtype=torch.float64)
+epoch =  19 batch =  0
+tensor(9.8898, dtype=torch.float64) tensor(7.7321, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.5114, dtype=torch.float64) tensor(0.6462, dtype=torch.float64)
+epoch =  19 batch =  1
+tensor(9.7333, dtype=torch.float64) tensor(7.8112, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.4452, dtype=torch.float64) tensor(0.4768, dtype=torch.float64)
+epoch =  19 batch =  2
+tensor(9.5589, dtype=torch.float64) tensor(7.7627, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.3807, dtype=torch.float64) tensor(0.4153, dtype=torch.float64)
+epoch =  19 batch =  3
+tensor(9.5551, dtype=torch.float64) tensor(7.8435, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.2790, dtype=torch.float64) tensor(0.4325, dtype=torch.float64)
+epoch =  19 batch =  4
+tensor(9.5801, dtype=torch.float64) tensor(7.7308, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.3181, dtype=torch.float64) tensor(0.5312, dtype=torch.float64)
+epoch =  19 batch =  5
+tensor(9.5210, dtype=torch.float64) tensor(7.7969, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.3009, dtype=torch.float64) tensor(0.4230, dtype=torch.float64)
+epoch =  19 batch =  6
+tensor(9.8102, dtype=torch.float64) tensor(7.8083, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.4464, dtype=torch.float64) tensor(0.5554, dtype=torch.float64)
+epoch =  19 batch =  7
+tensor(9.7161, dtype=torch.float64) tensor(7.7782, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.4870, dtype=torch.float64) tensor(0.4507, dtype=torch.float64)
+epoch =  19 batch =  8
+tensor(9.6676, dtype=torch.float64) tensor(7.7967, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.4105, dtype=torch.float64) tensor(0.4602, dtype=torch.float64)
+epoch =  19 batch =  9
+tensor(9.4879, dtype=torch.float64) tensor(7.8083, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.2308, dtype=torch.float64) tensor(0.4487, dtype=torch.float64)
+epoch =  19 batch =  10
+tensor(9.4181, dtype=torch.float64) tensor(7.6654, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.2504, dtype=torch.float64) tensor(0.5022, dtype=torch.float64)
+epoch =  19 batch =  11
+tensor(9.6766, dtype=torch.float64) tensor(7.7792, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.4187, dtype=torch.float64) tensor(0.4786, dtype=torch.float64)
+epoch =  19 batch =  12
+tensor(9.6544, dtype=torch.float64) tensor(7.8260, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.3986, dtype=torch.float64) tensor(0.4297, dtype=torch.float64)
+epoch =  19 batch =  13
+tensor(9.5889, dtype=torch.float64) tensor(7.8017, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.3794, dtype=torch.float64) tensor(0.4077, dtype=torch.float64)
+epoch =  19 batch =  14
+tensor(9.6336, dtype=torch.float64) tensor(7.6677, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.4020, dtype=torch.float64) tensor(0.5638, dtype=torch.float64)
+epoch =  19 batch =  15
+tensor(9.5923, dtype=torch.float64) tensor(7.7343, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.3905, dtype=torch.float64) tensor(0.4674, dtype=torch.float64)
+epoch =  19 batch =  16
+tensor(9.5014, dtype=torch.float64) tensor(7.8258, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.2895, dtype=torch.float64) tensor(0.3860, dtype=torch.float64)
+epoch =  19 batch =  17
+tensor(9.5978, dtype=torch.float64) tensor(7.7947, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.3464, dtype=torch.float64) tensor(0.4566, dtype=torch.float64)
+epoch =  19 batch =  18
+tensor(9.6672, dtype=torch.float64) tensor(7.7007, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.4034, dtype=torch.float64) tensor(0.5629, dtype=torch.float64)
+epoch =  19 batch =  19
+tensor(9.6682, dtype=torch.float64) tensor(7.8287, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.3908, dtype=torch.float64) tensor(0.4486, dtype=torch.float64)
+epoch =  19 batch =  20
+tensor(9.5926, dtype=torch.float64) tensor(7.7658, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.3369, dtype=torch.float64) tensor(0.4898, dtype=torch.float64)
+epoch =  19 batch =  21
+tensor(9.7517, dtype=torch.float64) tensor(7.8444, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.5178, dtype=torch.float64) tensor(0.3893, dtype=torch.float64)
+epoch =  19 batch =  22
+tensor(9.7630, dtype=torch.float64) tensor(7.7947, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.5529, dtype=torch.float64) tensor(0.4152, dtype=torch.float64)
+epoch =  19 batch =  23
+tensor(9.9655, dtype=torch.float64) tensor(7.8315, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.6079, dtype=torch.float64) tensor(0.5261, dtype=torch.float64)
+epoch =  19 batch =  24
+tensor(10.0900, dtype=torch.float64) tensor(7.8172, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.7370, dtype=torch.float64) tensor(0.5357, dtype=torch.float64)
+epoch =  19 batch =  25
+tensor(9.6652, dtype=torch.float64) tensor(7.8241, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.2723, dtype=torch.float64) tensor(0.5687, dtype=torch.float64)
+epoch =  19 batch =  26
+tensor(9.6302, dtype=torch.float64) tensor(7.7813, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.3450, dtype=torch.float64) tensor(0.5037, dtype=torch.float64)
+epoch =  19 batch =  27
+tensor(9.6016, dtype=torch.float64) tensor(7.8629, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.3726, dtype=torch.float64) tensor(0.3660, dtype=torch.float64)
+epoch =  19 batch =  28
+tensor(9.9319, dtype=torch.float64) tensor(7.8067, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.4567, dtype=torch.float64) tensor(0.6684, dtype=torch.float64)
+epoch =  19 batch =  29
+tensor(9.6953, dtype=torch.float64) tensor(7.7533, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.4269, dtype=torch.float64) tensor(0.5149, dtype=torch.float64)
+epoch =  19 batch =  30
+tensor(9.9186, dtype=torch.float64) tensor(7.7136, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.5781, dtype=torch.float64) tensor(0.6267, dtype=torch.float64)
+epoch =  19 batch =  31
+tensor(9.8897, dtype=torch.float64) tensor(7.7957, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.4418, dtype=torch.float64) tensor(0.6520, dtype=torch.float64)
+epoch =  19 batch =  32
+tensor(9.7793, dtype=torch.float64) tensor(7.7090, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.4778, dtype=torch.float64) tensor(0.5924, dtype=torch.float64)
+epoch =  19 batch =  33
+tensor(9.7372, dtype=torch.float64) tensor(7.7075, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.3907, dtype=torch.float64) tensor(0.6389, dtype=torch.float64)
+epoch =  19 batch =  34
+tensor(9.8302, dtype=torch.float64) tensor(7.7151, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.4933, dtype=torch.float64) tensor(0.6217, dtype=torch.float64)
+epoch =  19 batch =  35
+tensor(9.7481, dtype=torch.float64) tensor(7.7806, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.4577, dtype=torch.float64) tensor(0.5097, dtype=torch.float64)
+epoch =  19 batch =  36
+tensor(9.6822, dtype=torch.float64) tensor(7.8738, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.3890, dtype=torch.float64) tensor(0.4193, dtype=torch.float64)
+epoch =  19 batch =  37
+tensor(9.5299, dtype=torch.float64) tensor(7.8506, dtype=torch.float64) tensor(0.0001, dtype=torch.float64) tensor(1.3649, dtype=torch.float64) tensor(0.3143, dtype=torch.float64)
+/usr/lib/python3.5/importlib/_bootstrap.py:222: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  return f(*args, **kwds)
+/usr/lib/python3.5/importlib/_bootstrap.py:222: RuntimeWarning: numpy.dtype size changed, may indicate binary incompatibility. Expected 96, got 88
+  return f(*args, **kwds)
+epoch =  19
+total_loss =  tensor(368.3210, dtype=torch.float64)
+Traceback (most recent call last):
+  File "semi_60_two_layer_double_class_pinv.py", line 118, in <module>
+    inputs, label1, label2 = dataset[i]
+ValueError: too many values to unpack (expected 3)
